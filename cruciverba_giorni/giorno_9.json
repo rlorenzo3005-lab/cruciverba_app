@@ -1,0 +1,61 @@
+{
+  "title": "Cruciverba: Cultura Generale",
+  "size": "15x15",
+  "grid": [
+    "E T A # # F A L C O # # R # V",
+    "# E # D # U # E # # # P A N E",
+    "I M P E R O # O R S O # N # N",
+    "# P # S # C # N # # # # A # E",
+    "S O L E # O M E R O # A # # Z",
+    "P # # R # # # # # # # L # # I",
+    "O # # T # N # # # L # P E R A",
+    "R # # O L I M P I A D I # # #",
+    "T # P # # L # # # T # # M # #",
+    "# V E N T O # # A T O M O # #",
+    "A # S # # # # # # E # # N # #",
+    "R # C # C I E L O # L # T # M",
+    "I D E A # # U # R # U # E R A",
+    "A # # L # # R # A # C # # # R",
+    "# # # A N N O # # T E V E R E"
+  ],
+  "clues": {
+    "across": {
+      "1": "Numero di anni di una persona",
+      "3": "Rapace veloce usato in falconeria",
+      "8": "Alimento base fatto con farina e acqua",
+      "9": "Vasto territorio governato da un imperatore",
+      "10": "Grande mammifero plantigrado",
+      "11": "Stella al centro del sistema solare",
+      "12": "Autore dell'Iliade e dell'Odissea",
+      "16": "Frutto dolce dalla caratteristica forma allungata",
+      "17": "Grandi giochi sportivi internazionali",
+      "20": "Aria in movimento",
+      "21": "Unità fondamentale della materia",
+      "23": "Ciò che vediamo sopra di noi, azzurro di giorno",
+      "28": "Pensiero o intuizione della mente",
+      "30": "Lungo periodo storico o geologico",
+      "31": "Periodo di dodici mesi",
+      "32": "Fiume che attraversa Roma"
+    },
+    "down": {
+      "2": "Grandezza fisica misurata dagli orologi",
+      "3": "Elemento che produce calore e luce",
+      "4": "Il re della savana africana",
+      "5": "Anfibio che gracida negli stagni",
+      "6": "Città costruita su isole e canali",
+      "7": "Zona arida come il Sahara",
+      "11": "Attività fisica competitiva",
+      "13": "Catena montuosa che separa l'Italia dal resto d'Europa",
+      "14": "Fiume più lungo d'Africa",
+      "15": "Bevanda bianca prodotta dalle mucche",
+      "18": "Animale acquatico che respira con le branchie",
+      "19": "Rilievo naturale della crosta terrestre",
+      "22": "Elemento gassoso che respiriamo",
+      "24": "Moneta unica di molti paesi europei",
+      "25": "Unità di misura del tempo, sessanta minuti",
+      "26": "Ciò che permette di vedere, emessa dal sole",
+      "27": "Distesa d'acqua salata più piccola dell'oceano",
+      "29": "Arto usato dagli uccelli per volare"
+    }
+  }
+}
