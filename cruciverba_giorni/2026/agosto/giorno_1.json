@@ -1,0 +1,62 @@
+{
+  "title": "Cruciverba: Italiano Universale",
+  "size": "15x15",
+  "grid": [
+    "A N A N A S # # A M O # # # #",
+    "R # N # # # T # T # T R E I A",
+    "C O N T E S E # E # T # # # P",
+    "A # A # I # S # O R O # S # P",
+    "# # # # E C O # # # N # L O U",
+    "R A S # Z # R # # I E N A # N",
+    "# # O # I # I # S # # # V # T",
+    "P O L M O N E D A C C I A I O",
+    "# M # # N # R # L # # E # L #",
+    "Z A M P E # E P A # # N O L A",
+    "# N # # # I # # R # M # # U #",
+    "# # P A T R O C I N I O # S #",
+    "# R # M # E # # # # R # A T M",
+    "# I # E C O N O M I E # # R #",
+    "# C L N # S # # # # # # P I O"
+  ],
+  "clues": {
+    "across": {
+      "1": "È giallo nella macedonia",
+      "3": "Un gancio... sinistro",
+      "6": "In provincia di Macerata",
+      "8": "Diverbi, dispute",
+      "10": "Le riserve custodite in Banca d'Italia",
+      "12": "Risponde fra le montagne",
+      "13": "Il Reed della musica rock",
+      "14": "L'ha inglobata Allianz",
+      "16": "Un animale ridens",
+      "18": "Si usa per rianimare",
+      "22": "I piedi... degli animali!",
+      "23": "Gonfia l'addome",
+      "24": "La città natale di Giordano Bruno",
+      "27": "Un compito dell'avvocato difensore",
+      "30": "Simbolo dell'atmosfera",
+      "31": "Risparmi",
+      "32": "Una gloriosa sigla della Resistenza",
+      "33": "È famoso quello da Pietrelcina"
+    },
+    "down": {
+      "1": "Approdò sull'Ararat",
+      "2": "Bonaiuto attrice",
+      "3": "Uomo senza Dio",
+      "4": "Lega metallica",
+      "5": "Tiene i fondi dei soci",
+      "7": "Si segna per ricordo",
+      "9": "Espelle liquidi o materiali lavici.",
+      "11": "Una lingua indoeuropea",
+      "15": "Prima fa e poi...",
+      "17": "Le entrate degli operai",
+      "19": "Sultanato dell'Arabia",
+      "20": "Istituto Elettrotecnico Nazionale (sigla)",
+      "21": "Insigni, celebri",
+      "25": "Un fiore blu-violetto",
+      "26": "Scopi",
+      "28": "In fondo a molte preghiere",
+      "29": "40 La fine di Warhol."
+    }
+  }
+}
