@@ -1,0 +1,60 @@
+{
+  "title": "Cruciverba: Cultura Generale",
+  "size": "15x15",
+  "grid": [
+    "D # # # A N D E # # S O L E #",
+    "E # C # N # # R # # # R # T #",
+    "L # A # N # # A T O M O # A #",
+    "F A L C O # # # # R # # # # V",
+    "I # C # # B # # # S # M # # I",
+    "N # I # G I A P P O N E # # N",
+    "O # O # # O # E # # # L U P O",
+    "# # # F I L O S O F I A # # #",
+    "L # # # # O # C # # S # R # #",
+    "E # # T I G R E # R O M A # #",
+    "G # # # # I # # L # L # N # D",
+    "G # # # P A N D A # A L A # A",
+    "E U R O # # I # T # # U # # N",
+    "# # # R # # L # T # # C # # T",
+    "# # F A R A O N E # L E O N E"
+  ],
+  "clues": {
+    "across": {
+      "2": "Lunga catena montuosa del Sud America",
+      "4": "Stella al centro del sistema solare",
+      "8": "Unità fondamentale della materia",
+      "10": "Rapace veloce usato in falconeria",
+      "14": "Paese asiatico noto come terra del Sol Levante",
+      "16": "Progenitore selvatico del cane",
+      "17": "Amore per la sapienza, disciplina di Socrate e Platone",
+      "21": "Grande felino a strisce",
+      "22": "Capitale d'Italia",
+      "25": "Orso bianco e nero originario della Cina",
+      "27": "Arto usato dagli uccelli per volare",
+      "29": "Moneta unica di molti paesi europei",
+      "31": "Sovrano dell'antico Egitto",
+      "32": "Il re della savana africana"
+    },
+    "down": {
+      "1": "Intelligente mammifero marino",
+      "2": "Periodo di dodici mesi",
+      "3": "Lungo periodo storico o geologico",
+      "5": "Metallo prezioso di colore giallo",
+      "6": "Numero di anni di una persona",
+      "7": "Lo sport più popolare in Italia",
+      "9": "Grande mammifero plantigrado",
+      "11": "Bevanda alcolica ottenuta dall'uva",
+      "12": "Scienza che studia gli esseri viventi",
+      "13": "Frutto che, secondo il proverbio, tiene lontano il dottore",
+      "15": "Animale acquatico che respira con le branchie",
+      "18": "Terra circondata interamente dall'acqua",
+      "19": "Norma emanata da un'autorità dello Stato",
+      "20": "Anfibio che gracida negli stagni",
+      "23": "Bevanda bianca prodotta dalle mucche",
+      "24": "Autore della Divina Commedia",
+      "26": "Fiume più lungo d'Africa",
+      "28": "Ciò che permette di vedere, emessa dal sole",
+      "30": "Unità di misura del tempo, sessanta minuti"
+    }
+  }
+}
