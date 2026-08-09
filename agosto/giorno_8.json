@@ -1,0 +1,41 @@
+{
+  "title": "Cruciverba Tech: Edizione 20 Parole",
+  "size": "9x9",
+  "grid": [
+    "S E R V E R # # B",
+    "T # I # M # # # O",
+    "A P P # A D A # T",
+    "C # # # I # N # #",
+    "K E Y # L E D # #",
+    "# # # # # # # # #",
+    "M O U S E # N E T",
+    "A # S # # # I S A",
+    "C O B O L # C P U"
+  ],
+  "clues": {
+    "across": {
+      "1": "Computer o sistema centrale che eroga servizi in rete",
+      "5": "Applicazione per smartphone",
+      "6": "Linguaggio di programmazione intitolato alla pioniera Lovelace",
+      "8": "Tasto della tastiera (in inglese)",
+      "9": "Diodo a emissione luminosa",
+      "10": "Dispositivo di puntamento dei PC",
+      "12": "Rete informatica (in inglese)",
+      "15": "Storica architettura bus per schede d'espansione dei PC",
+      "16": "Storico linguaggio ideato per il settore bancario",
+      "17": "L'unità centrale di elaborazione (sigla)"
+    },
+    "down": {
+      "1": "Struttura dati LIFO (Last In, First Out)",
+      "2": "Estrarre tracce audio da un CD",
+      "3": "Posta elettronica",
+      "4": "Programma che automatizza operazioni in rete",
+      "7": "Operatore logico booleano (entrambe le condizioni vere)",
+      "10": "La celebre linea di personal computer di Apple",
+      "11": "Standard universale di connessione (sigla)",
+      "12": "Scheda di interfaccia di rete (sigla)",
+      "13": "Precede 8266 o 32 in un particolare tipo di schede WiFi",
+      "14": "Diciannovesima lettera dell'alfabeto greco"
+    }
+  }
+}
