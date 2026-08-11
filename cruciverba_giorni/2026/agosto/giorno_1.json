@@ -2,74 +2,303 @@
   "title": "Cruciverba: Italiano Universale #1",
   "size": "15x15",
   "grid": [
-    "C G # R Z # R I T M O # E S T",
-    "# A O I # # # E # I # B # L #",
-    "# R # S # # S # C L # I L A #",
-    "D E C O R A T O # A # B # R #",
-    "U # S # I # A # # N # A R G O",
-    "E # I N C E N D I O # G # O #",
-    "# P # E # # T # N # # N # # N",
-    "L A F I G L I A D I I O R I O",
-    "I # O # U # I # # # M # # # M",
-    "S # L E A R # # C # # U R T I",
-    "T # L # N # # S A N I # # A #",
-    "I R E # T # B # N # R # M O A",
-    "N # # D I S C R E D I T O # D",
-    "O T # I # E # V # # # # R N A",
-    "# # B O O M # # P R O S A # #"
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
+    "0 # T # R O C C A # # S P I A #",
+    "1 R C A # N # # # F # U # R # #",
+    "2 A # C # D O C # R I T T O # P",
+    "3 T A C C A # I # A # U # # S U",
+    "4 I # # # # S C U S A R S I # D",
+    "5 # # U S O # A # E # A # # O O",
+    "6 # M # I # # L # # A # P # # R",
+    "7 S E G N A L E D A L L A R M E",
+    "8 # N # I # E # J # D # N # I #",
+    "9 # T # S T O A # # O C C # N #",
+    "0 T I C # U # R A F # # I N E S",
+    "1 A # E # O # N # # A V O # # O",
+    "2 R E I S # # E # M # # T # N N",
+    "3 # C # T R A S P I R A T A # D",
+    "4 B U O I # # I # O # # O # S A"
   ],
   "clues": {
-    "across": {
-      "1": "Doppie nei saccheggi",
-      "3": "Consonanti d'Orazio",
-      "4": "Un carattere della musica",
-      "7": "La culla del sole",
-      "9": "Africa Orientale Italiana",
-      "12": "Comunione e Liberazione",
-      "13": "Una raganella arboricola",
-      "14": "Insignito di medaglie",
-      "17": "Mitico guardiano con cento occhi",
-      "18": "Un flagello estivo",
-      "23": "Tragedia di D'Annunzio",
-      "27": "Il folle re di Shakespeare",
-      "29": "Cozzi, scontri",
-      "31": "Lo sono i principi dell'onesto",
-      "33": "I pagani temevano quelle degli dei",
-      "35": "Uccello preistorico",
-      "37": "Lo getta la macchina del fango",
-      "40": "Le pari in porto",
-      "41": "Acido ribonucleico",
-      "42": "L'onomatopea di un'esplosione",
-      "43": "Si oppone alla poesia"
-    },
-    "down": {
-      "2": "Impegnano i concorrenti",
-      "3": "Lo si getta sugli sposi",
-      "5": "Le hanno lince e tigre",
-      "6": "L'amministra il sindaco Pisapia",
-      "8": "Punto in cui una corsia stradale diventa più ampia",
-      "10": "Tipo di appartamento con due bagni",
-      "11": "Rancidi, andati a male",
-      "14": "Con l'uno e con l'ics",
-      "15": "La quattordicesima lettera dell'alfabeto greco",
-      "16": "Si esibisce con Gian",
-      "19": "Vezzi d'altri tempi",
-      "20": "Indicativo in breve",
-      "21": "Coda d'upupa",
-      "22": "Sono comuni o propri",
-      "23": "Un elenco di prezzi",
-      "24": "Matto, pazzo",
-      "25": "Si usano dopo averli infilati",
-      "26": "Poco impegnato",
-      "28": "Animale che latra",
-      "30": "Concetto filosofico cinese",
-      "32": "Possiede grandi aziende statali",
-      "34": "Il Conti del Mundial",
-      "35": "Pausa o frutto di rovo",
-      "36": "Nome bifronte",
-      "37": "Lo prega chi ci crede",
-      "38": "Il secondogenito di Noè",
-      "39": "I confini... di Rostov"
-    }
+    "across": [
+      {
+        "numero": 2,
+        "parola": "ROCCA",
+        "definizione": "Costantino, campione del golf",
+        "posizione": "0-3"
+      },
+      {
+        "numero": 4,
+        "parola": "SPIA",
+        "definizione": "Il nemico la fucila",
+        "posizione": "0-10"
+      },
+      {
+        "numero": 6,
+        "parola": "RCA",
+        "definizione": "L'assicurazione per le auto",
+        "posizione": "1-0"
+      },
+      {
+        "numero": 9,
+        "parola": "DOC",
+        "definizione": "Una sigla del vino",
+        "posizione": "2-4"
+      },
+      {
+        "numero": 11,
+        "parola": "RITTO",
+        "definizione": "Posto verticalmente",
+        "posizione": "2-8"
+      },
+      {
+        "numero": 13,
+        "parola": "TACCA",
+        "definizione": "Il solco nel mirino",
+        "posizione": "3-0"
+      },
+      {
+        "numero": 14,
+        "parola": "SU",
+        "definizione": "Un monosillabo per far coraggio",
+        "posizione": "3-13"
+      },
+      {
+        "numero": 15,
+        "parola": "SCUSARSI",
+        "definizione": "Cercare di farsi perdonare",
+        "posizione": "4-5"
+      },
+      {
+        "numero": 16,
+        "parola": "USO",
+        "definizione": "Si fa adoperando",
+        "posizione": "5-2"
+      },
+      {
+        "numero": 18,
+        "parola": "OO",
+        "definizione": "Alternativa secca",
+        "posizione": "5-13"
+      },
+      {
+        "numero": 22,
+        "parola": "SEGNALEDALLARME",
+        "definizione": "Si usa in treno soltanto in caso di pericolo",
+        "posizione": "7-0"
+      },
+      {
+        "numero": 26,
+        "parola": "STOA",
+        "definizione": "Scuola filosofica stoica",
+        "posizione": "9-3"
+      },
+      {
+        "numero": 29,
+        "parola": "OCC",
+        "definizione": "Occidentale in tre lettere",
+        "posizione": "9-9"
+      },
+      {
+        "numero": 30,
+        "parola": "TIC",
+        "definizione": "Movimento... nervoso",
+        "posizione": "10-0"
+      },
+      {
+        "numero": 32,
+        "parola": "RAF",
+        "definizione": "Il nome di Vallone",
+        "posizione": "10-6"
+      },
+      {
+        "numero": 33,
+        "parola": "INES",
+        "definizione": "La confidente della Favorita",
+        "posizione": "10-11"
+      },
+      {
+        "numero": 35,
+        "parola": "AVO",
+        "definizione": "Un famigliare del passato",
+        "posizione": "11-9"
+      },
+      {
+        "numero": 36,
+        "parola": "REIS",
+        "definizione": "Antica moneta del Brasile",
+        "posizione": "12-0"
+      },
+      {
+        "numero": 40,
+        "parola": "NN",
+        "definizione": "Sono uguali in inverno",
+        "posizione": "12-13"
+      },
+      {
+        "numero": 41,
+        "parola": "TRASPIRATA",
+        "definizione": "Lo è l'acqua eliminata dalle foglie",
+        "posizione": "13-3"
+      },
+      {
+        "numero": 42,
+        "parola": "BUOI",
+        "definizione": "S'accoppiano con il giogo",
+        "posizione": "14-0"
+      },
+      {
+        "numero": 43,
+        "parola": "SA",
+        "definizione": "Il fondo della dispensa",
+        "posizione": "14-13"
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "TC",
+        "definizione": "Simbolo del tecnezio",
+        "posizione": "0-1"
+      },
+      {
+        "numero": 3,
+        "parola": "ONDA",
+        "definizione": "Un rilievo sul mare",
+        "posizione": "0-4"
+      },
+      {
+        "numero": 4,
+        "parola": "SUTURA",
+        "definizione": "La... cucitura del chirurgo",
+        "posizione": "0-10"
+      },
+      {
+        "numero": 5,
+        "parola": "IRO",
+        "definizione": "Mendicava a Itaca",
+        "posizione": "0-12"
+      },
+      {
+        "numero": 6,
+        "parola": "RATI",
+        "definizione": "Approvati, confermati",
+        "posizione": "1-0"
+      },
+      {
+        "numero": 7,
+        "parola": "ACC",
+        "definizione": "Un' esclamazione interrotta",
+        "posizione": "1-2"
+      },
+      {
+        "numero": 8,
+        "parola": "FRASE",
+        "definizione": "É formata di parole",
+        "posizione": "1-8"
+      },
+      {
+        "numero": 10,
+        "parola": "CICALE",
+        "definizione": "Cantano solo d'estate",
+        "posizione": "2-6"
+      },
+      {
+        "numero": 12,
+        "parola": "PUDORE",
+        "definizione": "Lo svergognato non ne sente neanche un po'",
+        "posizione": "2-14"
+      },
+      {
+        "numero": 17,
+        "parola": "SINIS",
+        "definizione": "La zona sarda con Oristano",
+        "posizione": "5-3"
+      },
+      {
+        "numero": 19,
+        "parola": "MENTI",
+        "definizione": "Quelle eccelse sono dei veri geni",
+        "posizione": "6-1"
+      },
+      {
+        "numero": 20,
+        "parola": "ALDO",
+        "definizione": "Nome dell'attore Maccione",
+        "posizione": "6-9"
+      },
+      {
+        "numero": 21,
+        "parola": "PANCIOTTO",
+        "definizione": "Gilet",
+        "posizione": "6-11"
+      },
+      {
+        "numero": 23,
+        "parola": "LEO",
+        "definizione": "Il Chiosso paroliere",
+        "posizione": "7-5"
+      },
+      {
+        "numero": 24,
+        "parola": "DJ",
+        "definizione": "Compila scalette musicali.",
+        "posizione": "7-7"
+      },
+      {
+        "numero": 25,
+        "parola": "MINE",
+        "definizione": "Le 4H sono molto dure",
+        "posizione": "7-13"
+      },
+      {
+        "numero": 27,
+        "parola": "TUO",
+        "definizione": "Nè mio nè suo",
+        "posizione": "9-4"
+      },
+      {
+        "numero": 28,
+        "parola": "ARNESI",
+        "definizione": "I ferri che il meccanico ripone",
+        "posizione": "9-6"
+      },
+      {
+        "numero": 30,
+        "parola": "TAR",
+        "definizione": "È famoso quello del Lazio",
+        "posizione": "10-0"
+      },
+      {
+        "numero": 31,
+        "parola": "CEI",
+        "definizione": "Raccoglie i vescovi italiani (sigla)",
+        "posizione": "10-2"
+      },
+      {
+        "numero": 34,
+        "parola": "SONDA",
+        "definizione": "Si usa per scandagliare",
+        "posizione": "10-14"
+      },
+      {
+        "numero": 37,
+        "parola": "ECU",
+        "definizione": "Precedette l'Euro",
+        "posizione": "12-1"
+      },
+      {
+        "numero": 38,
+        "parola": "STI",
+        "definizione": "Questi, con aferesi",
+        "posizione": "12-3"
+      },
+      {
+        "numero": 39,
+        "parola": "MIO",
+        "definizione": "Prefisso per muscolo",
+        "posizione": "12-8"
+      }
+    ]
   }
 }
