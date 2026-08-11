@@ -1,66 +1,371 @@
 {
-  "title": "Cruciverba: Italiano Universale #10",
+  "title": "Cruciverba: Italiano Universale #11",
   "size": "15x15",
   "grid": [
-    "P A R A T A # B U S # # F A A",
-    "A # A # # R # # # I O R # F #",
-    "U V E # S P A # # N # # C A B",
-    "# # # # A # # # # A # M # # A",
-    "# # D # N # C # V I S I R # L",
-    "T R E N D # A # # # # L # # I",
-    "R # C # R # R # # # # A # # V",
-    "A C I D O N I C O T I N I C O",
-    "C # F # C # # # R # S # # A #",
-    "C # R # U V A # T # S # # R #",
-    "E R A # R # # R I S O R T O #",
-    "# # R # Z # # # C # # O # # C",
-    "I B E R I A # P A T I N A T A",
-    "F # # T # N # O # I # # L # E",
-    "A T R E # D E P R E S S I # N"
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
+    "0 I L E S # B # S C I V O L O #",
+    "1 S # # E # O # C # # A # # S E",
+    "2 B A T T I S T I # I G # # H #",
+    "3 E # A # # S # # A # L U P O #",
+    "4 # E N E L # G # C # I # U # T",
+    "5 F # G # # R A P I N A # B A I",
+    "6 A # A # R # L # # # # F # # M",
+    "7 S E N T I M E N T A L I S M O",
+    "8 T # I # F # N # # G # S # # #",
+    "9 # # C O # S O C I O # C # V E",
+    "0 U N A # # T # I # # N O T E #",
+    "1 G # # D R O G A # # O # # N Y",
+    "2 O N U # E # O # # S E L C E #",
+    "3 # # N # M A L E # P # I # T I",
+    "4 S T A R # C # # M A N I C O #"
   ],
   "clues": {
-    "across": {
-      "1": "Sfilata di soldati",
-      "4": "Trasporta i pedoni",
-      "6": "Dispari in frana",
-      "8": "Un fantoccio mascagnano",
-      "9": "Quelle bianche son da tavola",
-      "10": "Il centro benessere degli alberghi",
-      "11": "Carrozzella da piazza a due ruote",
-      "16": "Era gran presso gli ottomani",
-      "17": "Tendenza dell'economia",
-      "18": "La sua carenza può causare la pellagra",
-      "22": "Si pigia a settembre",
-      "23": "La dea moglie di Giove",
-      "24": "Tornato a vivere",
-      "27": "La compagnia aerea di bandiera della Spagna",
-      "30": "Così è la lucida carta di certe riviste",
-      "33": "Nere, oscure",
-      "34": "Sono giù di morale"
-    },
-    "down": {
-      "1": "Cittadina pirenaica francese",
-      "2": "Un grande esploratore polare britannico",
-      "3": "Hans, pittore dadaista",
-      "5": "La penisola tra Asia e Africa",
-      "7": "L' aria della canicola",
-      "10": "Personaggio televisivo.",
-      "12": "Guglielmo Tell si rifiutò di salutare il suo cappello",
-      "13": "Una delle grandi del calcio italiano",
-      "14": "Interpretare un enigma",
-      "15": "Più costosi del giusto",
-      "17": "Gli inseguitori tentano di non perderle",
-      "19": "Pianta che irrita",
-      "20": "Celebre vittoria di Alessandro Magno",
-      "21": "Di costo elevato",
-      "25": "Un noto cantautore",
-      "26": "Importante città normanna.",
-      "27": "Sta nel tallo dei licheni",
-      "28": "Iniziali di Erdogan",
-      "29": "Una congiunzione inglese",
-      "30": "Un'art in voga nel Novecento",
-      "31": "Un \"break\" tennistico",
-      "32": "Hanno penne remiganti"
-    }
+    "across": [
+      {
+        "numero": 1,
+        "parola": "ILES",
+        "definizione": "Quelle della Société sono in Polinesia",
+        "posizione": "0-0",
+        "lettere": 4
+      },
+      {
+        "numero": 4,
+        "parola": "SCIVOLO",
+        "definizione": "Il piano inclinato dei parchi giochi",
+        "posizione": "0-7",
+        "lettere": 7
+      },
+      {
+        "numero": 7,
+        "parola": "SE",
+        "definizione": "La più breve ipotesi",
+        "posizione": "1-13",
+        "lettere": 2
+      },
+      {
+        "numero": 8,
+        "parola": "BATTISTI",
+        "definizione": "Cantava Pensieri e parole",
+        "posizione": "2-0",
+        "lettere": 8
+      },
+      {
+        "numero": 10,
+        "parola": "IG",
+        "definizione": "Fanno nobili ignobili",
+        "posizione": "2-9",
+        "lettere": 2
+      },
+      {
+        "numero": 12,
+        "parola": "LUPO",
+        "definizione": "Lo è l' Alberto dei fumetti",
+        "posizione": "3-10",
+        "lettere": 4
+      },
+      {
+        "numero": 14,
+        "parola": "ENEL",
+        "definizione": "Eroga l'energia elettrica (sigla)",
+        "posizione": "4-1",
+        "lettere": 4
+      },
+      {
+        "numero": 18,
+        "parola": "RAPINA",
+        "definizione": "Un atto di banditi",
+        "posizione": "5-5",
+        "lettere": 6
+      },
+      {
+        "numero": 19,
+        "parola": "BAI",
+        "definizione": "I cavalli dal pelo rossiccio",
+        "posizione": "5-12",
+        "lettere": 3
+      },
+      {
+        "numero": 22,
+        "parola": "SENTIMENTALISMO",
+        "definizione": "Romanticheria pateticamente appassionata",
+        "posizione": "7-0",
+        "lettere": 15
+      },
+      {
+        "numero": 24,
+        "parola": "CO",
+        "definizione": "Coda di stambecco",
+        "posizione": "9-2",
+        "lettere": 2
+      },
+      {
+        "numero": 25,
+        "parola": "SOCIO",
+        "definizione": "É partecipe degli utili",
+        "posizione": "9-5",
+        "lettere": 5
+      },
+      {
+        "numero": 27,
+        "parola": "VE",
+        "definizione": "La città di un Carnevale (targa)",
+        "posizione": "9-13",
+        "lettere": 2
+      },
+      {
+        "numero": 28,
+        "parola": "UNA",
+        "definizione": "Segue mezzanotte",
+        "posizione": "10-0",
+        "lettere": 3
+      },
+      {
+        "numero": 29,
+        "parola": "NOTE",
+        "definizione": "Le segna il compositore",
+        "posizione": "10-10",
+        "lettere": 4
+      },
+      {
+        "numero": 30,
+        "parola": "DROGA",
+        "definizione": "Rende schiavo chi ne fa uso",
+        "posizione": "11-3",
+        "lettere": 5
+      },
+      {
+        "numero": 33,
+        "parola": "NY",
+        "definizione": "La città di Woody Allen (iniz.)",
+        "posizione": "11-13",
+        "lettere": 2
+      },
+      {
+        "numero": 34,
+        "parola": "ONU",
+        "definizione": "L'Italia entrò a farvi parte nel 1955 (sigla)",
+        "posizione": "12-0",
+        "lettere": 3
+      },
+      {
+        "numero": 36,
+        "parola": "SELCE",
+        "definizione": "Una pietra per lastricati",
+        "posizione": "12-9",
+        "lettere": 5
+      },
+      {
+        "numero": 38,
+        "parola": "MALE",
+        "definizione": "Non si dovrebbe farlo",
+        "posizione": "13-4",
+        "lettere": 4
+      },
+      {
+        "numero": 40,
+        "parola": "TI",
+        "definizione": "Coda del setter",
+        "posizione": "13-13",
+        "lettere": 2
+      },
+      {
+        "numero": 41,
+        "parola": "STAR",
+        "definizione": "Stella a Broadway",
+        "posizione": "14-0",
+        "lettere": 4
+      },
+      {
+        "numero": 42,
+        "parola": "MANICO",
+        "definizione": "Un'estremità dell'ombrello",
+        "posizione": "14-8",
+        "lettere": 6
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "ISBE",
+        "definizione": "Casette russe",
+        "posizione": "0-0",
+        "lettere": 4
+      },
+      {
+        "numero": 2,
+        "parola": "SET",
+        "definizione": "Tre quinti di sette",
+        "posizione": "0-3",
+        "lettere": 3
+      },
+      {
+        "numero": 3,
+        "parola": "BOSS",
+        "definizione": "Il mega dirigente degli Inglesi",
+        "posizione": "0-5",
+        "lettere": 4
+      },
+      {
+        "numero": 4,
+        "parola": "SCI",
+        "definizione": "Li calzava Tomba",
+        "posizione": "0-7",
+        "lettere": 3
+      },
+      {
+        "numero": 5,
+        "parola": "VAGLIA",
+        "definizione": "Un metodo d'invio di denaro attraverso le poste",
+        "posizione": "0-10",
+        "lettere": 6
+      },
+      {
+        "numero": 6,
+        "parola": "OSHO",
+        "definizione": "É stato parodiato molti anni dopo la sua morte",
+        "posizione": "0-13",
+        "lettere": 4
+      },
+      {
+        "numero": 9,
+        "parola": "TANGANICA",
+        "definizione": "Forma la Tanzania con Zanzibar",
+        "posizione": "2-2",
+        "lettere": 9
+      },
+      {
+        "numero": 11,
+        "parola": "ACI",
+        "definizione": "Raduna automobilisti",
+        "posizione": "3-8",
+        "lettere": 3
+      },
+      {
+        "numero": 13,
+        "parola": "PUB",
+        "definizione": "Accolgono gli Inglesi alla sera",
+        "posizione": "3-12",
+        "lettere": 3
+      },
+      {
+        "numero": 15,
+        "parola": "GALENO",
+        "definizione": "Grande medico dell'antichità",
+        "posizione": "4-6",
+        "lettere": 6
+      },
+      {
+        "numero": 16,
+        "parola": "TIMO",
+        "definizione": "Una ghiandola",
+        "posizione": "4-14",
+        "lettere": 4
+      },
+      {
+        "numero": 17,
+        "parola": "FAST",
+        "definizione": "Un food per frettolosi",
+        "posizione": "5-0",
+        "lettere": 4
+      },
+      {
+        "numero": 20,
+        "parola": "RIF",
+        "definizione": "Nota regione montuosa del Marocco",
+        "posizione": "6-4",
+        "lettere": 3
+      },
+      {
+        "numero": 21,
+        "parola": "FISCO",
+        "definizione": "Accerta gli imponibili",
+        "posizione": "6-11",
+        "lettere": 5
+      },
+      {
+        "numero": 23,
+        "parola": "AGO",
+        "definizione": "Fora ed ha un foro",
+        "posizione": "7-9",
+        "lettere": 3
+      },
+      {
+        "numero": 25,
+        "parola": "STO",
+        "definizione": "Un informale questo",
+        "posizione": "9-5",
+        "lettere": 3
+      },
+      {
+        "numero": 26,
+        "parola": "CIA",
+        "definizione": "Una famosa degli Ubaldini",
+        "posizione": "9-7",
+        "lettere": 3
+      },
+      {
+        "numero": 27,
+        "parola": "VENETO",
+        "definizione": "Confina con la Lombardia e l'Emilia",
+        "posizione": "9-13",
+        "lettere": 6
+      },
+      {
+        "numero": 28,
+        "parola": "UGO",
+        "definizione": "Il Tognazzi di tanti film della commedia all'italiana",
+        "posizione": "10-0",
+        "lettere": 3
+      },
+      {
+        "numero": 29,
+        "parola": "NOE",
+        "definizione": "Il patriarca del diluvio",
+        "posizione": "10-10",
+        "lettere": 3
+      },
+      {
+        "numero": 31,
+        "parola": "REM",
+        "definizione": "Il gruppo con Stipe",
+        "posizione": "11-4",
+        "lettere": 3
+      },
+      {
+        "numero": 32,
+        "parola": "GOL",
+        "definizione": "Fa esplodere lo stadio",
+        "posizione": "11-6",
+        "lettere": 3
+      },
+      {
+        "numero": 35,
+        "parola": "UNA",
+        "definizione": "Così dev'essere la palla sul campo",
+        "posizione": "12-2",
+        "lettere": 3
+      },
+      {
+        "numero": 36,
+        "parola": "SPA",
+        "definizione": "La Società con gli azionisti",
+        "posizione": "12-9",
+        "lettere": 3
+      },
+      {
+        "numero": 37,
+        "parola": "LII",
+        "definizione": "Cinquantadue a Roma",
+        "posizione": "12-11",
+        "lettere": 3
+      },
+      {
+        "numero": 39,
+        "parola": "AC",
+        "definizione": "Il simbolo dell'attinio",
+        "posizione": "13-5",
+        "lettere": 2
+      }
+    ]
   }
 }

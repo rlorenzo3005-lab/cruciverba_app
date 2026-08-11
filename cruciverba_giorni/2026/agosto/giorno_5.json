@@ -1,68 +1,350 @@
 {
-  "title": "Cruciverba: Italiano Universale",
+  "title": "Cruciverba: Italiano Universale #5",
   "size": "15x15",
   "grid": [
-    "# # R # # A R A R A T # M A I",
-    "# M A N O R # S # # A R A # N",
-    "# # S # # S P O T # I # M # F",
-    "C # # # G # E # # B # # M # O",
-    "H # T # A T T # R E N I E R #",
-    "I O R # L # T # # O # R # # M",
-    "A # E # L # O # # L # I # # A",
-    "M I C R O P R O C E S S O R I",
-    "A # C # # # I # A # E # I # O",
-    "T R A # C A N I N # N Y L O N",
-    "A # N # O # A # # D # # # # E",
-    "# V I A L E # # # O # P # # S",
-    "A # # C # # R # I N S U L S E",
-    "S A N E # # I # M # # B # S #",
-    "S # # # # M I S E # # # N O N"
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
+    "0 D E L I N E A T O # R # I A #",
+    "1 # N # T # # R # # # E T A # #",
+    "2 R I B E S # A # N # N # # # #",
+    "3 # G # # E U # # D U E # M # A",
+    "4 # M # S M # # # # G # G A N G",
+    "5 M A I # P R A # I O R # C # O",
+    "6 # T # # R # D # # L # # I # #",
+    "7 M I S T E R I O S A M E N T E",
+    "8 # C # A # # N # # # A # A # T",
+    "9 # O S S # # A C A G I U # C I",
+    "0 U # # S O D # # A # # # V # C",
+    "1 M I R E # # G D R # C O R N A",
+    "2 I # C # U M A # # S # T # U #",
+    "3 L I A # P # I # # T # R I C E",
+    "4 E # # # # S O S P I R I # A #"
   ],
   "clues": {
-    "across": {
-      "2": "Il massiccio dell'arca",
-      "5": "Categorico rifiuto",
-      "7": "Feudo... inglese",
-      "8": "Un variopinto pappagallo",
-      "9": "Interrompono i programmi televisivi",
-      "15": "Il cuore del gatto",
-      "16": "Paolo, doge veneziano",
-      "18": "Pupazzo dell'Iris",
-      "20": "Costituiscono l'unità centrale di elaborazione dei PC",
-      "24": "Come dire in mezzo",
-      "25": "É nelle Prealpi Giulie",
-      "26": "Una fibra sintetica",
-      "28": "Ampia strada",
-      "33": "Prive di senso e di gusto",
-      "35": "Non abbisognevoli di cure",
-      "36": "Modo di vestire, abito... elegante",
-      "37": "__ è un paese per vecchi"
-    },
-    "down": {
-      "1": "Il boss del quartiere",
-      "2": "Orazio scrisse la \"poetica\"",
-      "3": "Fiume marchigiano",
-      "4": "Un lago della Cina",
-      "5": "Madri, genitrici",
-      "6": "I point che danno indicazioni",
-      "10": "La parte anteriore del grembiule",
-      "11": "Un appello telefonico",
-      "12": "Un re crestato",
-      "13": "Rustiche pietre per pavimentazioni",
-      "14": "La casa editrice di una famosa enciclopedia",
-      "17": "L'opera con Ior",
-      "19": "Ingrediente dell'insalata russa",
-      "21": "Quel che ahbaia non morde",
-      "22": "Siede a Palazzo Madama abbrev.",
-      "23": "La lingua che si contrapponeva a quella d'oc",
-      "25": "Diventerà gen",
-      "27": "Davanti a... Rodrigo",
-      "29": "Un tiro vincente del tennis",
-      "30": "Locale pubblico inglese",
-      "31": "Breve assegno",
-      "32": "I vicoli di Venezia",
-      "33": "Profondissime",
-      "34": "Da Sud a Sud Ovest sigla"
-    }
+    "across": [
+      {
+        "numero": 1,
+        "parola": "DELINEATO",
+        "definizione": "Descritto sommariamente",
+        "posizione": "0-0",
+        "lettere": 9
+      },
+      {
+        "numero": 6,
+        "parola": "IA",
+        "definizione": "Ultime d'Italia",
+        "posizione": "0-12",
+        "lettere": 2
+      },
+      {
+        "numero": 7,
+        "parola": "ETA",
+        "definizione": "Somma di candeline",
+        "posizione": "1-10",
+        "lettere": 3
+      },
+      {
+        "numero": 8,
+        "parola": "RIBES",
+        "definizione": "Frutto in grappoli",
+        "posizione": "2-0",
+        "lettere": 5
+      },
+      {
+        "numero": 11,
+        "parola": "EU",
+        "definizione": "Le vocali nel menu",
+        "posizione": "3-4",
+        "lettere": 2
+      },
+      {
+        "numero": 12,
+        "parola": "DUE",
+        "definizione": "Un giorno come oggi",
+        "posizione": "3-8",
+        "lettere": 3
+      },
+      {
+        "numero": 16,
+        "parola": "SM",
+        "definizione": "Sua Maestà",
+        "posizione": "4-3",
+        "lettere": 2
+      },
+      {
+        "numero": 17,
+        "parola": "GANG",
+        "definizione": "Una banda all'americana",
+        "posizione": "4-11",
+        "lettere": 4
+      },
+      {
+        "numero": 18,
+        "parola": "MAI",
+        "definizione": "Una risposta che non lascia speranza",
+        "posizione": "5-0",
+        "lettere": 3
+      },
+      {
+        "numero": 19,
+        "parola": "PRA",
+        "definizione": "L'anagrafe delle automobili",
+        "posizione": "5-4",
+        "lettere": 3
+      },
+      {
+        "numero": 21,
+        "parola": "IOR",
+        "definizione": "Noto personaggio di un'opera di Mascagni",
+        "posizione": "5-8",
+        "lettere": 3
+      },
+      {
+        "numero": 22,
+        "parola": "MISTERIOSAMENTE",
+        "definizione": "In modo arcano",
+        "posizione": "7-0",
+        "lettere": 15
+      },
+      {
+        "numero": 26,
+        "parola": "OSS",
+        "definizione": "Località del Brabante",
+        "posizione": "9-1",
+        "lettere": 3
+      },
+      {
+        "numero": 27,
+        "parola": "ACAGIU",
+        "definizione": "Altro nome del mogano",
+        "posizione": "9-6",
+        "lettere": 6
+      },
+      {
+        "numero": 29,
+        "parola": "CI",
+        "definizione": "Le ha nel vino il vicino!",
+        "posizione": "9-13",
+        "lettere": 2
+      },
+      {
+        "numero": 31,
+        "parola": "SOD",
+        "definizione": "La nota più lunga",
+        "posizione": "10-3",
+        "lettere": 3
+      },
+      {
+        "numero": 33,
+        "parola": "MIRE",
+        "definizione": "I progetti della mente",
+        "posizione": "11-0",
+        "lettere": 4
+      },
+      {
+        "numero": 35,
+        "parola": "GDR",
+        "definizione": "Gioco di Ruolo",
+        "posizione": "11-6",
+        "lettere": 3
+      },
+      {
+        "numero": 36,
+        "parola": "CORNA",
+        "definizione": "Le ha il bue",
+        "posizione": "11-10",
+        "lettere": 5
+      },
+      {
+        "numero": 39,
+        "parola": "UMA",
+        "definizione": "La Thurman del cinema",
+        "posizione": "12-4",
+        "lettere": 3
+      },
+      {
+        "numero": 41,
+        "parola": "LIA",
+        "definizione": "Fu nuora d'Isacco",
+        "posizione": "13-0",
+        "lettere": 3
+      },
+      {
+        "numero": 42,
+        "parola": "RICE",
+        "definizione": "Anne autrice de Intervista col vampiro",
+        "posizione": "13-11",
+        "lettere": 4
+      },
+      {
+        "numero": 43,
+        "parola": "SOSPIRI",
+        "definizione": "Li tira l'innamorato",
+        "posizione": "14-5",
+        "lettere": 7
+      }
+    ],
+    "down": [
+      {
+        "numero": 2,
+        "parola": "ENIGMATICO",
+        "definizione": "Incomprensibile, di significato oscuro",
+        "posizione": "0-1",
+        "lettere": 10
+      },
+      {
+        "numero": 3,
+        "parola": "ITE",
+        "definizione": "Congedo liturgico",
+        "posizione": "0-3",
+        "lettere": 3
+      },
+      {
+        "numero": 4,
+        "parola": "ARA",
+        "definizione": "La Pacis si trova a Roma",
+        "posizione": "0-6",
+        "lettere": 3
+      },
+      {
+        "numero": 5,
+        "parola": "RENE",
+        "definizione": "È meglio che non faccia calcoli",
+        "posizione": "0-10",
+        "lettere": 4
+      },
+      {
+        "numero": 6,
+        "parola": "IA",
+        "definizione": "Fine della commedia",
+        "posizione": "0-12",
+        "lettere": 2
+      },
+      {
+        "numero": 9,
+        "parola": "SEMPRE",
+        "definizione": "Una parola da innamorati",
+        "posizione": "2-4",
+        "lettere": 6
+      },
+      {
+        "numero": 10,
+        "parola": "ND",
+        "definizione": "La fine del round",
+        "posizione": "2-8",
+        "lettere": 2
+      },
+      {
+        "numero": 13,
+        "parola": "UGOLA",
+        "definizione": "Il tesoro di Pavarotti",
+        "posizione": "3-9",
+        "lettere": 5
+      },
+      {
+        "numero": 14,
+        "parola": "MACINA",
+        "definizione": "Sansone fu costretto a farla girare",
+        "posizione": "3-12",
+        "lettere": 6
+      },
+      {
+        "numero": 15,
+        "parola": "AGO",
+        "definizione": "Si orienta nella bussola",
+        "posizione": "3-14",
+        "lettere": 3
+      },
+      {
+        "numero": 20,
+        "parola": "ADINA",
+        "definizione": "Per lei Nemorino beve l' elisir d' amore",
+        "posizione": "5-6",
+        "lettere": 5
+      },
+      {
+        "numero": 23,
+        "parola": "TASSE",
+        "definizione": "Le risorse dell'erario",
+        "posizione": "7-3",
+        "lettere": 5
+      },
+      {
+        "numero": 24,
+        "parola": "MAI",
+        "definizione": "Esclude recisamente",
+        "posizione": "7-10",
+        "lettere": 3
+      },
+      {
+        "numero": 25,
+        "parola": "ETICA",
+        "definizione": "La morale del filosofo",
+        "posizione": "7-14",
+        "lettere": 5
+      },
+      {
+        "numero": 28,
+        "parola": "AAR",
+        "definizione": "Critico letterario palindromo (iniz.)",
+        "posizione": "9-8",
+        "lettere": 3
+      },
+      {
+        "numero": 30,
+        "parola": "UMILE",
+        "definizione": "Tutt'altro che orgoglioso",
+        "posizione": "10-0",
+        "lettere": 5
+      },
+      {
+        "numero": 32,
+        "parola": "VR",
+        "definizione": "Il Rossi centauro (iniziali)",
+        "posizione": "10-12",
+        "lettere": 2
+      },
+      {
+        "numero": 34,
+        "parola": "RCA",
+        "definizione": "Assicura chi guida sigla",
+        "posizione": "11-2",
+        "lettere": 3
+      },
+      {
+        "numero": 35,
+        "parola": "GAIO",
+        "definizione": "Gioioso, allegro",
+        "posizione": "11-6",
+        "lettere": 4
+      },
+      {
+        "numero": 37,
+        "parola": "OTRI",
+        "definizione": "Sacchi per l'acqua",
+        "posizione": "11-11",
+        "lettere": 4
+      },
+      {
+        "numero": 38,
+        "parola": "NUCA",
+        "definizione": "Parte posteriore del collo",
+        "posizione": "11-13",
+        "lettere": 4
+      },
+      {
+        "numero": 39,
+        "parola": "UP",
+        "definizione": "Pagliai della recitazione (iniz.)",
+        "posizione": "12-4",
+        "lettere": 2
+      },
+      {
+        "numero": 40,
+        "parola": "STI",
+        "definizione": "Questi a Roma",
+        "posizione": "12-9",
+        "lettere": 3
+      }
+    ]
   }
 }

@@ -1,50 +1,385 @@
 {
-  "title": "Cruciverba del giorno 262",
-  "size": "15 x 15",
+  "title": "Cruciverba: Italiano Universale #2",
+  "size": "15x15",
   "grid": [
-    "A##C#P##SERRE##",
-    "ARTICOLI#V###F#",
-    "R####I#N#I#I#I#",
-    "#DT##S#T#D#M#T#",
-    "R#E#T#DE#E#P#T#",
-    "O#M#E##R#N#ETA#",
-    "M#I#R##L#Z#N#V#",
-    "AUSTRALOPITECO#",
-    "N#T#I##C#A#T#LA",
-    "Z#O#T##U#R#R#O#",
-    "I#C#O#IT#E#A###",
-    "E#L#R##OV##B#Z#",
-    "R#E#I##R#CHIGI#",
-    "IG#####I###L#T#",
-    "##LOCOMOTORE#I#"
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
+    "0 # E # # # # # # # # # M # A #",
+    "1 N A S # T # # C # G O M I T O",
+    "2 E # E L E T T O R E # M # T #",
+    "3 R # L # E # # M # S E # # O #",
+    "4 O R Z O # I D A # T # B O # F",
+    "5 # A # I D # A # G O L # R A I",
+    "6 V # R # # M # # R # O # T # N",
+    "7 A U T O C O M B U S T I O N E",
+    "8 N # # H # D # U # C # R # # Z",
+    "9 E I # M # A M I C I Z I A # Z",
+    "0 # # P # B # U # # A # # T R A",
+    "1 S # A # O N T A # # A G O # #",
+    "2 U E P # S # E # A # R # M O U",
+    "3 B # I # S # # # P U G N I # M",
+    "4 # I N F I M A # R # O # # A O"
   ],
   "clues": {
-    "across": {
-      "4": "Locali dove coltivano fiori e piante al coperto",
-      "6": "Si stampano sui giornali",
-      "10": "Direttore Tecnico (sigla)",
-      "14": "La fine delle autostrade",
-      "15": "Si conta dalla nascita",
-      "16": "Ominide fossile dell' Africa orientale e meridionale",
-      "17": "Nota musicale e articolo",
-      "18": "In vita",
-      "19": "In ogni dove.",
-      "21": "Il palazzo in cui ha sede la Presidenza del Consiglio",
-      "22": "Al centro della riga.",
-      "23": "Fa parte del treno"
-    },
-    "down": {
-      "1": "Nasce dalle Alpi Bernesi",
-      "2": "101 in lettere",
-      "3": "I puntini di certi tessuti",
-      "5": "Mettere in risalto",
-      "7": "Che serve a tenere aperto il dialogo",
-      "8": "Coltiva un terreno non suo",
-      "9": "Indecifrabile, oscuro",
-      "11": "Vinse a Salamina",
-      "12": "Scrivono opere di narrativa",
-      "13": "Regioni ben definite",
-      "20": "Sono più grandi dei bucatini"
-    }
+    "across": [
+      {
+        "numero": 4,
+        "parola": "NAS",
+        "definizione": "Ricercano i sofisticatori (sigla)",
+        "posizione": "1-0",
+        "lettere": 3
+      },
+      {
+        "numero": 8,
+        "parola": "GOMITO",
+        "definizione": "Articolazione che collega braccio e avambraccio",
+        "posizione": "1-9",
+        "lettere": 6
+      },
+      {
+        "numero": 9,
+        "parola": "ELETTORE",
+        "definizione": "Gode del diritto di voto",
+        "posizione": "2-2",
+        "lettere": 8
+      },
+      {
+        "numero": 10,
+        "parola": "SE",
+        "definizione": "Può precedere fossi",
+        "posizione": "3-9",
+        "lettere": 2
+      },
+      {
+        "numero": 11,
+        "parola": "ORZO",
+        "definizione": "Un ingrediente della birra",
+        "posizione": "4-0",
+        "lettere": 4
+      },
+      {
+        "numero": 14,
+        "parola": "IDA",
+        "definizione": "Una nota Lupino del cinema",
+        "posizione": "4-5",
+        "lettere": 3
+      },
+      {
+        "numero": 16,
+        "parola": "BO",
+        "definizione": "Un Carlo scrittore",
+        "posizione": "4-11",
+        "lettere": 2
+      },
+      {
+        "numero": 19,
+        "parola": "ID",
+        "definizione": "La bidella meno bella",
+        "posizione": "5-3",
+        "lettere": 2
+      },
+      {
+        "numero": 20,
+        "parola": "GOL",
+        "definizione": "Si può segnare anche con un colpo di testa",
+        "posizione": "5-8",
+        "lettere": 3
+      },
+      {
+        "numero": 22,
+        "parola": "RAI",
+        "definizione": "Gestisce la tivù di Stato italiana",
+        "posizione": "5-12",
+        "lettere": 3
+      },
+      {
+        "numero": 26,
+        "parola": "AUTOCOMBUSTIONE",
+        "definizione": "Provoca l'incendio di molti boschi",
+        "posizione": "7-0",
+        "lettere": 15
+      },
+      {
+        "numero": 31,
+        "parola": "EI",
+        "definizione": "Fine dei cortei",
+        "posizione": "9-0",
+        "lettere": 2
+      },
+      {
+        "numero": 32,
+        "parola": "AMICIZIA",
+        "definizione": "Si chiede su Facebook.",
+        "posizione": "9-5",
+        "lettere": 8
+      },
+      {
+        "numero": 37,
+        "parola": "TRA",
+        "definizione": "Preposizione che si frappone",
+        "posizione": "10-12",
+        "lettere": 3
+      },
+      {
+        "numero": 39,
+        "parola": "ONTA",
+        "definizione": "Una grave offesa",
+        "posizione": "11-4",
+        "lettere": 4
+      },
+      {
+        "numero": 40,
+        "parola": "AGO",
+        "definizione": "Punge le sartine",
+        "posizione": "11-10",
+        "lettere": 3
+      },
+      {
+        "numero": 41,
+        "parola": "UEP",
+        "definizione": "Unione Europea dei Pagamenti (sigla)",
+        "posizione": "12-0",
+        "lettere": 3
+      },
+      {
+        "numero": 43,
+        "parola": "MOU",
+        "definizione": "Uno speciale (soprannome)",
+        "posizione": "12-12",
+        "lettere": 3
+      },
+      {
+        "numero": 45,
+        "parola": "PUGNI",
+        "definizione": "Se li scambiano i boxeur",
+        "posizione": "13-8",
+        "lettere": 5
+      },
+      {
+        "numero": 46,
+        "parola": "INFIMA",
+        "definizione": "Molto bassa",
+        "posizione": "14-1",
+        "lettere": 6
+      },
+      {
+        "numero": 47,
+        "parola": "AO",
+        "definizione": "Le vocali in mano",
+        "posizione": "14-13",
+        "lettere": 2
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "EA",
+        "definizione": "Vocali in pena",
+        "posizione": "0-1",
+        "lettere": 2
+      },
+      {
+        "numero": 2,
+        "parola": "MMM",
+        "definizione": "Tremila per gli antichi romani",
+        "posizione": "0-11",
+        "lettere": 3
+      },
+      {
+        "numero": 3,
+        "parola": "ATTO",
+        "definizione": "Parte della commedia",
+        "posizione": "0-13",
+        "lettere": 4
+      },
+      {
+        "numero": 4,
+        "parola": "NERO",
+        "definizione": "Il colore del conto senza debiti",
+        "posizione": "1-0",
+        "lettere": 4
+      },
+      {
+        "numero": 5,
+        "parola": "SELZ",
+        "definizione": "L'acqua gassata per i long drink",
+        "posizione": "1-2",
+        "lettere": 4
+      },
+      {
+        "numero": 6,
+        "parola": "TEE",
+        "definizione": "Rose dal colore giallo",
+        "posizione": "1-4",
+        "lettere": 3
+      },
+      {
+        "numero": 7,
+        "parola": "COMA",
+        "definizione": "Il vigile non è profondo",
+        "posizione": "1-7",
+        "lettere": 4
+      },
+      {
+        "numero": 8,
+        "parola": "GESTO",
+        "definizione": "Movimento fatto con la mano",
+        "posizione": "1-9",
+        "lettere": 5
+      },
+      {
+        "numero": 12,
+        "parola": "RA",
+        "definizione": "Una divinità egizia",
+        "posizione": "4-1",
+        "lettere": 2
+      },
+      {
+        "numero": 13,
+        "parola": "OI",
+        "definizione": "I limiti degli ospiti",
+        "posizione": "4-3",
+        "lettere": 2
+      },
+      {
+        "numero": 15,
+        "parola": "DA",
+        "definizione": "In pedana",
+        "posizione": "4-6",
+        "lettere": 2
+      },
+      {
+        "numero": 17,
+        "parola": "ORTO",
+        "definizione": "Gesù vi si recò a pregare",
+        "posizione": "4-12",
+        "lettere": 4
+      },
+      {
+        "numero": 18,
+        "parola": "FINEZZA",
+        "definizione": "Squisitezza, delicatezza",
+        "posizione": "4-14",
+        "lettere": 7
+      },
+      {
+        "numero": 20,
+        "parola": "GRU",
+        "definizione": "Solleva enormi pesi",
+        "posizione": "5-8",
+        "lettere": 3
+      },
+      {
+        "numero": 21,
+        "parola": "LOT",
+        "definizione": "Figlio di Aran",
+        "posizione": "5-10",
+        "lettere": 3
+      },
+      {
+        "numero": 23,
+        "parola": "VANE",
+        "definizione": "Come fragili speranze",
+        "posizione": "6-0",
+        "lettere": 4
+      },
+      {
+        "numero": 24,
+        "parola": "RT",
+        "definizione": "Radio Telefono",
+        "posizione": "6-2",
+        "lettere": 2
+      },
+      {
+        "numero": 25,
+        "parola": "MODA",
+        "definizione": "Un settore di eccellenza per l'Italia",
+        "posizione": "6-5",
+        "lettere": 4
+      },
+      {
+        "numero": 27,
+        "parola": "OHM",
+        "definizione": "George, fisico tedesco",
+        "posizione": "7-3",
+        "lettere": 3
+      },
+      {
+        "numero": 28,
+        "parola": "BUI",
+        "definizione": "Immersi nelle tenebre",
+        "posizione": "7-7",
+        "lettere": 3
+      },
+      {
+        "numero": 29,
+        "parola": "SCIA",
+        "definizione": "Una cosa spumosa",
+        "posizione": "7-9",
+        "lettere": 4
+      },
+      {
+        "numero": 30,
+        "parola": "IRI",
+        "definizione": "Era il colosso delle Partecipazioni Statali",
+        "posizione": "7-11",
+        "lettere": 3
+      },
+      {
+        "numero": 33,
+        "parola": "MUTE",
+        "definizione": "Le indossano i sub",
+        "posizione": "9-6",
+        "lettere": 4
+      },
+      {
+        "numero": 34,
+        "parola": "ATOMI",
+        "definizione": "Comprendono gli elettroni",
+        "posizione": "9-12",
+        "lettere": 5
+      },
+      {
+        "numero": 35,
+        "parola": "PAPIN",
+        "definizione": "L' inventore dell' autoclave",
+        "posizione": "10-2",
+        "lettere": 5
+      },
+      {
+        "numero": 36,
+        "parola": "BOSSI",
+        "definizione": "Arbusti usati per siepi",
+        "posizione": "10-4",
+        "lettere": 5
+      },
+      {
+        "numero": 38,
+        "parola": "SUB",
+        "definizione": "Si immerge con pinne e respiratori",
+        "posizione": "11-0",
+        "lettere": 3
+      },
+      {
+        "numero": 40,
+        "parola": "ARGO",
+        "definizione": "Mitico cane",
+        "posizione": "11-10",
+        "lettere": 4
+      },
+      {
+        "numero": 42,
+        "parola": "APR",
+        "definizione": "Nel datario dopo mar",
+        "posizione": "12-8",
+        "lettere": 3
+      },
+      {
+        "numero": 44,
+        "parola": "UMO",
+        "definizione": "Terriccio per floricoltori",
+        "posizione": "12-14",
+        "lettere": 3
+      }
+    ]
   }
 }

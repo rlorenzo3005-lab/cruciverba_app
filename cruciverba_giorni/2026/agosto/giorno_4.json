@@ -1,68 +1,371 @@
 {
-  "title": "Cruciverba: Italiano Universale",
+  "title": "Cruciverba: Italiano Universale #4",
   "size": "15x15",
   "grid": [
-    "L E S T O # # U # # # V E R A",
-    "E # # A # C O T O G N A # # #",
-    "I # # B # I # O # # # N # # B",
-    "# # T U R N # # B O E # G # A",
-    "# M # # I # E # # L # # I O R",
-    "# O # D A T O # P I L # G # C",
-    "# R # # R # L # # V # # I # H",
-    "F E R T I L I Z Z A Z I O N E",
-    "# # A # O # C # # # # R # # T",
-    "S F I # # # I # I E N E # # T",
-    "A # S E I # # # R # # # S I A",
-    "P O E # # P # V A N I A # M #",
-    "A # R O T A I E # # L # A I N",
-    "# # # R # N # R # # I # S # N",
-    "L E D A # # # I G N O T I # O"
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
+    "0 E # E S I T O # L E D # O # #",
+    "1 L I # M # E # # # M # P L U S",
+    "2 # P R C # L # # R I N # I # I",
+    "3 # # E # C E N A # L # P # U N",
+    "4 S # M R O # # R # I S E O # U",
+    "5 B U # # E # C A P O # D # A O",
+    "6 # S # I # L # M # # # I # # S",
+    "7 B I O B I B L I O G R A F I A",
+    "8 # # L # N # # S # I # T # S #",
+    "9 S U D E S T # # # U # R # # T",
+    "0 A # # R # R # U N G H I A # O",
+    "1 M # R O S E O # # N # # I # C",
+    "2 A # A # # N # I V O R I A N E",
+    "3 R A M A # E # T # # # V # D #",
+    "4 E # O # A T T O N I T A # R O"
   ],
   "clues": {
-    "across": {
-      "1": "Veloce, rapido",
-      "4": "La fede coniugale",
-      "5": "Un tipo di mela",
-      "7": "Quando è over avvicenda",
-      "9": "Galleggianti per l'ancoraggio",
-      "14": "È amato da Dia nell'Iris",
-      "15": "Un'informazione immessa nel computer",
-      "16": "Sigla da bilancio statale",
-      "17": "Per effettuare quella d'un terreno bisogna concimarlo",
-      "20": "Science Fiction Italiana",
-      "21": "Si dividono il cibo con i licaoni",
-      "22": "Il voto dell'idoneità",
-      "23": "Particella correlativa",
-      "25": "L'autore dei Racconti fantastici e del terrore",
-      "27": "Il protagonista di \"Umiliati e offesi\" di Dostoevskij",
-      "29": "Guide per tram e treni",
-      "31": "Si getta nel Rodano",
-      "33": "L'amò un cigno",
-      "34": "Avvolti nell'ombra"
-    },
-    "down": {
-      "1": "Un poema di Esiodo",
-      "2": "Argomento di cui non si può parlare",
-      "3": "Ughi al violino",
-      "4": "Furgone per cavalli",
-      "5": "Sigla da codice Iban",
-      "6": "Ha un piccolo scafo",
-      "8": "Girolamo, signore di Imola e Forlì",
-      "10": "Finisce nel frantoio",
-      "11": "Un Topo famoso tra i bambini",
-      "12": "Maturano tra i rovi",
-      "13": "Provocati dal vento",
-      "18": "Il raccoglitore di fund",
-      "19": "Le escandescenze dei furiosi",
-      "20": "Mosto cotto",
-      "21": "Si vince dominandosi",
-      "24": "Bassissimi",
-      "26": "Un dio molto allegro",
-      "27": "Né immaginari, né finti",
-      "28": "Troia ai tempi omerici",
-      "30": "Porzione di giorno",
-      "31": "Gli dei del Walhalla",
-      "32": "Nord Nord-Ovest"
-    }
+    "across": [
+      {
+        "numero": 2,
+        "parola": "ESITO",
+        "definizione": "Tiene in ansia il debuttante",
+        "posizione": "0-2",
+        "lettere": 5
+      },
+      {
+        "numero": 5,
+        "parola": "LED",
+        "definizione": "Minuscole spie luminose",
+        "posizione": "0-8",
+        "lettere": 3
+      },
+      {
+        "numero": 8,
+        "parola": "LI",
+        "definizione": "Si dice a dito puntato",
+        "posizione": "1-0",
+        "lettere": 2
+      },
+      {
+        "numero": 10,
+        "parola": "PLUS",
+        "definizione": "Un valore che eccede",
+        "posizione": "1-11",
+        "lettere": 4
+      },
+      {
+        "numero": 12,
+        "parola": "PRC",
+        "definizione": "Partito della Rifondazione Comunista",
+        "posizione": "2-1",
+        "lettere": 3
+      },
+      {
+        "numero": 14,
+        "parola": "RIN",
+        "definizione": "Con tin tin nel nome di un famoso cane",
+        "posizione": "2-8",
+        "lettere": 3
+      },
+      {
+        "numero": 15,
+        "parola": "CENA",
+        "definizione": "L'ultima è raffigurata in un capolavoro di Leonardo da Vinci",
+        "posizione": "3-4",
+        "lettere": 4
+      },
+      {
+        "numero": 18,
+        "parola": "UN",
+        "definizione": "É meno preciso di il",
+        "posizione": "3-13",
+        "lettere": 2
+      },
+      {
+        "numero": 20,
+        "parola": "MRO",
+        "definizione": "La Omaggio dello schermo (iniz.)",
+        "posizione": "4-2",
+        "lettere": 3
+      },
+      {
+        "numero": 21,
+        "parola": "ISEO",
+        "definizione": "Un lago italiano",
+        "posizione": "4-9",
+        "lettere": 4
+      },
+      {
+        "numero": 22,
+        "parola": "BU",
+        "definizione": "La fine dei tabù",
+        "posizione": "5-0",
+        "lettere": 2
+      },
+      {
+        "numero": 24,
+        "parola": "CAPO",
+        "definizione": "Si può scuotere per disapprovare",
+        "posizione": "5-6",
+        "lettere": 4
+      },
+      {
+        "numero": 25,
+        "parola": "AO",
+        "definizione": "La Oxa della musica leggera (iniziali)",
+        "posizione": "5-13",
+        "lettere": 2
+      },
+      {
+        "numero": 28,
+        "parola": "BIOBIBLIOGRAFIA",
+        "definizione": "Vita e opere",
+        "posizione": "7-0",
+        "lettere": 15
+      },
+      {
+        "numero": 33,
+        "parola": "SUDEST",
+        "definizione": "Un punto intercardinale",
+        "posizione": "9-0",
+        "lettere": 6
+      },
+      {
+        "numero": 37,
+        "parola": "UNGHIA",
+        "definizione": "Cresce sul dito",
+        "posizione": "10-7",
+        "lettere": 6
+      },
+      {
+        "numero": 39,
+        "parola": "ROSEO",
+        "definizione": "Un colore dell'incarnato",
+        "posizione": "11-2",
+        "lettere": 5
+      },
+      {
+        "numero": 40,
+        "parola": "IVORIANE",
+        "definizione": "Le africane tra Ghana e Liberia",
+        "posizione": "12-7",
+        "lettere": 8
+      },
+      {
+        "numero": 43,
+        "parola": "RAMA",
+        "definizione": "Chioma d'albero",
+        "posizione": "13-0",
+        "lettere": 4
+      },
+      {
+        "numero": 44,
+        "parola": "ATTONITA",
+        "definizione": "Sbalordita, sorpresa",
+        "posizione": "14-4",
+        "lettere": 8
+      },
+      {
+        "numero": 45,
+        "parola": "RO",
+        "definizione": "Sta all'inizio del rosario",
+        "posizione": "14-13",
+        "lettere": 2
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "EL",
+        "definizione": "Dentro la mela",
+        "posizione": "0-0",
+        "lettere": 2
+      },
+      {
+        "numero": 3,
+        "parola": "SMC",
+        "definizione": "Sua Maestà Cattolica (sigla)",
+        "posizione": "0-3",
+        "lettere": 3
+      },
+      {
+        "numero": 4,
+        "parola": "TELE",
+        "definizione": "I tessuti nelle pinacoteche",
+        "posizione": "0-5",
+        "lettere": 4
+      },
+      {
+        "numero": 6,
+        "parola": "EMILIO",
+        "definizione": "Lo scultore Greco",
+        "posizione": "0-9",
+        "lettere": 6
+      },
+      {
+        "numero": 7,
+        "parola": "OLI",
+        "definizione": "Sono più o meno densi",
+        "posizione": "0-12",
+        "lettere": 3
+      },
+      {
+        "numero": 9,
+        "parola": "IP",
+        "definizione": "Istituto professionale",
+        "posizione": "1-1",
+        "lettere": 2
+      },
+      {
+        "numero": 11,
+        "parola": "SINUOSA",
+        "definizione": "Tortuosa, serpeggiante",
+        "posizione": "1-14",
+        "lettere": 7
+      },
+      {
+        "numero": 13,
+        "parola": "REM",
+        "definizione": "La fase dei sogni (sigla)",
+        "posizione": "2-2",
+        "lettere": 3
+      },
+      {
+        "numero": 15,
+        "parola": "COE",
+        "definizione": "Sebastian dell'atletica leggera",
+        "posizione": "3-4",
+        "lettere": 3
+      },
+      {
+        "numero": 16,
+        "parola": "ARAMIS",
+        "definizione": "Amico di Porthos",
+        "posizione": "3-7",
+        "lettere": 6
+      },
+      {
+        "numero": 17,
+        "parola": "PEDIATRI",
+        "definizione": "Hanno giovani pazienti",
+        "posizione": "3-11",
+        "lettere": 8
+      },
+      {
+        "numero": 19,
+        "parola": "SB",
+        "definizione": "In mezzo alla Casbah",
+        "posizione": "4-0",
+        "lettere": 2
+      },
+      {
+        "numero": 23,
+        "parola": "USI",
+        "definizione": "Spesso fanno legge",
+        "posizione": "5-1",
+        "lettere": 3
+      },
+      {
+        "numero": 26,
+        "parola": "IB",
+        "definizione": "Il cuore di Annibale",
+        "posizione": "6-3",
+        "lettere": 2
+      },
+      {
+        "numero": 27,
+        "parola": "LB",
+        "definizione": "Iniziali della Biagiotti",
+        "posizione": "6-5",
+        "lettere": 2
+      },
+      {
+        "numero": 29,
+        "parola": "OLD",
+        "definizione": "Vecchia Inghilterra",
+        "posizione": "7-2",
+        "lettere": 3
+      },
+      {
+        "numero": 30,
+        "parola": "INS",
+        "definizione": "Docente di scuola elementare (abbr.)",
+        "posizione": "7-4",
+        "lettere": 3
+      },
+      {
+        "numero": 31,
+        "parola": "GIUGNO",
+        "definizione": "Il mese del giorno più lungo",
+        "posizione": "7-9",
+        "lettere": 6
+      },
+      {
+        "numero": 32,
+        "parola": "IS",
+        "definizione": "Il centro di Pisa",
+        "posizione": "7-13",
+        "lettere": 2
+      },
+      {
+        "numero": 33,
+        "parola": "SAMARE",
+        "definizione": "Semi dotati di ala",
+        "posizione": "9-0",
+        "lettere": 6
+      },
+      {
+        "numero": 34,
+        "parola": "ERO",
+        "definizione": "Lo dice chi è stato",
+        "posizione": "9-3",
+        "lettere": 3
+      },
+      {
+        "numero": 35,
+        "parola": "TRENET",
+        "definizione": "Il Charles di Douce France",
+        "posizione": "9-5",
+        "lettere": 6
+      },
+      {
+        "numero": 36,
+        "parola": "TOCE",
+        "definizione": "Scorre in Val d' Ossola",
+        "posizione": "9-14",
+        "lettere": 4
+      },
+      {
+        "numero": 38,
+        "parola": "AIA",
+        "definizione": "Spiazzo colonico",
+        "posizione": "10-12",
+        "lettere": 3
+      },
+      {
+        "numero": 39,
+        "parola": "RAMO",
+        "definizione": "Se è secco va tagliato",
+        "posizione": "11-2",
+        "lettere": 4
+      },
+      {
+        "numero": 40,
+        "parola": "ITO",
+        "definizione": "Una desinenza per i sali",
+        "posizione": "12-7",
+        "lettere": 3
+      },
+      {
+        "numero": 41,
+        "parola": "IVA",
+        "definizione": "Si versa allo Stato (sigla)",
+        "posizione": "12-11",
+        "lettere": 3
+      },
+      {
+        "numero": 42,
+        "parola": "NDR",
+        "definizione": "Nota Del Redattore",
+        "posizione": "12-13",
+        "lettere": 3
+      }
+    ]
   }
 }

@@ -3,301 +3,354 @@
   "size": "15x15",
   "grid": [
     "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
-    "0 # T # R O C C A # # S P I A #",
-    "1 R C A # N # # # F # U # R # #",
-    "2 A # C # D O C # R I T T O # P",
-    "3 T A C C A # I # A # U # # S U",
-    "4 I # # # # S C U S A R S I # D",
-    "5 # # U S O # A # E # A # # O O",
-    "6 # M # I # # L # # A # P # # R",
-    "7 S E G N A L E D A L L A R M E",
-    "8 # N # I # E # J # D # N # I #",
-    "9 # T # S T O A # # O C C # N #",
-    "0 T I C # U # R A F # # I N E S",
-    "1 A # E # O # N # # A V O # # O",
-    "2 R E I S # # E # M # # T # N N",
-    "3 # C # T R A S P I R A T A # D",
-    "4 B U O I # # I # O # # O # S A"
+    "0 # # M # S E N S O R E # P O P",
+    "1 # S A L E # A # R # M # # # I",
+    "2 # # A # D A S T E # S O A V E",
+    "3 # A G L I # # A # D # # U # #",
+    "4 # M # E # # L U N A # # D # #",
+    "5 M A G I C O # # # M # G I T A",
+    "6 # R # # # M # D # O # # T # R",
+    "7 C O M P A S S I O N E V O L I",
+    "8 I # O # G # # S # E # # R # A",
+    "9 B # T A L A R E # # D # # # #",
+    "0 I V O # I # # G U A I N A # R",
+    "1 # # # B O X # N # M # # O L E",
+    "2 # B U E # # V O L O # O R # T",
+    "3 # O # G # F # # D # S # T # E",
+    "4 J A # A M I D O # # N I A S #"
   ],
   "clues": {
     "across": [
       {
         "numero": 2,
-        "parola": "ROCCA",
-        "definizione": "Costantino, campione del golf",
-        "posizione": "0-3"
-      },
-      {
-        "numero": 4,
-        "parola": "SPIA",
-        "definizione": "Il nemico la fucila",
-        "posizione": "0-10"
+        "parola": "SENSORE",
+        "definizione": "Fa scattare un impianto di allarme",
+        "posizione": "0-4",
+        "lettere": 7
       },
       {
         "numero": 6,
-        "parola": "RCA",
-        "definizione": "L'assicurazione per le auto",
-        "posizione": "1-0"
+        "parola": "POP",
+        "definizione": "Il 'corn' ottenuto dal mais",
+        "posizione": "0-12",
+        "lettere": 3
+      },
+      {
+        "numero": 8,
+        "parola": "SALE",
+        "definizione": "Manca in zucca allo sciocco",
+        "posizione": "1-1",
+        "lettere": 4
       },
       {
         "numero": 9,
-        "parola": "DOC",
-        "definizione": "Una sigla del vino",
-        "posizione": "2-4"
+        "parola": "DASTE",
+        "definizione": "Ippolito, tragediografo italiano",
+        "posizione": "2-4",
+        "lettere": 5
       },
       {
         "numero": 11,
-        "parola": "RITTO",
-        "definizione": "Posto verticalmente",
-        "posizione": "2-8"
+        "parola": "SOAVE",
+        "definizione": "Piacevole e delicato",
+        "posizione": "2-10",
+        "lettere": 5
       },
       {
         "numero": 13,
-        "parola": "TACCA",
-        "definizione": "Il solco nel mirino",
-        "posizione": "3-0"
-      },
-      {
-        "numero": 14,
-        "parola": "SU",
-        "definizione": "Un monosillabo per far coraggio",
-        "posizione": "3-13"
-      },
-      {
-        "numero": 15,
-        "parola": "SCUSARSI",
-        "definizione": "Cercare di farsi perdonare",
-        "posizione": "4-5"
+        "parola": "AGLI",
+        "definizione": "Hanno reste e teste",
+        "posizione": "3-1",
+        "lettere": 4
       },
       {
         "numero": 16,
-        "parola": "USO",
-        "definizione": "Si fa adoperando",
-        "posizione": "5-2"
+        "parola": "LUNA",
+        "definizione": "Gira intorno alla Terra",
+        "posizione": "4-6",
+        "lettere": 4
       },
       {
-        "numero": 18,
-        "parola": "OO",
-        "definizione": "Alternativa secca",
-        "posizione": "5-13"
+        "numero": 17,
+        "parola": "MAGICO",
+        "definizione": "Prodigioso",
+        "posizione": "5-0",
+        "lettere": 6
+      },
+      {
+        "numero": 19,
+        "parola": "GITA",
+        "definizione": "La rovina un temporale",
+        "posizione": "5-11",
+        "lettere": 4
       },
       {
         "numero": 22,
-        "parola": "SEGNALEDALLARME",
-        "definizione": "Si usa in treno soltanto in caso di pericolo",
-        "posizione": "7-0"
+        "parola": "COMPASSIONEVOLI",
+        "definizione": "Pietosi, misericordiosi",
+        "posizione": "7-0",
+        "lettere": 15
       },
       {
-        "numero": 26,
-        "parola": "STOA",
-        "definizione": "Scuola filosofica stoica",
-        "posizione": "9-3"
+        "numero": 25,
+        "parola": "TALARE",
+        "definizione": "Attributo dell'abito del prete",
+        "posizione": "9-2",
+        "lettere": 6
       },
       {
-        "numero": 29,
-        "parola": "OCC",
-        "definizione": "Occidentale in tre lettere",
-        "posizione": "9-9"
+        "numero": 27,
+        "parola": "IVO",
+        "definizione": "É tardivo quello di Benvenuti",
+        "posizione": "10-0",
+        "lettere": 3
       },
       {
-        "numero": 30,
-        "parola": "TIC",
-        "definizione": "Movimento... nervoso",
-        "posizione": "10-0"
+        "numero": 28,
+        "parola": "GUAINA",
+        "definizione": "Isola i fili elettrici",
+        "posizione": "10-7",
+        "lettere": 6
       },
       {
         "numero": 32,
-        "parola": "RAF",
-        "definizione": "Il nome di Vallone",
-        "posizione": "10-6"
+        "parola": "BOX",
+        "definizione": "Un bugigattolo per l'auto",
+        "posizione": "11-3",
+        "lettere": 3
       },
       {
         "numero": 33,
-        "parola": "INES",
-        "definizione": "La confidente della Favorita",
-        "posizione": "10-11"
+        "parola": "OLE",
+        "definizione": "Esclamazione che sottolinea un gesto",
+        "posizione": "11-12",
+        "lettere": 3
+      },
+      {
+        "numero": 34,
+        "parola": "BUE",
+        "definizione": "Grosso ruminante",
+        "posizione": "12-1",
+        "lettere": 3
       },
       {
         "numero": 35,
-        "parola": "AVO",
-        "definizione": "Un famigliare del passato",
-        "posizione": "11-9"
+        "parola": "VOLO",
+        "definizione": "Gli antichi traevano auspici da quello degli uccelli",
+        "posizione": "12-6",
+        "lettere": 4
       },
       {
-        "numero": 36,
-        "parola": "REIS",
-        "definizione": "Antica moneta del Brasile",
-        "posizione": "12-0"
+        "numero": 37,
+        "parola": "OR",
+        "definizione": "Seguono te in teoria",
+        "posizione": "12-11",
+        "lettere": 2
       },
       {
         "numero": 40,
-        "parola": "NN",
-        "definizione": "Sono uguali in inverno",
-        "posizione": "12-13"
+        "parola": "JA",
+        "definizione": "Sì a Berlino",
+        "posizione": "14-0",
+        "lettere": 2
       },
       {
         "numero": 41,
-        "parola": "TRASPIRATA",
-        "definizione": "Lo è l'acqua eliminata dalle foglie",
-        "posizione": "13-3"
+        "parola": "AMIDO",
+        "definizione": "Abbonda nel riso",
+        "posizione": "14-3",
+        "lettere": 5
       },
       {
         "numero": 42,
-        "parola": "BUOI",
-        "definizione": "S'accoppiano con il giogo",
-        "posizione": "14-0"
-      },
-      {
-        "numero": 43,
-        "parola": "SA",
-        "definizione": "Il fondo della dispensa",
-        "posizione": "14-13"
+        "parola": "NIAS",
+        "definizione": "Isola indonesiana",
+        "posizione": "14-10",
+        "lettere": 4
       }
     ],
     "down": [
       {
         "numero": 1,
-        "parola": "TC",
-        "definizione": "Simbolo del tecnezio",
-        "posizione": "0-1"
+        "parola": "MAAG",
+        "definizione": "Famoso direttore d'orchestra elvetico",
+        "posizione": "0-2",
+        "lettere": 4
+      },
+      {
+        "numero": 2,
+        "parola": "SEDI",
+        "definizione": "Le... centrali delle banche",
+        "posizione": "0-4",
+        "lettere": 4
       },
       {
         "numero": 3,
-        "parola": "ONDA",
-        "definizione": "Un rilievo sul mare",
-        "posizione": "0-4"
+        "parola": "NAS",
+        "definizione": "Si occupano di frodi (sigla)",
+        "posizione": "0-6",
+        "lettere": 3
       },
       {
         "numero": 4,
-        "parola": "SUTURA",
-        "definizione": "La... cucitura del chirurgo",
-        "posizione": "0-10"
+        "parola": "ORE",
+        "definizione": "Si battono dal campanile",
+        "posizione": "0-8",
+        "lettere": 3
       },
       {
         "numero": 5,
-        "parola": "IRO",
-        "definizione": "Mendicava a Itaca",
-        "posizione": "0-12"
-      },
-      {
-        "numero": 6,
-        "parola": "RATI",
-        "definizione": "Approvati, confermati",
-        "posizione": "1-0"
+        "parola": "EMS",
+        "definizione": "Fiume della Vestfalia",
+        "posizione": "0-10",
+        "lettere": 3
       },
       {
         "numero": 7,
-        "parola": "ACC",
-        "definizione": "Un' esclamazione interrotta",
-        "posizione": "1-2"
-      },
-      {
-        "numero": 8,
-        "parola": "FRASE",
-        "definizione": "É formata di parole",
-        "posizione": "1-8"
+        "parola": "PIE",
+        "definizione": "Buone... come Opere",
+        "posizione": "0-14",
+        "lettere": 3
       },
       {
         "numero": 10,
-        "parola": "CICALE",
-        "definizione": "Cantano solo d'estate",
-        "posizione": "2-6"
+        "parola": "TAU",
+        "definizione": "Segue il sigma",
+        "posizione": "2-7",
+        "lettere": 3
       },
       {
         "numero": 12,
-        "parola": "PUDORE",
-        "definizione": "Lo svergognato non ne sente neanche un po'",
-        "posizione": "2-14"
+        "parola": "AUDITOR",
+        "definizione": "Esperto in operazioni di verifica contabile",
+        "posizione": "2-12",
+        "lettere": 7
       },
       {
-        "numero": 17,
-        "parola": "SINIS",
-        "definizione": "La zona sarda con Oristano",
-        "posizione": "5-3"
+        "numero": 13,
+        "parola": "AMARO",
+        "definizione": "Si assume dopo il pasto per favorire la digestione",
+        "posizione": "3-1",
+        "lettere": 5
       },
       {
-        "numero": 19,
-        "parola": "MENTI",
-        "definizione": "Quelle eccelse sono dei veri geni",
-        "posizione": "6-1"
+        "numero": 14,
+        "parola": "LEI",
+        "definizione": "Un pronome femminile",
+        "posizione": "3-3",
+        "lettere": 3
+      },
+      {
+        "numero": 15,
+        "parola": "DAMONE",
+        "definizione": "Si muove sulla scacchiera",
+        "posizione": "3-9",
+        "lettere": 6
+      },
+      {
+        "numero": 18,
+        "parola": "OMS",
+        "definizione": "La sigla della sanità mondiale",
+        "posizione": "5-5",
+        "lettere": 3
       },
       {
         "numero": 20,
-        "parola": "ALDO",
-        "definizione": "Nome dell'attore Maccione",
-        "posizione": "6-9"
+        "parola": "ARIA",
+        "definizione": "All'aperto è aperta",
+        "posizione": "5-14",
+        "lettere": 4
       },
       {
         "numero": 21,
-        "parola": "PANCIOTTO",
-        "definizione": "Gilet",
-        "posizione": "6-11"
+        "parola": "DISEGNO",
+        "definizione": "Quello di legge viene discusso alla Camera",
+        "posizione": "6-7",
+        "lettere": 7
+      },
+      {
+        "numero": 22,
+        "parola": "CIBI",
+        "definizione": "Quelli grassi sono difficili da digerire",
+        "posizione": "7-0",
+        "lettere": 4
       },
       {
         "numero": 23,
-        "parola": "LEO",
-        "definizione": "Il Chiosso paroliere",
-        "posizione": "7-5"
+        "parola": "MOTO",
+        "definizione": "Le vende la Yamaha",
+        "posizione": "7-2",
+        "lettere": 4
       },
       {
         "numero": 24,
-        "parola": "DJ",
-        "definizione": "Compila scalette musicali.",
-        "posizione": "7-7"
+        "parola": "AGLIO",
+        "definizione": "Si sfrega per insaporire la bruschetta",
+        "posizione": "7-4",
+        "lettere": 5
       },
       {
-        "numero": 25,
-        "parola": "MINE",
-        "definizione": "Le 4H sono molto dure",
-        "posizione": "7-13"
+        "numero": 26,
+        "parola": "DI",
+        "definizione": "Sinonimo di giorno",
+        "posizione": "9-10",
+        "lettere": 2
       },
       {
-        "numero": 27,
-        "parola": "TUO",
-        "definizione": "Nè mio nè suo",
-        "posizione": "9-4"
-      },
-      {
-        "numero": 28,
-        "parola": "ARNESI",
-        "definizione": "I ferri che il meccanico ripone",
-        "posizione": "9-6"
+        "numero": 29,
+        "parola": "AMO",
+        "definizione": "É all'estremità della lenza",
+        "posizione": "10-9",
+        "lettere": 3
       },
       {
         "numero": 30,
-        "parola": "TAR",
-        "definizione": "È famoso quello del Lazio",
-        "posizione": "10-0"
+        "parola": "AORTA",
+        "definizione": "Il tronco di tutto l' albero arterioso",
+        "posizione": "10-12",
+        "lettere": 5
       },
       {
         "numero": 31,
-        "parola": "CEI",
-        "definizione": "Raccoglie i vescovi italiani (sigla)",
-        "posizione": "10-2"
+        "parola": "RETE",
+        "definizione": "Si getta dalla lampara",
+        "posizione": "10-14",
+        "lettere": 4
+      },
+      {
+        "numero": 32,
+        "parola": "BEGA",
+        "definizione": "Un fastidioso impiccio",
+        "posizione": "11-3",
+        "lettere": 4
       },
       {
         "numero": 34,
-        "parola": "SONDA",
-        "definizione": "Si usa per scandagliare",
-        "posizione": "10-14"
+        "parola": "BOA",
+        "definizione": "Galleggiante",
+        "posizione": "12-1",
+        "lettere": 3
       },
       {
-        "numero": 37,
-        "parola": "ECU",
-        "definizione": "Precedette l'Euro",
-        "posizione": "12-1"
+        "numero": 36,
+        "parola": "LD",
+        "definizione": "Il cuore di Aldo",
+        "posizione": "12-8",
+        "lettere": 2
       },
       {
         "numero": 38,
-        "parola": "STI",
-        "definizione": "Questi, con aferesi",
-        "posizione": "12-3"
+        "parola": "FI",
+        "definizione": "Rendono infido l'indo",
+        "posizione": "13-5",
+        "lettere": 2
       },
       {
         "numero": 39,
-        "parola": "MIO",
-        "definizione": "Prefisso per muscolo",
-        "posizione": "12-8"
+        "parola": "SN",
+        "definizione": "La linea meridiana",
+        "posizione": "13-10",
+        "lettere": 2
       }
     ]
   }

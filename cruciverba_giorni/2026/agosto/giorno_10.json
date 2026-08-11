@@ -1,78 +1,364 @@
 {
-  "title": "Cruciverba: Italiano Universale #1",
+  "title": "Cruciverba: Italiano Universale #10",
   "size": "15x15",
   "grid": [
-    "B A N N E R # # # N # # # # N",
-    "O # # U # E # # C I P # C R U",
-    "R # # M # A M B O # I N O # D",
-    "S E G A L # M # S # S # D S E",
-    "E # O # E # # # T R A M A # #",
-    "G A # C I E C H I # # # # M A",
-    "G # # O # # S # N # # V # # T",
-    "I N T E R D I P E N D E N T E",
-    "O # R # E # # # # # # R # # O",
-    "# # I T A L I A # V # R U E #",
-    "I C S # # E # N # I R E # B #",
-    "N # # S U O # N # R # # # R O",
-    "T I T O # # T A T I # E S E #",
-    "E # # L P # # T # L # V # I R",
-    "R O S O # A F A # E O A # # C"
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
+    "0 # # # # A # # G # S P R I N T",
+    "1 # # S T E L L E # # I # T # R",
+    "2 # I P # D # # O E R T E R # I",
+    "3 P # A I O # # D # # T # I C S",
+    "4 R A G # # O D E # R # # # C #",
+    "5 E # H # P # A # S I A # S C I",
+    "6 A # E # R # # T # # U # O # R",
+    "7 V I T T O R I A C O L O N N A",
+    "8 V # T # F # # C # # A # A # N",
+    "9 I R I # A # C E C I # D R Y #",
+    "0 S # # # N Z # R # # C # # # #",
+    "1 O # S U O # # E M E R I T A #",
+    "2 # L # T # D S # # T # A # R O",
+    "3 N I # A R E # E # A L T # I #",
+    "4 # T O H # A L I # # # O B O E"
   ],
   "clues": {
-    "across": {
-      "1": "Striscia pubblicitaria usata sul web",
-      "6": "Voce di passero",
-      "8": "Un vigneto che produce vino particolarmente pregiato",
-      "9": "Un paio al Lotto",
-      "11": "La mitica figlia di Armonia",
-      "12": "George attore statunitense",
-      "15": "Dipartimento Scienza ed Educazione",
-      "16": "Il soggetto d'un film",
-      "17": "Un Divo per Sorrentino (iniz.)",
-      "18": "Lo sono i vicoli senza uscita",
-      "20": "La fine del tema",
-      "23": "Si dice di un fattore che condiziona ed è condizionato da altri",
-      "26": "Una penisola europea",
-      "30": "La \" via\" dei Parigini",
-      "32": "La forma del 10 romano",
-      "33": "Collere collettive",
-      "34": "Né mio né tuo",
-      "35": "Segue il Pi greco",
-      "36": "Così era chiamato Josip Broz",
-      "37": "Il comico di \"Mio zio\"",
-      "38": "É opposto a ONO",
-      "39": "I CD ne hanno preso il posto",
-      "40": "Raggi Infrarossi (sigla)",
-      "42": "Morsicato dai topi",
-      "43": "Fa sudare anche chi ozia!",
-      "44": "End of Address (sigla)"
-    },
-    "down": {
-      "1": "Furto da ladruncoli",
-      "2": "Il Pompilio re",
-      "3": "La Silvia che amò Marte",
-      "4": "Fine di inganni",
-      "5": "Così amano stare le naturiste",
-      "6": "I rilievi di certi velluti",
-      "7": "Ha un famoso campanile pendente",
-      "8": "Appendice... canina",
-      "10": "Mario Monicelli",
-      "13": "Cambiano perle in pergole",
-      "14": "Si spendono a Bucarest",
-      "18": "Il Sebastian famoso mezzofondista inglese",
-      "19": "La costituì Boris Eltsin",
-      "21": "Crede solamente in questa vita",
-      "22": "Uomo politico romano accusato da Cicerone",
-      "24": "Con una coppia forma il full",
-      "25": "Domenico, scrittore, autore diSpaccanapoli",
-      "27": "Nome di Valiani",
-      "28": "Contraddistingue il vino Doc",
-      "29": "Proprio dell'uomo",
-      "31": "Non lavorano il sabato",
-      "32": "La squadra in cui gioca Lukaku",
-      "34": "Bobby __: lanciò Una lacrima sul viso",
-      "38": "Si lasciò tentare dal serpente",
-      "41": "Sigla di Reggio Calabria"
-    }
+    "across": [
+      {
+        "numero": 3,
+        "parola": "SPRINT",
+        "definizione": "Scatto di atleta",
+        "posizione": "0-9",
+        "lettere": 6
+      },
+      {
+        "numero": 7,
+        "parola": "STELLE",
+        "definizione": "Luminosi corpi celesti",
+        "posizione": "1-2",
+        "lettere": 6
+      },
+      {
+        "numero": 8,
+        "parola": "IP",
+        "definizione": "Un marchio del petrolio italiano",
+        "posizione": "2-1",
+        "lettere": 2
+      },
+      {
+        "numero": 9,
+        "parola": "OERTER",
+        "definizione": "Al discobolo americano, quattro volte oro alle Olimpiadi",
+        "posizione": "2-7",
+        "lettere": 6
+      },
+      {
+        "numero": 11,
+        "parola": "AIO",
+        "definizione": "Maestro d' altri tempi",
+        "posizione": "3-2",
+        "lettere": 3
+      },
+      {
+        "numero": 12,
+        "parola": "ICS",
+        "definizione": "Lettera che indica il pareggio",
+        "posizione": "3-12",
+        "lettere": 3
+      },
+      {
+        "numero": 14,
+        "parola": "RAG",
+        "definizione": "Quello più importante è Monorchio (sigla)",
+        "posizione": "4-0",
+        "lettere": 3
+      },
+      {
+        "numero": 15,
+        "parola": "ODE",
+        "definizione": "Componimento elevato",
+        "posizione": "4-5",
+        "lettere": 3
+      },
+      {
+        "numero": 19,
+        "parola": "SIA",
+        "definizione": "Un sì strappato",
+        "posizione": "5-8",
+        "lettere": 3
+      },
+      {
+        "numero": 21,
+        "parola": "SCI",
+        "definizione": "Li usa Ghedina",
+        "posizione": "5-12",
+        "lettere": 3
+      },
+      {
+        "numero": 24,
+        "parola": "VITTORIACOLONNA",
+        "definizione": "Poetessa che fu cara amica di Michelangelo",
+        "posizione": "7-0",
+        "lettere": 15
+      },
+      {
+        "numero": 25,
+        "parola": "IRI",
+        "definizione": "Poetico arcobaleno",
+        "posizione": "9-0",
+        "lettere": 3
+      },
+      {
+        "numero": 26,
+        "parola": "CECI",
+        "definizione": "Legumi rotondi",
+        "posizione": "9-6",
+        "lettere": 4
+      },
+      {
+        "numero": 27,
+        "parola": "DRY",
+        "definizione": "Il secco dei liquori",
+        "posizione": "9-11",
+        "lettere": 3
+      },
+      {
+        "numero": 28,
+        "parola": "NZ",
+        "definizione": "Centro dello stanzino",
+        "posizione": "10-4",
+        "lettere": 2
+      },
+      {
+        "numero": 30,
+        "parola": "SUO",
+        "definizione": "Di lui",
+        "posizione": "11-2",
+        "lettere": 3
+      },
+      {
+        "numero": 32,
+        "parola": "EMERITA",
+        "definizione": "Famosa e insigne",
+        "posizione": "11-7",
+        "lettere": 7
+      },
+      {
+        "numero": 37,
+        "parola": "DS",
+        "definizione": "Il partito di Angius",
+        "posizione": "12-5",
+        "lettere": 2
+      },
+      {
+        "numero": 38,
+        "parola": "RO",
+        "definizione": "Così finisce dentro",
+        "posizione": "12-13",
+        "lettere": 2
+      },
+      {
+        "numero": 39,
+        "parola": "NI",
+        "definizione": "Un po' di... niente",
+        "posizione": "13-0",
+        "lettere": 2
+      },
+      {
+        "numero": 40,
+        "parola": "ARE",
+        "definizione": "Fumavano nei templi",
+        "posizione": "13-3",
+        "lettere": 3
+      },
+      {
+        "numero": 42,
+        "parola": "ALT",
+        "definizione": "Un'imposizione che blocca",
+        "posizione": "13-9",
+        "lettere": 3
+      },
+      {
+        "numero": 43,
+        "parola": "TOH",
+        "definizione": "Precede il chi si vede",
+        "posizione": "14-1",
+        "lettere": 3
+      },
+      {
+        "numero": 44,
+        "parola": "ALI",
+        "definizione": "Organi per il volo",
+        "posizione": "14-5",
+        "lettere": 3
+      },
+      {
+        "numero": 45,
+        "parola": "OBOE",
+        "definizione": "Strumento musicale",
+        "posizione": "14-11",
+        "lettere": 4
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "AEDO",
+        "definizione": "Il rapsodo dei tempi omerici",
+        "posizione": "0-4",
+        "lettere": 4
+      },
+      {
+        "numero": 2,
+        "parola": "GEODE",
+        "definizione": "Cavità nella roccia con le pareti rivestite di cristalli",
+        "posizione": "0-7",
+        "lettere": 5
+      },
+      {
+        "numero": 4,
+        "parola": "PITT",
+        "definizione": "Il Brad attore osannato dalle donne",
+        "posizione": "0-10",
+        "lettere": 4
+      },
+      {
+        "numero": 5,
+        "parola": "ITRI",
+        "definizione": "La città di Fra Diavolo",
+        "posizione": "0-12",
+        "lettere": 4
+      },
+      {
+        "numero": 6,
+        "parola": "TRIS",
+        "definizione": "La seconda ripetizione",
+        "posizione": "0-14",
+        "lettere": 4
+      },
+      {
+        "numero": 7,
+        "parola": "SPAGHETTI",
+        "definizione": "Sono eccellenti preparati alla chitarra",
+        "posizione": "1-2",
+        "lettere": 9
+      },
+      {
+        "numero": 10,
+        "parola": "PREAVVISO",
+        "definizione": "Non viene dato per il licenziamento in tronco",
+        "posizione": "3-0",
+        "lettere": 9
+      },
+      {
+        "numero": 13,
+        "parola": "CCC",
+        "definizione": "Trecento romano",
+        "posizione": "3-13",
+        "lettere": 3
+      },
+      {
+        "numero": 16,
+        "parola": "DA",
+        "definizione": "L'affermazione russa",
+        "posizione": "4-6",
+        "lettere": 2
+      },
+      {
+        "numero": 17,
+        "parola": "RI",
+        "definizione": "Il pomeriggio d' ieri",
+        "posizione": "4-9",
+        "lettere": 2
+      },
+      {
+        "numero": 18,
+        "parola": "PROFANO",
+        "definizione": "Del tutto incompetente",
+        "posizione": "5-4",
+        "lettere": 7
+      },
+      {
+        "numero": 20,
+        "parola": "AULA",
+        "definizione": "È bunker per i maxiprocessi",
+        "posizione": "5-10",
+        "lettere": 4
+      },
+      {
+        "numero": 21,
+        "parola": "SONAR",
+        "definizione": "Localizza oggetti subacquei",
+        "posizione": "5-12",
+        "lettere": 5
+      },
+      {
+        "numero": 22,
+        "parola": "IRAN",
+        "definizione": "La Persia dei nostri giorni",
+        "posizione": "5-14",
+        "lettere": 4
+      },
+      {
+        "numero": 23,
+        "parola": "TACERE",
+        "definizione": "Tenere la bocca chiusa",
+        "posizione": "6-7",
+        "lettere": 6
+      },
+      {
+        "numero": 29,
+        "parola": "CR",
+        "definizione": "Apertura di credito",
+        "posizione": "10-10",
+        "lettere": 2
+      },
+      {
+        "numero": 31,
+        "parola": "UTAH",
+        "definizione": "Lo Stato con molti Mormoni",
+        "posizione": "11-3",
+        "lettere": 4
+      },
+      {
+        "numero": 33,
+        "parola": "ETA",
+        "definizione": "Matura, ma non è un frutto",
+        "posizione": "11-9",
+        "lettere": 3
+      },
+      {
+        "numero": 34,
+        "parola": "IATO",
+        "definizione": "Un incontro di vocali",
+        "posizione": "11-11",
+        "lettere": 4
+      },
+      {
+        "numero": 35,
+        "parola": "ARIO",
+        "definizione": "Famoso eresiarca alessandrino dal secolo IV",
+        "posizione": "11-13",
+        "lettere": 4
+      },
+      {
+        "numero": 36,
+        "parola": "LIT",
+        "definizione": "Una sigla che sarà dimenticata con le lire italiane",
+        "posizione": "12-1",
+        "lettere": 3
+      },
+      {
+        "numero": 37,
+        "parola": "DEA",
+        "definizione": "Lo era Afrodite",
+        "posizione": "12-5",
+        "lettere": 3
+      },
+      {
+        "numero": 41,
+        "parola": "EI",
+        "definizione": "Una Forza Armata (sigla)",
+        "posizione": "13-7",
+        "lettere": 2
+      }
+    ]
   }
 }

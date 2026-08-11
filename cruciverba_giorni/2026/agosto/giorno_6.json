@@ -1,68 +1,350 @@
 {
-  "title": "Cruciverba: Italiano Universale",
+  "title": "Cruciverba: Italiano Universale #6",
   "size": "15x15",
   "grid": [
-    "U S C I T E # # # G # # W # U",
-    "# C # # # # M A N I # # T # S",
-    "# O L A N D A # # R E V O C A",
-    "# S # D # # L O D I # I # A #",
-    "E S C A P E # # # # N E I L #",
-    "# A # # E # A V E # # # # O #",
-    "# # G # R # L # L # R # R # Z",
-    "F R E C C E T R I C O L O R I",
-    "I # N # O # E # O # S # B # A",
-    "A G O # S # R # T R E # O # #",
-    "T # V # S I A M # A # # T O T",
-    "# M A G A # R # A S I L I # A",
-    "# U # O # # E # L # D # C E S",
-    "# S # L I U # S P A R T A # C",
-    "V A I # # # # # # # A # # # A"
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
+    "0 # P # V # C # # # L E # # O #",
+    "1 E S T O N I A # C # T I M E R",
+    "2 # I # N # # L E A # O # A # #",
+    "3 C # F # M O A # S D N # R # C",
+    "4 O # O # I # D # E # # N E R I",
+    "5 S T U F A # I N I E # # A # C",
+    "6 # # L # # # N # N # # V # # L",
+    "7 C L A U D I O B A G L I O N I",
+    "8 A # R # C # # U # E # S # # S",
+    "9 R E D # # C H I A N T I # V M",
+    "0 A # # U T O # # N # # T # # O",
+    "1 # F # R # L # # S C I A P A #",
+    "2 L O R I S # L E E # P # # M L",
+    "3 # F # # E # A # # D E G N O #",
+    "4 D I S S I D I # # # R # G # #"
   ],
   "clues": {
-    "across": {
-      "1": "Nei cinema ci sono quelle di sicurezza",
-      "6": "S' incalliscono lavorando",
-      "7": "I Paesi Bassi",
-      "9": "Un contrordine che annulla",
-      "12": "Nuova provincia lombarda",
-      "13": "Il comando che fa uscire da un programma",
-      "15": "Armstrong sulla Luna",
-      "16": "Una Agnelli in politica (iniz.)",
-      "22": "Una nostra pattuglia aerea acrobatica",
-      "23": "Ha un piccolissimo foro a una estremità",
-      "24": "È per due in certe offerte",
-      "26": "L' altro nome per la Thailandia",
-      "27": "Una cifra ancora da quantificare",
-      "29": "Lo era Medea",
-      "31": "Le scuole per i più piccoli",
-      "33": "Confederazione Europea dei Sindacati",
-      "34": "Canta Tu che di gel sei cinta",
-      "35": "Contrastò l'egemonia di Atene",
-      "36": "Su, muoviti!"
-    },
-    "down": {
-      "2": "Agitata, commossa",
-      "3": "Li programma il piazzista",
-      "4": "L'organizzazione per l'abbattimento delle barriere doganali (sigla inglese)",
-      "5": "La sigla yankee",
-      "6": "Può essere... d'auto",
-      "8": "Con \"l'ardore\" è in un titolo di Nabokov",
-      "10": "Sono battute da tutti",
-      "11": "Diminuzione, abbassamento",
-      "14": "Battuta, picchiata",
-      "16": "Falsificare, travisare",
-      "17": "Celebre poeta del '900",
-      "18": "La provincia di Rapallo",
-      "19": "Nascono boccioli",
-      "20": "Tecnica di progettazione e costruzione di automi",
-      "21": "La ringrazia Samperi in un suo film",
-      "22": "La parola con cui Dio creò il mondo",
-      "25": "Coadiuvavano con il Negus",
-      "28": "Un rifugio per la mano",
-      "29": "L'ispiratrice del poeta",
-      "30": "Ne fa molti il bomber",
-      "31": "Australian Labor Party",
-      "32": "Il mostro della palude ucciso da Ercole"
-    }
+    "across": [
+      {
+        "numero": 4,
+        "parola": "LE",
+        "definizione": "Lega dimezzata",
+        "posizione": "0-9",
+        "lettere": 2
+      },
+      {
+        "numero": 7,
+        "parola": "ESTONIA",
+        "definizione": "La repubblica baltica fra il Golfo di Finlandia e quello di Riga",
+        "posizione": "1-0",
+        "lettere": 7
+      },
+      {
+        "numero": 10,
+        "parola": "TIMER",
+        "definizione": "Dispositivo che indica i tempi negli elettrodomestici",
+        "posizione": "1-10",
+        "lettere": 5
+      },
+      {
+        "numero": 12,
+        "parola": "LEA",
+        "definizione": "Nome della Massari",
+        "posizione": "2-6",
+        "lettere": 3
+      },
+      {
+        "numero": 15,
+        "parola": "MOA",
+        "definizione": "Struzzo australiano estinto",
+        "posizione": "3-4",
+        "lettere": 3
+      },
+      {
+        "numero": 16,
+        "parola": "SDN",
+        "definizione": "Sigla che precedette Onu",
+        "posizione": "3-8",
+        "lettere": 3
+      },
+      {
+        "numero": 18,
+        "parola": "NERI",
+        "definizione": "Scuri come la pece",
+        "posizione": "4-11",
+        "lettere": 4
+      },
+      {
+        "numero": 19,
+        "parola": "STUFA",
+        "definizione": "Serve di più in inverno",
+        "posizione": "5-0",
+        "lettere": 5
+      },
+      {
+        "numero": 20,
+        "parola": "INIE",
+        "definizione": "I delfini di fiume",
+        "posizione": "5-6",
+        "lettere": 4
+      },
+      {
+        "numero": 22,
+        "parola": "CLAUDIOBAGLIONI",
+        "definizione": "Famoso cantante italiano",
+        "posizione": "7-0",
+        "lettere": 15
+      },
+      {
+        "numero": 26,
+        "parola": "RED",
+        "definizione": "Rosso londinese",
+        "posizione": "9-0",
+        "lettere": 3
+      },
+      {
+        "numero": 27,
+        "parola": "CHIANTI",
+        "definizione": "Il vino simboleggiato dal gallo nero",
+        "posizione": "9-5",
+        "lettere": 7
+      },
+      {
+        "numero": 29,
+        "parola": "VM",
+        "definizione": "Iniziali di Mortensen",
+        "posizione": "9-13",
+        "lettere": 2
+      },
+      {
+        "numero": 30,
+        "parola": "UTO",
+        "definizione": "Ughi, mago del violino",
+        "posizione": "10-3",
+        "lettere": 3
+      },
+      {
+        "numero": 32,
+        "parola": "SCIAPA",
+        "definizione": "Insipida",
+        "posizione": "11-8",
+        "lettere": 6
+      },
+      {
+        "numero": 35,
+        "parola": "LORIS",
+        "definizione": "Il Capirossi centauro",
+        "posizione": "12-0",
+        "lettere": 5
+      },
+      {
+        "numero": 37,
+        "parola": "LEE",
+        "definizione": "Spark regista",
+        "posizione": "12-6",
+        "lettere": 3
+      },
+      {
+        "numero": 38,
+        "parola": "ML",
+        "definizione": "Iniziali di Lopez",
+        "posizione": "12-13",
+        "lettere": 2
+      },
+      {
+        "numero": 39,
+        "parola": "DEGNO",
+        "definizione": "Conveniente, che si addice",
+        "posizione": "13-9",
+        "lettere": 5
+      },
+      {
+        "numero": 41,
+        "parola": "DISSIDI",
+        "definizione": "Contrasti d'opinioni",
+        "posizione": "14-0",
+        "lettere": 7
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "PSI",
+        "definizione": "Il secondo partito del pentapartito",
+        "posizione": "0-1",
+        "lettere": 3
+      },
+      {
+        "numero": 2,
+        "parola": "VON",
+        "definizione": "Prefisso a cognomi tedeschi",
+        "posizione": "0-3",
+        "lettere": 3
+      },
+      {
+        "numero": 3,
+        "parola": "CI",
+        "definizione": "Nei cubi e nei cilindri",
+        "posizione": "0-5",
+        "lettere": 2
+      },
+      {
+        "numero": 5,
+        "parola": "ETON",
+        "definizione": "Antico college inglese",
+        "posizione": "0-10",
+        "lettere": 4
+      },
+      {
+        "numero": 6,
+        "parola": "OE",
+        "definizione": "Le vocali in forse",
+        "posizione": "0-13",
+        "lettere": 2
+      },
+      {
+        "numero": 8,
+        "parola": "ALADINO",
+        "definizione": "Un genio esaudisce i suoi desideri",
+        "posizione": "1-6",
+        "lettere": 7
+      },
+      {
+        "numero": 9,
+        "parola": "CASEINA",
+        "definizione": "Una sostanza impiegata nell' industria dei formaggi",
+        "posizione": "1-8",
+        "lettere": 7
+      },
+      {
+        "numero": 11,
+        "parola": "MAREA",
+        "definizione": "L'influenza la luna",
+        "posizione": "1-12",
+        "lettere": 5
+      },
+      {
+        "numero": 13,
+        "parola": "COS",
+        "definizione": "Simbolo del coseno",
+        "posizione": "3-0",
+        "lettere": 3
+      },
+      {
+        "numero": 14,
+        "parola": "FOULARD",
+        "definizione": "Il fazzoletto in testa",
+        "posizione": "3-2",
+        "lettere": 7
+      },
+      {
+        "numero": 15,
+        "parola": "MIA",
+        "definizione": "Fatta da me",
+        "posizione": "3-4",
+        "lettere": 3
+      },
+      {
+        "numero": 17,
+        "parola": "CICLISMO",
+        "definizione": "La specialità sportiva di Filippo Ganna",
+        "posizione": "3-14",
+        "lettere": 8
+      },
+      {
+        "numero": 21,
+        "parola": "VISITA",
+        "definizione": "Quella fiscale accerta la malattia",
+        "posizione": "6-11",
+        "lettere": 6
+      },
+      {
+        "numero": 22,
+        "parola": "CARA",
+        "definizione": "Vicinissima al cuore",
+        "posizione": "7-0",
+        "lettere": 4
+      },
+      {
+        "numero": 23,
+        "parola": "DC",
+        "definizione": "Aveva nel simbolo lo scudo crociato (sigla).",
+        "posizione": "7-4",
+        "lettere": 2
+      },
+      {
+        "numero": 24,
+        "parola": "BUI",
+        "definizione": "Sono all'oscuro",
+        "posizione": "7-7",
+        "lettere": 3
+      },
+      {
+        "numero": 25,
+        "parola": "GEN",
+        "definizione": "Alto graduato (abbrev.)",
+        "posizione": "7-9",
+        "lettere": 3
+      },
+      {
+        "numero": 27,
+        "parola": "COL",
+        "definizione": "Vale assieme al",
+        "posizione": "9-5",
+        "lettere": 3
+      },
+      {
+        "numero": 28,
+        "parola": "ANSE",
+        "definizione": "Curve sinuose dei fiumi",
+        "posizione": "9-8",
+        "lettere": 4
+      },
+      {
+        "numero": 30,
+        "parola": "URI",
+        "definizione": "Nel paradiso maomettano",
+        "posizione": "10-3",
+        "lettere": 3
+      },
+      {
+        "numero": 31,
+        "parola": "FOFI",
+        "definizione": "Un critico Goffredo",
+        "posizione": "11-1",
+        "lettere": 4
+      },
+      {
+        "numero": 33,
+        "parola": "IPER",
+        "definizione": "Prefisso che ingrandisce",
+        "posizione": "11-10",
+        "lettere": 4
+      },
+      {
+        "numero": 34,
+        "parola": "AMO",
+        "definizione": "Si nasconde in un boccone",
+        "posizione": "11-13",
+        "lettere": 3
+      },
+      {
+        "numero": 36,
+        "parola": "SEI",
+        "definizione": "La sufficienza in pagella",
+        "posizione": "12-4",
+        "lettere": 3
+      },
+      {
+        "numero": 37,
+        "parola": "LAI",
+        "definizione": "Medievali lamenti poetici",
+        "posizione": "12-6",
+        "lettere": 3
+      },
+      {
+        "numero": 40,
+        "parola": "NG",
+        "definizione": "In Congo e in Nigeria",
+        "posizione": "13-12",
+        "lettere": 2
+      }
+    ]
   }
 }

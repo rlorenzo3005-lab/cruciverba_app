@@ -1,67 +1,343 @@
 {
-  "title": "Cruciverba: Italiano Universale #2",
+  "title": "Cruciverba: Italiano Universale #8",
   "size": "15x15",
   "grid": [
-    "# # # C I N I C O # # R E S E",
-    "# # # U # # S # # # # A # C #",
-    "# C E R I # T A L E G G I O #",
-    "# A # E # # # R # # N # # P #",
-    "# S # # A # # I # P U N T O #",
-    "T E A # S # C A S A # E # # A",
-    "# D # # S # E # # P # R # # G",
-    "M A T T O N E L L I F I C I O",
-    "# G # # R # # E # N # # O # N",
-    "# I # O T I # D # # S # L E E",
-    "I O R # A # I # S T I L I # #",
-    "# C # # # # R P G # L # B # E",
-    "B O C C A L E # P I U # R A N",
-    "U # R # # U # # # # R O I # I",
-    "E V A # T I N E L L O # # # #"
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
+    "0 E S T # M # N # L # # C # # L",
+    "1 R # R A U C O # A R M A D I O",
+    "2 A V O # L # I # N # # P # # G",
+    "3 # # M I O # A V A # P I P P O",
+    "4 # # B # # U # I # S # # # E #",
+    "5 S P A # A B C # N A T # A S A",
+    "6 T # # R # R # # # L # # # A #",
+    "7 E U G E N I O S C A L F A R I",
+    "8 S # # G # A # A # N # A # E #",
+    "9 I # H I # C A L # # # X # S #",
+    "0 # P # M A O # S # # S # Z I A",
+    "1 A O N I # # S A B I N I # # D",
+    "2 # L # # I G E # E # O # U S A",
+    "3 # S # # O # T # G # B # G # M",
+    "4 S I B E R I A # A D # B O B #"
   ],
   "clues": {
-    "across": {
-      "1": "Freddo, sprezzante ed egoistico",
-      "3": "I giornali invenduti",
-      "5": "Ardono per devozione",
-      "6": "Gustoso formaggio lombardo",
-      "10": "Il settebello ne vale uno",
-      "12": "Rosa giallognola",
-      "13": "Vi gioca la squadra non in trasferta",
-      "15": "Fabbrica di piastrelle per pavimenti",
-      "18": "Operatore Trasporto Infermi (sigla)",
-      "20": "Un Marvin del cinema",
-      "21": "Personaggio delI'Iris",
-      "23": "Le fogge artistiche",
-      "24": "Role-Playing Game (sigla)",
-      "26": "Grosso bicchiere col manico",
-      "29": "Lo rafforza il mai",
-      "30": "Film di A. Kurosawa",
-      "31": "Re per i francesi",
-      "32": "Fu una donna unica al mondo",
-      "33": "Stanzetta in cui si mangia"
-    },
-    "down": {
-      "1": "Terapie",
-      "2": "Istituto corto",
-      "3": "Abbreviazione di ragioniere",
-      "4": "Obiettivo da raggiungere",
-      "5": "Chi le frequenta, ama... provare la propria fortuna",
-      "7": "Se è viziata, è pesante",
-      "8": "Grosso mammifero della savana",
-      "9": "Totalmente concentrata su una idea",
-      "10": "Fisico francese famoso per una pentola",
-      "11": "Scuri",
-      "13": "Vecchia sigla dell'Unione Europea",
-      "14": "Gara d'ingegno",
-      "16": "Gli Zeppelin della musica leggera",
-      "17": "L'uccello più piccolo",
-      "19": "Proiettile con le eliche",
-      "22": "Escandescenze del furioso",
-      "23": "La sigla di Singapore",
-      "25": "La società del cane a sei zampe",
-      "26": "Quello marino è il dugongo",
-      "27": "Monosillabo del corvo",
-      "28": "Uccelletto canoro"
-    }
+    "across": [
+      {
+        "numero": 1,
+        "parola": "EST",
+        "definizione": "Cardinale d'oriente!",
+        "posizione": "0-0",
+        "lettere": 3
+      },
+      {
+        "numero": 8,
+        "parola": "RAUCO",
+        "definizione": "Rimasto senza voce",
+        "posizione": "1-2",
+        "lettere": 5
+      },
+      {
+        "numero": 9,
+        "parola": "ARMADIO",
+        "definizione": "Vi si appendono i vestiti",
+        "posizione": "1-8",
+        "lettere": 7
+      },
+      {
+        "numero": 10,
+        "parola": "AVO",
+        "definizione": "Un parente nell' albero genealogico",
+        "posizione": "2-0",
+        "lettere": 3
+      },
+      {
+        "numero": 11,
+        "parola": "MIO",
+        "definizione": "Nè tuo nè suo",
+        "posizione": "3-2",
+        "lettere": 3
+      },
+      {
+        "numero": 12,
+        "parola": "AVA",
+        "definizione": "Una... vecchia parente",
+        "posizione": "3-6",
+        "lettere": 3
+      },
+      {
+        "numero": 14,
+        "parola": "PIPPO",
+        "definizione": "__ Franco, del teatro cabaret",
+        "posizione": "3-10",
+        "lettere": 5
+      },
+      {
+        "numero": 18,
+        "parola": "SPA",
+        "definizione": "Note terme del Belgio",
+        "posizione": "5-0",
+        "lettere": 3
+      },
+      {
+        "numero": 19,
+        "parola": "ABC",
+        "definizione": "Manca al principiante",
+        "posizione": "5-4",
+        "lettere": 3
+      },
+      {
+        "numero": 20,
+        "parola": "NAT",
+        "definizione": "Il King Cole della musica jazz",
+        "posizione": "5-8",
+        "lettere": 3
+      },
+      {
+        "numero": 21,
+        "parola": "ASA",
+        "definizione": "Sono omologhi dei DIN",
+        "posizione": "5-12",
+        "lettere": 3
+      },
+      {
+        "numero": 23,
+        "parola": "EUGENIOSCALFARI",
+        "definizione": "Fondò La Repubblica",
+        "posizione": "7-0",
+        "lettere": 15
+      },
+      {
+        "numero": 26,
+        "parola": "HI",
+        "definizione": "Il regista Inagaki che vinse il Leone d'oro di Venezia nel 1958 (iniz.)",
+        "posizione": "9-2",
+        "lettere": 2
+      },
+      {
+        "numero": 27,
+        "parola": "CAL",
+        "definizione": "Calibro abbr.",
+        "posizione": "9-5",
+        "lettere": 3
+      },
+      {
+        "numero": 29,
+        "parola": "MAO",
+        "definizione": "Il celebre Tse-tung",
+        "posizione": "10-3",
+        "lettere": 3
+      },
+      {
+        "numero": 31,
+        "parola": "ZIA",
+        "definizione": "Una sorella di papà",
+        "posizione": "10-12",
+        "lettere": 3
+      },
+      {
+        "numero": 33,
+        "parola": "AONI",
+        "definizione": "Beoti d'un tempo",
+        "posizione": "11-0",
+        "lettere": 4
+      },
+      {
+        "numero": 34,
+        "parola": "SABINI",
+        "definizione": "Popolo dell'Italia centrale",
+        "posizione": "11-6",
+        "lettere": 6
+      },
+      {
+        "numero": 36,
+        "parola": "IGE",
+        "definizione": "É stata sostituita dall'IVA",
+        "posizione": "12-4",
+        "lettere": 3
+      },
+      {
+        "numero": 37,
+        "parola": "USA",
+        "definizione": "La Nazione di Stars and Stripes",
+        "posizione": "12-12",
+        "lettere": 3
+      },
+      {
+        "numero": 38,
+        "parola": "SIBERIA",
+        "definizione": "Una gelida meta per deportati",
+        "posizione": "14-0",
+        "lettere": 7
+      },
+      {
+        "numero": 39,
+        "parola": "AD",
+        "definizione": "É a capo di una Spa (sigla)",
+        "posizione": "14-8",
+        "lettere": 2
+      },
+      {
+        "numero": 40,
+        "parola": "BOB",
+        "definizione": "Guidoslitta sportiva",
+        "posizione": "14-11",
+        "lettere": 3
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "ERA",
+        "definizione": "Io ero, tu eri, egli...?",
+        "posizione": "0-0",
+        "lettere": 3
+      },
+      {
+        "numero": 2,
+        "parola": "TROMBA",
+        "definizione": "Lo strumento di Satchmo",
+        "posizione": "0-2",
+        "lettere": 6
+      },
+      {
+        "numero": 3,
+        "parola": "MULO",
+        "definizione": "Ha un po' dell'asino e un po' del cavallo",
+        "posizione": "0-4",
+        "lettere": 4
+      },
+      {
+        "numero": 4,
+        "parola": "NOIA",
+        "definizione": "Tedio, monotonia",
+        "posizione": "0-6",
+        "lettere": 4
+      },
+      {
+        "numero": 5,
+        "parola": "LANA",
+        "definizione": "Fibra tessile per maglioni",
+        "posizione": "0-8",
+        "lettere": 4
+      },
+      {
+        "numero": 6,
+        "parola": "CAPI",
+        "definizione": "Hanno funzioni di comando",
+        "posizione": "0-11",
+        "lettere": 4
+      },
+      {
+        "numero": 7,
+        "parola": "LOGO",
+        "definizione": "Prefisso per parola",
+        "posizione": "0-14",
+        "lettere": 4
+      },
+      {
+        "numero": 13,
+        "parola": "VI",
+        "definizione": "Equivale a voi",
+        "posizione": "3-7",
+        "lettere": 2
+      },
+      {
+        "numero": 15,
+        "parola": "PESARESI",
+        "definizione": "Fanno provincia con gli Urbinati",
+        "posizione": "3-13",
+        "lettere": 8
+      },
+      {
+        "numero": 16,
+        "parola": "UBRIACO",
+        "definizione": "Non dovrebbe mai guidare",
+        "posizione": "4-5",
+        "lettere": 7
+      },
+      {
+        "numero": 17,
+        "parola": "SALAN",
+        "definizione": "Comandò l'Oas",
+        "posizione": "4-9",
+        "lettere": 5
+      },
+      {
+        "numero": 18,
+        "parola": "STESI",
+        "definizione": "Mandati al tappeto",
+        "posizione": "5-0",
+        "lettere": 5
+      },
+      {
+        "numero": 22,
+        "parola": "REGIMI",
+        "definizione": "Sistemi di governo",
+        "posizione": "6-3",
+        "lettere": 6
+      },
+      {
+        "numero": 24,
+        "parola": "SALSA",
+        "definizione": "Una tipica danza dei Caraibi",
+        "posizione": "7-7",
+        "lettere": 5
+      },
+      {
+        "numero": 25,
+        "parola": "FAX",
+        "definizione": "Un numero degli uffici",
+        "posizione": "7-11",
+        "lettere": 3
+      },
+      {
+        "numero": 28,
+        "parola": "POLSI",
+        "definizione": "Accolgono... gli orologi",
+        "posizione": "10-1",
+        "lettere": 5
+      },
+      {
+        "numero": 30,
+        "parola": "SNOB",
+        "definizione": "Un tipo che ama moltissimo essere notato",
+        "posizione": "10-10",
+        "lettere": 4
+      },
+      {
+        "numero": 32,
+        "parola": "ADAM",
+        "definizione": "Musicò Giselle",
+        "posizione": "10-14",
+        "lettere": 4
+      },
+      {
+        "numero": 34,
+        "parola": "SETA",
+        "definizione": "Un fine tessuto",
+        "posizione": "11-6",
+        "lettere": 4
+      },
+      {
+        "numero": 35,
+        "parola": "BEGA",
+        "definizione": "Una faccenda spinosa",
+        "posizione": "11-8",
+        "lettere": 4
+      },
+      {
+        "numero": 36,
+        "parola": "IOR",
+        "definizione": "Il pupo che canta per Dia nell'Iris",
+        "posizione": "12-4",
+        "lettere": 3
+      },
+      {
+        "numero": 37,
+        "parola": "UGO",
+        "definizione": "Il Foscolo della letteratura",
+        "posizione": "12-12",
+        "lettere": 3
+      }
+    ]
   }
 }
