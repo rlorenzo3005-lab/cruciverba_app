@@ -1,0 +1,262 @@
+{
+  "title": "Cruciverba a Schema Fisso #1 - Schema 9x9 - Classico - Variante 1",
+  "size": "9x9",
+  "schema_usato": 1,
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8",
+    "0 O R E N S E # A D",
+    "1 R O N E T # R S U",
+    "2 D E # P A O L O I",
+    "3 A R M A N D # L L",
+    "4 # O O # G O M O I",
+    "5 E # G I A R E # O",
+    "6 N O O S # I S S #",
+    "7 P O L S O # S O B",
+    "8 A S # O F F E S E"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "ORENSE",
+        "definizione": "Città spagnola sul fiume Mino",
+        "posizione": "0-0",
+        "lettere": 6
+      },
+      {
+        "numero": 6,
+        "parola": "AD",
+        "definizione": "Le iniziali di Dürer",
+        "posizione": "0-7",
+        "lettere": 2
+      },
+      {
+        "numero": 8,
+        "parola": "RONET",
+        "definizione": "Maurice, interprete de Ascensore per il patibolo",
+        "posizione": "1-0",
+        "lettere": 5
+      },
+      {
+        "numero": 9,
+        "parola": "RSU",
+        "definizione": "Rifiuti Solidi Urbani (sigla)",
+        "posizione": "1-6",
+        "lettere": 3
+      },
+      {
+        "numero": 10,
+        "parola": "DE",
+        "definizione": "Giorgio __ Chirico, pittore",
+        "posizione": "2-0",
+        "lettere": 2
+      },
+      {
+        "numero": 11,
+        "parola": "PAOLOI",
+        "definizione": "Fu papa dal 757 al 767",
+        "posizione": "2-3",
+        "lettere": 6
+      },
+      {
+        "numero": 13,
+        "parola": "ARMAND",
+        "definizione": "Un nome di Richelieu",
+        "posizione": "3-0",
+        "lettere": 6
+      },
+      {
+        "numero": 15,
+        "parola": "LL",
+        "definizione": "Iniziali del Liga",
+        "posizione": "3-7",
+        "lettere": 2
+      },
+      {
+        "numero": 16,
+        "parola": "OO",
+        "definizione": "La farina più bianca",
+        "posizione": "4-1",
+        "lettere": 2
+      },
+      {
+        "numero": 17,
+        "parola": "GOMOI",
+        "definizione": "I carichi di grano ai tempi di Roma",
+        "posizione": "4-4",
+        "lettere": 5
+      },
+      {
+        "numero": 20,
+        "parola": "GIARE",
+        "definizione": "Vasi per olio o vino",
+        "posizione": "5-2",
+        "lettere": 5
+      },
+      {
+        "numero": 22,
+        "parola": "NOOS",
+        "definizione": "L'astronave del Viaggio nel cosmo di Piero Angela",
+        "posizione": "6-0",
+        "lettere": 4
+      },
+      {
+        "numero": 24,
+        "parola": "ISS",
+        "definizione": "Istituto Studi Superiori",
+        "posizione": "6-5",
+        "lettere": 3
+      },
+      {
+        "numero": 26,
+        "parola": "POLSO",
+        "definizione": "Ci batte sempre",
+        "posizione": "7-0",
+        "lettere": 5
+      },
+      {
+        "numero": 28,
+        "parola": "SOB",
+        "definizione": "Il pianto dei fumetti",
+        "posizione": "7-6",
+        "lettere": 3
+      },
+      {
+        "numero": 30,
+        "parola": "AS",
+        "definizione": "Iniziali di Schwarzeneg, ger",
+        "posizione": "8-0",
+        "lettere": 2
+      },
+      {
+        "numero": 31,
+        "parola": "OFFESE",
+        "definizione": "Provocano risentimento",
+        "posizione": "8-3",
+        "lettere": 6
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "ORDA",
+        "definizione": "Un gruppo barbarico.",
+        "posizione": "0-0",
+        "lettere": 4
+      },
+      {
+        "numero": 2,
+        "parola": "ROERO",
+        "definizione": "Una zona vinicola del Piemonte",
+        "posizione": "0-1",
+        "lettere": 5
+      },
+      {
+        "numero": 3,
+        "parola": "EN",
+        "definizione": "In mezzo al silenzio",
+        "posizione": "0-2",
+        "lettere": 2
+      },
+      {
+        "numero": 4,
+        "parola": "NEPA",
+        "definizione": "Altro nome dello scorpione acquatico",
+        "posizione": "0-3",
+        "lettere": 4
+      },
+      {
+        "numero": 5,
+        "parola": "STANGA",
+        "definizione": "Vi si attaccano gli animali da tiro",
+        "posizione": "0-4",
+        "lettere": 6
+      },
+      {
+        "numero": 6,
+        "parola": "ASOLO",
+        "definizione": "Un pittoresco borgo turistico del Trevigiano",
+        "posizione": "0-7",
+        "lettere": 5
+      },
+      {
+        "numero": 7,
+        "parola": "DUILIO",
+        "definizione": "Un nome d'uomo",
+        "posizione": "0-8",
+        "lettere": 6
+      },
+      {
+        "numero": 9,
+        "parola": "RL",
+        "definizione": "Consonanti di Aurelio",
+        "posizione": "1-6",
+        "lettere": 2
+      },
+      {
+        "numero": 12,
+        "parola": "ODORI",
+        "definizione": "Taluni fanno storcere il naso",
+        "posizione": "2-5",
+        "lettere": 5
+      },
+      {
+        "numero": 14,
+        "parola": "MOGOL",
+        "definizione": "Il paroliere di Battisti",
+        "posizione": "3-2",
+        "lettere": 5
+      },
+      {
+        "numero": 18,
+        "parola": "MESSE",
+        "definizione": "Sacre funzioni",
+        "posizione": "4-6",
+        "lettere": 5
+      },
+      {
+        "numero": 19,
+        "parola": "ENPA",
+        "definizione": "Ente Nazionale Protezione Animali (sigla)",
+        "posizione": "5-0",
+        "lettere": 4
+      },
+      {
+        "numero": 21,
+        "parola": "ISSO",
+        "definizione": "La sua battaglia è rappresentata in un celebre mosaico di Pompei",
+        "posizione": "5-3",
+        "lettere": 4
+      },
+      {
+        "numero": 23,
+        "parola": "OOS",
+        "definizione": "Out of Service (sigla)",
+        "posizione": "6-1",
+        "lettere": 3
+      },
+      {
+        "numero": 25,
+        "parola": "SOS",
+        "definizione": "Mette in allarme chi lo capta",
+        "posizione": "6-7",
+        "lettere": 3
+      },
+      {
+        "numero": 27,
+        "parola": "OF",
+        "definizione": "Le prime in offerta",
+        "posizione": "7-4",
+        "lettere": 2
+      },
+      {
+        "numero": 29,
+        "parola": "BE",
+        "definizione": "Metà dei beni.",
+        "posizione": "7-8",
+        "lettere": 2
+      }
+    ]
+  }
+}
