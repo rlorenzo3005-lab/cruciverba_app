@@ -1,384 +1,701 @@
 {
-  "title": "Cruciverba: Italiano Universale #2",
+  "title": "Cruciverba a Schema Fisso #2 - Schema 15x15 - Variante 1",
   "size": "15x15",
+  "schema_usato": 2,
+  "completo": true,
   "grid": [
     "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
-    "0 # E # # # # # # # # # M # A #",
-    "1 N A S # T # # C # G O M I T O",
-    "2 E # E L E T T O R E # M # T #",
-    "3 R # L # E # # M # S E # # O #",
-    "4 O R Z O # I D A # T # B O # F",
-    "5 # A # I D # A # G O L # R A I",
-    "6 V # R # # M # # R # O # T # N",
-    "7 A U T O C O M B U S T I O N E",
-    "8 N # # H # D # U # C # R # # Z",
-    "9 E I # M # A M I C I Z I A # Z",
-    "0 # # P # B # U # # A # # T R A",
-    "1 S # A # O N T A # # A G O # #",
-    "2 U E P # S # E # A # R # M O U",
-    "3 B # I # S # # # P U G N I # M",
-    "4 # I N F I M A # R # O # # A O"
+    "0 D E F O E # O P I M I # G C M",
+    "1 I M Q # M J # Q U I N N # A A",
+    "2 N A # S I O R # C # C E L # N",
+    "3 A # D U P L E X # S O R I C I",
+    "4 # N O D A L I # T O M B A L E",
+    "5 B O V A R Y # W A R # I L O R",
+    "6 E # E R E # E A N E S # A T I",
+    "7 L C # E S U L T A N T E # O S",
+    "8 L A C # I B L E I # A L U # T",
+    "9 O L A E # O E R # E G E R I A",
+    "0 C L I N T O N # M A N T R A #",
+    "1 C O R T O T # L I M A T A # I",
+    "2 H # A R G # O # S E N O # D G",
+    "3 I T # O H A R A # S T # V I E",
+    "4 O P S # E F R E M # I G N E O"
   ],
   "clues": {
     "across": [
       {
-        "numero": 4,
-        "parola": "NAS",
-        "definizione": "Ricercano i sofisticatori (sigla)",
-        "posizione": "1-0",
-        "lettere": 3
+        "numero": 1,
+        "parola": "DEFOE",
+        "definizione": "L'autore di Moll Flanders",
+        "posizione": "0-0",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 8,
-        "parola": "GOMITO",
-        "definizione": "Articolazione che collega braccio e avambraccio",
-        "posizione": "1-9",
-        "lettere": 6
-      },
-      {
-        "numero": 9,
-        "parola": "ELETTORE",
-        "definizione": "Gode del diritto di voto",
-        "posizione": "2-2",
-        "lettere": 8
+        "numero": 5,
+        "parola": "OPIMI",
+        "definizione": "Abbondanti, copiosi",
+        "posizione": "0-6",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 10,
-        "parola": "SE",
-        "definizione": "Può precedere fossi",
-        "posizione": "3-9",
-        "lettere": 2
+        "parola": "GCM",
+        "definizione": "Menotti del Festival dei Due Mondi (iniz.)",
+        "posizione": "0-12",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 11,
-        "parola": "ORZO",
-        "definizione": "Un ingrediente della birra",
-        "posizione": "4-0",
-        "lettere": 4
+        "numero": 13,
+        "parola": "IMQ",
+        "definizione": "Istituto del Marchio di Qualità",
+        "posizione": "1-0",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 14,
-        "parola": "IDA",
-        "definizione": "Una nota Lupino del cinema",
-        "posizione": "4-5",
-        "lettere": 3
+        "parola": "MJ",
+        "definizione": "Il Jackson canoro (iniz.)",
+        "posizione": "1-4",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 16,
-        "parola": "BO",
-        "definizione": "Un Carlo scrittore",
-        "posizione": "4-11",
-        "lettere": 2
+        "parola": "QUINN",
+        "definizione": "Anthony attore",
+        "posizione": "1-7",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "AA",
+        "definizione": "Gemelle di Mantova",
+        "posizione": "1-13",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 19,
-        "parola": "ID",
-        "definizione": "La bidella meno bella",
-        "posizione": "5-3",
-        "lettere": 2
+        "parola": "NA",
+        "definizione": "Poco... naturale",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 20,
-        "parola": "GOL",
-        "definizione": "Si può segnare anche con un colpo di testa",
-        "posizione": "5-8",
-        "lettere": 3
+        "parola": "SIOR",
+        "definizione": "Il titolo del Todero goldoniano",
+        "posizione": "2-3",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 22,
-        "parola": "RAI",
-        "definizione": "Gestisce la tivù di Stato italiana",
-        "posizione": "5-12",
-        "lettere": 3
+        "parola": "CEL",
+        "definizione": "Cellula in breve",
+        "posizione": "2-10",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 26,
-        "parola": "AUTOCOMBUSTIONE",
-        "definizione": "Provoca l'incendio di molti boschi",
-        "posizione": "7-0",
-        "lettere": 15
+        "numero": 24,
+        "parola": "DUPLEX",
+        "definizione": "Abitazione composta da due piani (ing.)",
+        "posizione": "3-2",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "SORICI",
+        "definizione": "Topi, ratti",
+        "posizione": "3-9",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "NODALI",
+        "definizione": "Lo sono i punti che vengono al pettine",
+        "posizione": "4-1",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "TOMBALE",
+        "definizione": "La pietra che si mette sopra",
+        "posizione": "4-8",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "BOVARY",
+        "definizione": "La Emma di Flaubert",
+        "posizione": "5-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "WAR",
+        "definizione": "Un game per strateghi",
+        "posizione": "5-7",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 31,
-        "parola": "EI",
-        "definizione": "Fine dei cortei",
-        "posizione": "9-0",
-        "lettere": 2
+        "parola": "ILOR",
+        "definizione": "Una tassa da pagare",
+        "posizione": "5-11",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 32,
-        "parola": "AMICIZIA",
-        "definizione": "Si chiede su Facebook.",
-        "posizione": "9-5",
-        "lettere": 8
+        "parola": "ERE",
+        "definizione": "Lunghe parentesi storiche",
+        "posizione": "6-2",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 37,
-        "parola": "TRA",
-        "definizione": "Preposizione che si frappone",
-        "posizione": "10-12",
-        "lettere": 3
+        "numero": 33,
+        "parola": "EANES",
+        "definizione": "Fu presidente portoghese",
+        "posizione": "6-6",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 39,
-        "parola": "ONTA",
-        "definizione": "Una grave offesa",
-        "posizione": "11-4",
-        "lettere": 4
+        "numero": 35,
+        "parola": "ATI",
+        "definizione": "Figlio di Creso, che fu ucciso da Adrasto per errore",
+        "posizione": "6-12",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 40,
-        "parola": "AGO",
-        "definizione": "Punge le sartine",
-        "posizione": "11-10",
-        "lettere": 3
+        "numero": 36,
+        "parola": "LC",
+        "definizione": "Luigi Capuana",
+        "posizione": "7-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "ESULTANTE",
+        "definizione": "Pazzo di gioia, trionfante",
+        "posizione": "7-3",
+        "lettere": 9,
+        "pre_inserita": false
       },
       {
         "numero": 41,
-        "parola": "UEP",
-        "definizione": "Unione Europea dei Pagamenti (sigla)",
-        "posizione": "12-0",
-        "lettere": 3
+        "parola": "OS",
+        "definizione": "II simbolo dell' osmio",
+        "posizione": "7-13",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 43,
-        "parola": "MOU",
-        "definizione": "Uno speciale (soprannome)",
-        "posizione": "12-12",
-        "lettere": 3
+        "numero": 42,
+        "parola": "LAC",
+        "definizione": "Lago... in Francia",
+        "posizione": "8-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 44,
+        "parola": "IBLEI",
+        "definizione": "I monti di Ragusa",
+        "posizione": "8-4",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 45,
-        "parola": "PUGNI",
-        "definizione": "Se li scambiano i boxeur",
-        "posizione": "13-8",
-        "lettere": 5
-      },
-      {
-        "numero": 46,
-        "parola": "INFIMA",
-        "definizione": "Molto bassa",
-        "posizione": "14-1",
-        "lettere": 6
+        "parola": "ALU",
+        "definizione": "Al centro della scialuppa",
+        "posizione": "8-10",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 47,
-        "parola": "AO",
-        "definizione": "Le vocali in mano",
-        "posizione": "14-13",
-        "lettere": 2
+        "parola": "OLAE",
+        "definizione": "Il re che aveva in testa un capello d'oro",
+        "posizione": "9-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 49,
+        "parola": "OER",
+        "definizione": "Osservatorio Epidemiologico Regionale",
+        "posizione": "9-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 50,
+        "parola": "EGERIA",
+        "definizione": "Nome di una ninfa",
+        "posizione": "9-9",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 52,
+        "parola": "CLINTON",
+        "definizione": "Il presidente... tra i due Bush",
+        "posizione": "10-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 54,
+        "parola": "MANTRA",
+        "definizione": "Formule sacre induiste",
+        "posizione": "10-8",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 55,
+        "parola": "CORTOT",
+        "definizione": "Alfred pianista svizzero",
+        "posizione": "11-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 56,
+        "parola": "LIMATA",
+        "definizione": "Assottigliata",
+        "posizione": "11-7",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 58,
+        "parola": "ARG",
+        "definizione": "La parte sinistra dell' argine",
+        "posizione": "12-2",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 60,
+        "parola": "SENO",
+        "definizione": "È lungo la costa",
+        "posizione": "12-8",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 61,
+        "parola": "DG",
+        "definizione": "Diga senza pari",
+        "posizione": "12-13",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 62,
+        "parola": "IT",
+        "definizione": "Iniziali di Turgenev",
+        "posizione": "13-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 64,
+        "parola": "OHARA",
+        "definizione": "Una famosa Scarlett",
+        "posizione": "13-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 67,
+        "parola": "ST",
+        "definizione": "Raddoppiate in assetto",
+        "posizione": "13-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 68,
+        "parola": "VIE",
+        "definizione": "Vengono imboccate",
+        "posizione": "13-12",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 69,
+        "parola": "OPS",
+        "definizione": "Si dice per la sorpresa",
+        "posizione": "14-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 70,
+        "parola": "EFREM",
+        "definizione": "Il Santo siriaco detto Dottore mariano",
+        "posizione": "14-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 71,
+        "parola": "IGNEO",
+        "definizione": "Infiammato, focoso",
+        "posizione": "14-10",
+        "lettere": 5,
+        "pre_inserita": false
       }
     ],
     "down": [
       {
         "numero": 1,
-        "parola": "EA",
-        "definizione": "Vocali in pena",
-        "posizione": "0-1",
-        "lettere": 2
+        "parola": "DINA",
+        "definizione": "Luce del giornalismo",
+        "posizione": "0-0",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 2,
-        "parola": "MMM",
-        "definizione": "Tremila per gli antichi romani",
-        "posizione": "0-11",
-        "lettere": 3
+        "parola": "EMA",
+        "definizione": "European Medicines Agency (sigla).",
+        "posizione": "0-1",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 3,
-        "parola": "ATTO",
-        "definizione": "Parte della commedia",
-        "posizione": "0-13",
-        "lettere": 4
+        "parola": "FQ",
+        "definizione": "Forza Quattro",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 4,
-        "parola": "NERO",
-        "definizione": "Il colore del conto senza debiti",
-        "posizione": "1-0",
-        "lettere": 4
-      },
-      {
-        "numero": 5,
-        "parola": "SELZ",
-        "definizione": "L'acqua gassata per i long drink",
-        "posizione": "1-2",
-        "lettere": 4
+        "parola": "EMIPARESI",
+        "definizione": "Immobilizza metà del corpo umano",
+        "posizione": "0-4",
+        "lettere": 9,
+        "pre_inserita": false
       },
       {
         "numero": 6,
-        "parola": "TEE",
-        "definizione": "Rose dal colore giallo",
-        "posizione": "1-4",
-        "lettere": 3
+        "parola": "PQ",
+        "definizione": "Precedono la R",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 7,
-        "parola": "COMA",
-        "definizione": "Il vigile non è profondo",
-        "posizione": "1-7",
-        "lettere": 4
+        "parola": "IUC",
+        "definizione": "International Union of Chemistry",
+        "posizione": "0-8",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 8,
-        "parola": "GESTO",
-        "definizione": "Movimento fatto con la mano",
-        "posizione": "1-9",
-        "lettere": 5
+        "parola": "MI",
+        "definizione": "É poco più alto del re",
+        "posizione": "0-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "INCOM",
+        "definizione": "Industria Cortometraggi",
+        "posizione": "0-10",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "CA",
+        "definizione": "Così finisce domenica",
+        "posizione": "0-13",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 12,
-        "parola": "RA",
-        "definizione": "Una divinità egizia",
-        "posizione": "4-1",
-        "lettere": 2
-      },
-      {
-        "numero": 13,
-        "parola": "OI",
-        "definizione": "I limiti degli ospiti",
-        "posizione": "4-3",
-        "lettere": 2
+        "parola": "MANIERISTA",
+        "definizione": "Un pittore come il Parmigianino",
+        "posizione": "0-14",
+        "lettere": 10,
+        "pre_inserita": false
       },
       {
         "numero": 15,
-        "parola": "DA",
-        "definizione": "In pedana",
-        "posizione": "4-6",
-        "lettere": 2
+        "parola": "JOLLY",
+        "definizione": "La matta nel mazzo di carte",
+        "posizione": "1-5",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 17,
-        "parola": "ORTO",
-        "definizione": "Gesù vi si recò a pregare",
-        "posizione": "4-12",
-        "lettere": 4
-      },
-      {
-        "numero": 18,
-        "parola": "FINEZZA",
-        "definizione": "Squisitezza, delicatezza",
-        "posizione": "4-14",
-        "lettere": 7
+        "parola": "NERBI",
+        "definizione": "Scudisci, sferze",
+        "posizione": "1-11",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 20,
-        "parola": "GRU",
-        "definizione": "Solleva enormi pesi",
-        "posizione": "5-8",
-        "lettere": 3
+        "parola": "SUDARE",
+        "definizione": "Il verbo di chi fa sport con grande impegno",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 21,
-        "parola": "LOT",
-        "definizione": "Figlio di Aran",
-        "posizione": "5-10",
-        "lettere": 3
+        "parola": "REI",
+        "definizione": "Hanno colpe da scontare",
+        "posizione": "2-6",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 23,
-        "parola": "VANE",
-        "definizione": "Come fragili speranze",
-        "posizione": "6-0",
-        "lettere": 4
+        "parola": "LIALA",
+        "definizione": "Ha scritto parecchi romanzi rosa",
+        "posizione": "2-12",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 24,
-        "parola": "RT",
-        "definizione": "Radio Telefono",
-        "posizione": "6-2",
-        "lettere": 2
+        "parola": "DOVE",
+        "definizione": "Ou per i francesi",
+        "posizione": "3-2",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 25,
-        "parola": "MODA",
-        "definizione": "Un settore di eccellenza per l'Italia",
-        "posizione": "6-5",
-        "lettere": 4
+        "parola": "SOREN",
+        "definizione": "Nome di Kierkegaard",
+        "posizione": "3-9",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "CLOTO",
+        "definizione": "La prima delle Moire",
+        "posizione": "3-13",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 27,
-        "parola": "OHM",
-        "definizione": "George, fisico tedesco",
-        "posizione": "7-3",
-        "lettere": 3
+        "parola": "NO",
+        "definizione": "A volte spiace dirlo",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 28,
-        "parola": "BUI",
-        "definizione": "Immersi nelle tenebre",
-        "posizione": "7-7",
-        "lettere": 3
+        "parola": "TANAI",
+        "definizione": "Il vecchio nome del Don",
+        "posizione": "4-8",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 29,
-        "parola": "SCIA",
-        "definizione": "Una cosa spumosa",
-        "posizione": "7-9",
-        "lettere": 4
+        "parola": "BELLOCCHIO",
+        "definizione": "Ha girato Buongiorno, notte",
+        "posizione": "5-0",
+        "lettere": 10,
+        "pre_inserita": false
       },
       {
         "numero": 30,
-        "parola": "IRI",
-        "definizione": "Era il colosso delle Partecipazioni Statali",
-        "posizione": "7-11",
-        "lettere": 3
+        "parola": "WATER",
+        "definizione": "Il  polo della pallanuoto",
+        "posizione": "5-7",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 33,
-        "parola": "MUTE",
-        "definizione": "Le indossano i sub",
-        "posizione": "9-6",
-        "lettere": 4
+        "parola": "ELLEN",
+        "definizione": "Una delle Kessler",
+        "posizione": "6-6",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 34,
-        "parola": "ATOMI",
-        "definizione": "Comprendono gli elettroni",
-        "posizione": "9-12",
-        "lettere": 5
+        "parola": "STAGNANTI",
+        "definizione": "Lo sono le acque morte",
+        "posizione": "6-10",
+        "lettere": 9,
+        "pre_inserita": false
       },
       {
-        "numero": 35,
-        "parola": "PAPIN",
-        "definizione": "L' inventore dell' autoclave",
-        "posizione": "10-2",
-        "lettere": 5
+        "numero": 37,
+        "parola": "CALLO",
+        "definizione": "Indurimento epidermico",
+        "posizione": "7-1",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 36,
-        "parola": "BOSSI",
-        "definizione": "Arbusti usati per siepi",
-        "posizione": "10-4",
-        "lettere": 5
-      },
-      {
-        "numero": 38,
-        "parola": "SUB",
-        "definizione": "Si immerge con pinne e respiratori",
-        "posizione": "11-0",
-        "lettere": 3
+        "numero": 39,
+        "parola": "UBOOT",
+        "definizione": "Sommergibile del Reich",
+        "posizione": "7-5",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 40,
-        "parola": "ARGO",
-        "definizione": "Mitico cane",
-        "posizione": "11-10",
-        "lettere": 4
+        "parola": "ELETTO",
+        "definizione": "Nominato grazie ad un voto",
+        "posizione": "7-11",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
-        "numero": 42,
-        "parola": "APR",
-        "definizione": "Nel datario dopo mar",
-        "posizione": "12-8",
-        "lettere": 3
+        "numero": 43,
+        "parola": "CAIRA",
+        "definizione": "Il titolo di dodici sonetti di Giosuè Carducci",
+        "posizione": "8-2",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 44,
-        "parola": "UMO",
-        "definizione": "Terriccio per floricoltori",
-        "posizione": "12-14",
-        "lettere": 3
+        "numero": 46,
+        "parola": "URRA",
+        "definizione": "Un'esclamazione di esultanza",
+        "posizione": "8-12",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 48,
+        "parola": "ENTRO",
+        "definizione": "Nei limiti in cui",
+        "posizione": "9-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 50,
+        "parola": "EAMES",
+        "definizione": "Il cognome di una coppia americana del design",
+        "posizione": "9-9",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 51,
+        "parola": "IA",
+        "definizione": "Centro di Asiago",
+        "posizione": "9-13",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 53,
+        "parola": "TOGHE",
+        "definizione": "Le mettono i magistrati",
+        "posizione": "10-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 54,
+        "parola": "MIS",
+        "definizione": "Prefisso peggiorativo",
+        "posizione": "10-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 57,
+        "parola": "IGEO",
+        "definizione": "Il mare che bagna Rodi",
+        "posizione": "11-14",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 59,
+        "parola": "ORR",
+        "definizione": "William H. attore",
+        "posizione": "12-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 61,
+        "parola": "DIE",
+        "definizione": "Il giorno per Dante",
+        "posizione": "12-13",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 63,
+        "parola": "TP",
+        "definizione": "Pericoli dell'illustrazione (iniz.)",
+        "posizione": "13-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 65,
+        "parola": "AF",
+        "definizione": "In mezzo ai contrafforti",
+        "posizione": "13-5",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 66,
+        "parola": "AE",
+        "definizione": "Vocali di rame",
+        "posizione": "13-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 68,
+        "parola": "VN",
+        "definizione": "La sigla del Vietnam",
+        "posizione": "13-12",
+        "lettere": 2,
+        "pre_inserita": false
       }
     ]
   }
