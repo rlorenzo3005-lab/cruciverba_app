@@ -1,0 +1,296 @@
+{
+  "title": "Cruciverba a Schema Fisso #1 - Schema 9x9 - Classico - Variante 1",
+  "size": "9x9",
+  "schema_usato": 1,
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8",
+    "0 T A R T A N # V A",
+    "1 A N M I G # C I V",
+    "2 N N # N I T O R I",
+    "3 G A T E A U # N A",
+    "4 # N Z # T O B O R",
+    "5 I # A S O N E # I",
+    "6 N E R A # I N F #",
+    "7 S T A I A # D O S",
+    "8 U F # S E R E N A"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "TARTAN",
+        "definizione": "Il tessuto dei kilt",
+        "posizione": "0-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "VA",
+        "definizione": "Andava a destra",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "ANMIG",
+        "definizione": "Associazione Nazionale Mutilati e Invalidi di Guerra (sigla)",
+        "posizione": "1-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "CIV",
+        "definizione": "Centoquattro",
+        "posizione": "1-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "NN",
+        "definizione": "Iniziali di Nolte",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "NITORI",
+        "definizione": "Nitidezze, lucentezze",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "GATEAU",
+        "definizione": "Una torta... per i Francesi",
+        "posizione": "3-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "NA",
+        "definizione": "Poco... naturale",
+        "posizione": "3-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "NZ",
+        "definizione": "In mezzo allo stanzino",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "TOBOR",
+        "definizione": "Film di Sholem del 1953",
+        "posizione": "4-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "ASONE",
+        "definizione": "Bellissimo giovane amato da Afrodite",
+        "posizione": "5-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "NERA",
+        "definizione": "Lo è la peggior cronaca",
+        "posizione": "6-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "INF",
+        "definizione": "Inferiore in breve",
+        "posizione": "6-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "STAIA",
+        "definizione": "Antiche misure per i cereali",
+        "posizione": "7-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "DOS",
+        "definizione": "Due a Madrid",
+        "posizione": "7-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "UF",
+        "definizione": "Prime in ufficio",
+        "posizione": "8-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "SERENA",
+        "definizione": "Tranquilla, calma",
+        "posizione": "8-3",
+        "lettere": 6,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "TANG",
+        "definizione": "Famosa dinastia cinese",
+        "posizione": "0-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "ANNAN",
+        "definizione": "Il Kofi che è stato all'Onu",
+        "posizione": "0-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "RM",
+        "definizione": "Una sigla di Roma",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "TINE",
+        "definizione": "Recipienti per l'enologo",
+        "posizione": "0-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "AGIATO",
+        "definizione": "Benestante, ricco",
+        "posizione": "0-4",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "VIRNO",
+        "definizione": "Un Paolo filosofo",
+        "posizione": "0-7",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "AVIARI",
+        "definizione": "Grandi uccelliere degli zoo",
+        "posizione": "0-8",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "CO",
+        "definizione": "Società americana (abbr.).",
+        "posizione": "1-6",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "TUONI",
+        "definizione": "Rombi celesti",
+        "posizione": "2-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "TZARA",
+        "definizione": "Ha fondato il dadaismo",
+        "posizione": "3-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "BENDE",
+        "definizione": "Avvolgono il ferito",
+        "posizione": "4-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "INSU",
+        "definizione": "É come dire verso l'alto",
+        "posizione": "5-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "SAIS",
+        "definizione": "Città egizia",
+        "posizione": "5-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "ETF",
+        "definizione": "Exchange-Traded Fund (sigla)",
+        "posizione": "6-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "FON",
+        "definizione": "Lo accende il parrucchiere",
+        "posizione": "6-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "AE",
+        "definizione": "Vocali di rame",
+        "posizione": "7-4",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "SA",
+        "definizione": "Sigla dell'Arabia Saudita",
+        "posizione": "7-8",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}

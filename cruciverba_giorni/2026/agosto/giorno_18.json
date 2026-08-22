@@ -1,0 +1,296 @@
+{
+  "title": "Cruciverba a Schema Fisso #1 - Schema 9x9 - Classico - Variante 3",
+  "size": "9x9",
+  "schema_usato": 1,
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8",
+    "0 W A S A B I # S S",
+    "1 A L A M O # R E C",
+    "2 W I # A B D E R A",
+    "3 A C E R B E # I U",
+    "4 # E M # I N T E R",
+    "5 C # U V O S O # O",
+    "6 H A L E # E A N #",
+    "7 E S I N O # F O N",
+    "8 N P # T R O F E O"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "WASABI",
+        "definizione": "Pasta verde per il sushi",
+        "posizione": "0-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "SS",
+        "definizione": "Iniziali d' una Sandrelli",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "ALAMO",
+        "definizione": "Storico forte americano",
+        "posizione": "1-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "REC",
+        "definizione": "Il tasto per registrare",
+        "posizione": "1-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "WI",
+        "definizione": "Le prime lettere di Wilder",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "ABDERA",
+        "definizione": "Vi nacque Democrito",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "ACERBE",
+        "definizione": "Non ancora pronte per essere colte",
+        "posizione": "3-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "IU",
+        "definizione": "Vocali in più.",
+        "posizione": "3-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "EM",
+        "definizione": "Danno sempre inizio all'emendamento",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "INTER",
+        "definizione": "Un 'undici' ambrosiano",
+        "posizione": "4-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "UVOSO",
+        "definizione": "Ricco di grappoli",
+        "posizione": "5-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "HALE",
+        "definizione": "L'astronomo George Ellery",
+        "posizione": "6-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "EAN",
+        "definizione": "La codifica a barre dell'European Artide Number (sigla).",
+        "posizione": "6-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "ESINO",
+        "definizione": "Fiume delle Marche",
+        "posizione": "7-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "FON",
+        "definizione": "Lo accende il parrucchiere",
+        "posizione": "7-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "NP",
+        "definizione": "Il monogramma di Paganini",
+        "posizione": "8-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "TROFEO",
+        "definizione": "Un premio per gli sportivi",
+        "posizione": "8-3",
+        "lettere": 6,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "WAWA",
+        "definizione": "Dispositivo di distorsione usato dai musicisti",
+        "posizione": "0-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "ALICE",
+        "definizione": "Ci ricorda il Paese delle Meraviglie",
+        "posizione": "0-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "SA",
+        "definizione": "Sigla dell'Arabia Saudita",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "AMAR",
+        "definizione": "Noto circo francese",
+        "posizione": "0-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "BOBBIO",
+        "definizione": "Scrisse Destra e sinistra",
+        "posizione": "0-4",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "SERIE",
+        "definizione": "Gruppo completo di francobolli",
+        "posizione": "0-7",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "SCAURO",
+        "definizione": "Marco Emilio politico romano",
+        "posizione": "0-8",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "RE",
+        "definizione": "Tra il do e il mi",
+        "posizione": "1-6",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "DENSE",
+        "definizione": "Compatte, fitte",
+        "posizione": "2-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "EMULI",
+        "definizione": "Rivali, imitatori",
+        "posizione": "3-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "TOAFF",
+        "definizione": "L' Elio rabbino",
+        "posizione": "4-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "CHEN",
+        "definizione": "Il uso urlo terrorizzava",
+        "posizione": "5-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "VENT",
+        "definizione": "... ' anni dopo (romanzo)",
+        "posizione": "5-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "ASP",
+        "definizione": "Simbolo dell' acido aspartico",
+        "posizione": "6-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "NOE",
+        "definizione": "Fu informato anzitempo del diluvio",
+        "posizione": "6-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "OR",
+        "definizione": "In mezzo al foro",
+        "posizione": "7-4",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "NO",
+        "definizione": "A volte spiace dirlo",
+        "posizione": "7-8",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}

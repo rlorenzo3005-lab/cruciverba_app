@@ -1,0 +1,296 @@
+{
+  "title": "Cruciverba a Schema Fisso #1 - Schema 9x9 - Classico - Variante 2",
+  "size": "9x9",
+  "schema_usato": 1,
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8",
+    "0 A L B E R O # M W",
+    "1 S I L B A # R A I",
+    "2 A N # L I P E N G",
+    "3 P E T A S O # T W",
+    "4 # R I # A R R I A",
+    "5 C # T E T T I # M",
+    "6 A L T I # A Z T #",
+    "7 I C I A P # Z I I",
+    "8 D D # R A F A E L"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "ALBERO",
+        "definizione": "Nell' auto c' è quello a camme",
+        "posizione": "0-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "MW",
+        "definizione": "La West di Hollywood (iniz.)",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "SILBA",
+        "definizione": "Isola croata",
+        "posizione": "1-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "RAI",
+        "definizione": "Ha radio e tv (sigla)",
+        "posizione": "1-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "AN",
+        "definizione": "Ancora un po'",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "LIPENG",
+        "definizione": "Politico cinese più volte ministro",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "PETASO",
+        "definizione": "Antico copricapo greco",
+        "posizione": "3-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "TW",
+        "definizione": "L'autore di Un tram che si chiama desiderio (iniz.)",
+        "posizione": "3-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "RI",
+        "definizione": "Safari alla fine",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "ARRIA",
+        "definizione": "L'eroica moglie di Cecino Peto",
+        "posizione": "4-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "TETTI",
+        "definizione": "Ricoprono le case",
+        "posizione": "5-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "ALTI",
+        "definizione": "Lo sono i watussi",
+        "posizione": "6-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "AZT",
+        "definizione": "Trattamento farmacologico dell'Aids (sigla)",
+        "posizione": "6-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "ICIAP",
+        "definizione": "Una tassa sulle attività produttive (sigla)",
+        "posizione": "7-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "ZII",
+        "definizione": "Genitori dei cugini",
+        "posizione": "7-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "DD",
+        "definizione": "Direttissimo",
+        "posizione": "8-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "RAFAEL",
+        "definizione": "L' Alberti poeta",
+        "posizione": "8-3",
+        "lettere": 6,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "ASAP",
+        "definizione": "La sigla anglofona di chi si affretta",
+        "posizione": "0-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "LINER",
+        "definizione": "Nave per passeggeri",
+        "posizione": "0-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "BL",
+        "definizione": "Belluno",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "EBLA",
+        "definizione": "Primario sito archeologico siriano",
+        "posizione": "0-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "RAISAT",
+        "definizione": "Allestiva canali tematici per la televisione satellitare",
+        "posizione": "0-4",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "MANTI",
+        "definizione": "Cappe regali",
+        "posizione": "0-7",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "WIGWAM",
+        "definizione": "La tipica tenda a cupola dei Pellirosse",
+        "posizione": "0-8",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "RE",
+        "definizione": "Tra il do e il mi",
+        "posizione": "1-6",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "PORTA",
+        "definizione": "Si piglia per andarsene",
+        "posizione": "2-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "TITTI",
+        "definizione": "Il canarino inseguito da Gatto Silvestro",
+        "posizione": "3-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "RIZZA",
+        "definizione": "Blocca l'ancora durante la navigazione",
+        "posizione": "4-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "CAID",
+        "definizione": "Pubblico ufficiale nell'Africa del Nord",
+        "posizione": "5-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "EIAR",
+        "definizione": "La Rai... di Carosio sigla",
+        "posizione": "5-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "LCD",
+        "definizione": "Il display a cristalli liquidi (sigla)",
+        "posizione": "6-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "TIE",
+        "definizione": "Unbreak tennistico",
+        "posizione": "6-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "PA",
+        "definizione": "In fondo alla rampa",
+        "posizione": "7-4",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "IL",
+        "definizione": "L'inizio dell'Iliade",
+        "posizione": "7-8",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
