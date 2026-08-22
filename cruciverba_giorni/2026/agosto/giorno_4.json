@@ -1,370 +1,295 @@
 {
-  "title": "Cruciverba: Italiano Universale #4",
-  "size": "15x15",
+  "title": "Cruciverba a Schema Fisso #S - Schema 9x9 - Classico - Variante 1",
+  "size": "9x9",
+  "schema_usato": "S",
+  "completo": true,
   "grid": [
-    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
-    "0 E # E S I T O # L E D # O # #",
-    "1 L I # M # E # # # M # P L U S",
-    "2 # P R C # L # # R I N # I # I",
-    "3 # # E # C E N A # L # P # U N",
-    "4 S # M R O # # R # I S E O # U",
-    "5 B U # # E # C A P O # D # A O",
-    "6 # S # I # L # M # # # I # # S",
-    "7 B I O B I B L I O G R A F I A",
-    "8 # # L # N # # S # I # T # S #",
-    "9 S U D E S T # # # U # R # # T",
-    "0 A # # R # R # U N G H I A # O",
-    "1 M # R O S E O # # N # # I # C",
-    "2 A # A # # N # I V O R I A N E",
-    "3 R A M A # E # T # # # V # D #",
-    "4 E # O # A T T O N I T A # R O"
+    "  0 1 2 3 4 5 6 7 8",
+    "0 S F O R Z A # U H",
+    "1 T A B O O # O C U",
+    "2 I R # M A L O R M",
+    "3 E G R E G I # I M",
+    "4 # O A # L E N A U",
+    "5 T # C L I T O # S",
+    "6 E N E I # I N A #",
+    "7 C A R N I # N R F",
+    "8 L P # G E N E P I"
   ],
   "clues": {
     "across": [
       {
-        "numero": 2,
-        "parola": "ESITO",
-        "definizione": "Tiene in ansia il debuttante",
-        "posizione": "0-2",
-        "lettere": 5
+        "numero": 1,
+        "parola": "SFORZA",
+        "definizione": "Furono signori di Milano",
+        "posizione": "0-0",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
-        "numero": 5,
-        "parola": "LED",
-        "definizione": "Minuscole spie luminose",
-        "posizione": "0-8",
-        "lettere": 3
+        "numero": 6,
+        "parola": "UH",
+        "definizione": "Si dice spaventati",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 8,
-        "parola": "LI",
-        "definizione": "Si dice a dito puntato",
+        "parola": "TABOO",
+        "definizione": "Il gioco preferito dal personaggio misterioso",
         "posizione": "1-0",
-        "lettere": 2
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "OCU",
+        "definizione": "Ostruzione Cervico-Uretrale (sigla)",
+        "posizione": "1-6",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 10,
-        "parola": "PLUS",
-        "definizione": "Un valore che eccede",
-        "posizione": "1-11",
-        "lettere": 4
+        "parola": "IR",
+        "definizione": "La base del menhir",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 12,
-        "parola": "PRC",
-        "definizione": "Partito della Rifondazione Comunista",
-        "posizione": "2-1",
-        "lettere": 3
+        "numero": 11,
+        "parola": "MALORM",
+        "definizione": "Colgono all'improvviso",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
-        "numero": 14,
-        "parola": "RIN",
-        "definizione": "Con tin tin nel nome di un famoso cane",
-        "posizione": "2-8",
-        "lettere": 3
+        "numero": 13,
+        "parola": "EGREGI",
+        "definizione": "Insigni... sulle buste",
+        "posizione": "3-0",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 15,
-        "parola": "CENA",
-        "definizione": "L'ultima è raffigurata in un capolavoro di Leonardo da Vinci",
-        "posizione": "3-4",
-        "lettere": 4
+        "parola": "IM",
+        "definizione": "Un... po' d'impurità",
+        "posizione": "3-7",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 18,
-        "parola": "UN",
-        "definizione": "É meno preciso di il",
-        "posizione": "3-13",
-        "lettere": 2
+        "numero": 16,
+        "parola": "OA",
+        "definizione": "Le vocali della donna",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "LENAU",
+        "definizione": "Nikolaus, poeta austriaco",
+        "posizione": "4-4",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 20,
-        "parola": "MRO",
-        "definizione": "La Omaggio dello schermo (iniz.)",
-        "posizione": "4-2",
-        "lettere": 3
-      },
-      {
-        "numero": 21,
-        "parola": "ISEO",
-        "definizione": "Un lago italiano",
-        "posizione": "4-9",
-        "lettere": 4
+        "parola": "CLITO",
+        "definizione": "Salvò la vita ad Alessandro Magno",
+        "posizione": "5-2",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 22,
-        "parola": "BU",
-        "definizione": "La fine dei tabù",
-        "posizione": "5-0",
-        "lettere": 2
+        "parola": "ENEI",
+        "definizione": "Relativi al bronzo",
+        "posizione": "6-0",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 24,
-        "parola": "CAPO",
-        "definizione": "Si può scuotere per disapprovare",
-        "posizione": "5-6",
-        "lettere": 4
+        "parola": "INA",
+        "definizione": "Istituto Nazionale delle Assicurazioni (sigla)",
+        "posizione": "6-5",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 25,
-        "parola": "AO",
-        "definizione": "La Oxa della musica leggera (iniziali)",
-        "posizione": "5-13",
-        "lettere": 2
+        "numero": 26,
+        "parola": "CARNI",
+        "definizione": "Il vegetariano le rifiuta tutte",
+        "posizione": "7-0",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 28,
-        "parola": "BIOBIBLIOGRAFIA",
-        "definizione": "Vita e opere",
-        "posizione": "7-0",
-        "lettere": 15
+        "parola": "NRF",
+        "definizione": "Prestigiosa rivista di Gallimard (sigla)",
+        "posizione": "7-6",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 33,
-        "parola": "SUDEST",
-        "definizione": "Un punto intercardinale",
-        "posizione": "9-0",
-        "lettere": 6
+        "numero": 30,
+        "parola": "LP",
+        "definizione": "Sono stati sostituiti dai CD",
+        "posizione": "8-0",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 37,
-        "parola": "UNGHIA",
-        "definizione": "Cresce sul dito",
-        "posizione": "10-7",
-        "lettere": 6
-      },
-      {
-        "numero": 39,
-        "parola": "ROSEO",
-        "definizione": "Un colore dell'incarnato",
-        "posizione": "11-2",
-        "lettere": 5
-      },
-      {
-        "numero": 40,
-        "parola": "IVORIANE",
-        "definizione": "Le africane tra Ghana e Liberia",
-        "posizione": "12-7",
-        "lettere": 8
-      },
-      {
-        "numero": 43,
-        "parola": "RAMA",
-        "definizione": "Chioma d'albero",
-        "posizione": "13-0",
-        "lettere": 4
-      },
-      {
-        "numero": 44,
-        "parola": "ATTONITA",
-        "definizione": "Sbalordita, sorpresa",
-        "posizione": "14-4",
-        "lettere": 8
-      },
-      {
-        "numero": 45,
-        "parola": "RO",
-        "definizione": "Sta all'inizio del rosario",
-        "posizione": "14-13",
-        "lettere": 2
+        "numero": 31,
+        "parola": "GENEPI",
+        "definizione": "Tipico liquore della Valle d'Aosta",
+        "posizione": "8-3",
+        "lettere": 6,
+        "pre_inserita": false
       }
     ],
     "down": [
       {
         "numero": 1,
-        "parola": "EL",
-        "definizione": "Dentro la mela",
+        "parola": "STIE",
+        "definizione": "Casse del pollivendolo",
         "posizione": "0-0",
-        "lettere": 2
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "FARGO",
+        "definizione": "Irene cantante",
+        "posizione": "0-1",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 3,
-        "parola": "SMC",
-        "definizione": "Sua Maestà Cattolica (sigla)",
-        "posizione": "0-3",
-        "lettere": 3
+        "parola": "OB",
+        "definizione": "Il fiume siberiano che lambisce Barnaul",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 4,
-        "parola": "TELE",
-        "definizione": "I tessuti nelle pinacoteche",
-        "posizione": "0-5",
-        "lettere": 4
+        "parola": "ROME",
+        "definizione": "Una Sydney dello schermo",
+        "posizione": "0-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "ZOAGLI",
+        "definizione": "Una località climatica nei pressi di Rapallo",
+        "posizione": "0-4",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 6,
-        "parola": "EMILIO",
-        "definizione": "Lo scultore Greco",
-        "posizione": "0-9",
-        "lettere": 6
+        "parola": "UCRIA",
+        "definizione": "La Marianna di Dacia Maraini",
+        "posizione": "0-7",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 7,
-        "parola": "OLI",
-        "definizione": "Sono più o meno densi",
-        "posizione": "0-12",
-        "lettere": 3
+        "parola": "HUMMUS",
+        "definizione": "Il purè arabo di ceci",
+        "posizione": "0-8",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 9,
-        "parola": "IP",
-        "definizione": "Istituto professionale",
-        "posizione": "1-1",
-        "lettere": 2
+        "parola": "OO",
+        "definizione": "La farina più bianca",
+        "posizione": "1-6",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 11,
-        "parola": "SINUOSA",
-        "definizione": "Tortuosa, serpeggiante",
-        "posizione": "1-14",
-        "lettere": 7
+        "numero": 12,
+        "parola": "LIETI",
+        "definizione": "Come gli eventi... che ci rendono più numerosi",
+        "posizione": "2-5",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 13,
-        "parola": "REM",
-        "definizione": "La fase dei sogni (sigla)",
-        "posizione": "2-2",
-        "lettere": 3
+        "numero": 14,
+        "parola": "RACER",
+        "definizione": "Un natante per gare",
+        "posizione": "3-2",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 15,
-        "parola": "COE",
-        "definizione": "Sebastian dell'atletica leggera",
-        "posizione": "3-4",
-        "lettere": 3
-      },
-      {
-        "numero": 16,
-        "parola": "ARAMIS",
-        "definizione": "Amico di Porthos",
-        "posizione": "3-7",
-        "lettere": 6
-      },
-      {
-        "numero": 17,
-        "parola": "PEDIATRI",
-        "definizione": "Hanno giovani pazienti",
-        "posizione": "3-11",
-        "lettere": 8
+        "numero": 18,
+        "parola": "NONNE",
+        "definizione": "Matteo è stato fotografato con le sue",
+        "posizione": "4-6",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 19,
-        "parola": "SB",
-        "definizione": "In mezzo alla Casbah",
-        "posizione": "4-0",
-        "lettere": 2
+        "parola": "TECL",
+        "definizione": "L'al di là geografico",
+        "posizione": "5-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "LING",
+        "definizione": "Il medico tedesco che pose le basi della moderna ginnastica a corpo libero",
+        "posizione": "5-3",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 23,
-        "parola": "USI",
-        "definizione": "Spesso fanno legge",
-        "posizione": "5-1",
-        "lettere": 3
+        "parola": "NAP",
+        "definizione": "Nuclei Armati Proletari",
+        "posizione": "6-1",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 26,
-        "parola": "IB",
-        "definizione": "Il cuore di Annibale",
-        "posizione": "6-3",
-        "lettere": 2
+        "numero": 25,
+        "parola": "ARP",
+        "definizione": "Hans scultore astratto",
+        "posizione": "6-7",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 27,
-        "parola": "LB",
-        "definizione": "Iniziali della Biagiotti",
-        "posizione": "6-5",
-        "lettere": 2
+        "parola": "IE",
+        "definizione": "Siede dopo la prima",
+        "posizione": "7-4",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 29,
-        "parola": "OLD",
-        "definizione": "Vecchia Inghilterra",
-        "posizione": "7-2",
-        "lettere": 3
-      },
-      {
-        "numero": 30,
-        "parola": "INS",
-        "definizione": "Docente di scuola elementare (abbr.)",
-        "posizione": "7-4",
-        "lettere": 3
-      },
-      {
-        "numero": 31,
-        "parola": "GIUGNO",
-        "definizione": "Il mese del giorno più lungo",
-        "posizione": "7-9",
-        "lettere": 6
-      },
-      {
-        "numero": 32,
-        "parola": "IS",
-        "definizione": "Il centro di Pisa",
-        "posizione": "7-13",
-        "lettere": 2
-      },
-      {
-        "numero": 33,
-        "parola": "SAMARE",
-        "definizione": "Semi dotati di ala",
-        "posizione": "9-0",
-        "lettere": 6
-      },
-      {
-        "numero": 34,
-        "parola": "ERO",
-        "definizione": "Lo dice chi è stato",
-        "posizione": "9-3",
-        "lettere": 3
-      },
-      {
-        "numero": 35,
-        "parola": "TRENET",
-        "definizione": "Il Charles di Douce France",
-        "posizione": "9-5",
-        "lettere": 6
-      },
-      {
-        "numero": 36,
-        "parola": "TOCE",
-        "definizione": "Scorre in Val d' Ossola",
-        "posizione": "9-14",
-        "lettere": 4
-      },
-      {
-        "numero": 38,
-        "parola": "AIA",
-        "definizione": "Spiazzo colonico",
-        "posizione": "10-12",
-        "lettere": 3
-      },
-      {
-        "numero": 39,
-        "parola": "RAMO",
-        "definizione": "Se è secco va tagliato",
-        "posizione": "11-2",
-        "lettere": 4
-      },
-      {
-        "numero": 40,
-        "parola": "ITO",
-        "definizione": "Una desinenza per i sali",
-        "posizione": "12-7",
-        "lettere": 3
-      },
-      {
-        "numero": 41,
-        "parola": "IVA",
-        "definizione": "Si versa allo Stato (sigla)",
-        "posizione": "12-11",
-        "lettere": 3
-      },
-      {
-        "numero": 42,
-        "parola": "NDR",
-        "definizione": "Nota Del Redattore",
-        "posizione": "12-13",
-        "lettere": 3
+        "parola": "FI",
+        "definizione": "Nelle foglie e nei fusti",
+        "posizione": "7-8",
+        "lettere": 2,
+        "pre_inserita": false
       }
     ]
   }

@@ -1,384 +1,295 @@
 {
-  "title": "Cruciverba: Italiano Universale #7",
-  "size": "15x15",
+  "title": "Cruciverba a Schema Fisso #S - Schema 9x9 - Classico - Variante 1",
+  "size": "9x9",
+  "schema_usato": "S",
+  "completo": true,
   "grid": [
-    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
-    "0 # # R # R O S A C E E # # # D",
-    "1 R I E # E # B # # V # T O R I",
-    "2 A # N # S # A R I A # # L # T",
-    "3 E C O L E # R # V # O Z I # O",
-    "4 # A # I # R A M I # S # V # #",
-    "5 N # C B S # Z # # F # L A T O",
-    "6 A # # R # # Z # # A # A # # C",
-    "7 R I V E S T I M E N T I S T A",
-    "8 B # # T # # N # T # E # C # #",
-    "9 O # A T # M I T R A # # R U M",
-    "0 N # # O L A # Y # # I V A # I",
-    "1 A M I # # N # C A P # # N O #",
-    "2 # A # N # N E O # A C # N # P",
-    "3 # S U O # # # O # T # N O I A",
-    "4 # # T # S C E N E # A E # # N"
+    "  0 1 2 3 4 5 6 7 8",
+    "0 F R A P P E # Z Q",
+    "1 N E R E O # L E U",
+    "2 A C # S P A N N A",
+    "3 C I R C E M # I S",
+    "4 # T I # Y E A T S",
+    "5 L # E F E B I # U",
+    "6 O T T O # E O L #",
+    "7 S T I G E # L A R",
+    "8 T T # G E N E P Y"
   ],
   "clues": {
     "across": [
       {
-        "numero": 2,
-        "parola": "ROSACEE",
-        "definizione": "Gli alberi come i ciliegi e i peschi",
-        "posizione": "0-4",
-        "lettere": 7
+        "numero": 1,
+        "parola": "FRAPPE",
+        "definizione": "Una specie di frullato",
+        "posizione": "0-0",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 6,
-        "parola": "RIE",
-        "definizione": "Perfide, cattive",
-        "posizione": "1-0",
-        "lettere": 3
+        "parola": "ZQ",
+        "definizione": "La quinta e la sesta di Vela'z-quez",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 7,
-        "parola": "TORI",
-        "definizione": "L'attrice Spelling",
-        "posizione": "1-11",
-        "lettere": 4
+        "numero": 8,
+        "parola": "NEREO",
+        "definizione": "Era padre di cinquanta ninfe",
+        "posizione": "1-0",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 9,
-        "parola": "ARIA",
-        "definizione": "Gonfia certe camere...",
-        "posizione": "2-6",
-        "lettere": 4
+        "parola": "LEU",
+        "definizione": "Moneta romena",
+        "posizione": "1-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "AC",
+        "definizione": "Iniziali di Cechov",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 11,
-        "parola": "ECOLE",
-        "definizione": "La scuola di Parigi",
-        "posizione": "3-0",
-        "lettere": 5
+        "parola": "SPANNA",
+        "definizione": "Larghezza della mano aperta",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
-        "numero": 14,
-        "parola": "OZI",
-        "definizione": "Pigri riposi",
-        "posizione": "3-10",
-        "lettere": 3
+        "numero": 13,
+        "parola": "CIRCEM",
+        "definizione": "Promontorio laziale",
+        "posizione": "3-0",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 15,
-        "parola": "RAMI",
-        "definizione": "Ci sono quelli d'azienda",
-        "posizione": "4-5",
-        "lettere": 4
+        "parola": "IS",
+        "definizione": "Ispide in parte",
+        "posizione": "3-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "TI",
+        "definizione": "In mezzo alla portiera",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 17,
-        "parola": "CBS",
-        "definizione": "Un colosso radiotelevisivo americano (sigla)",
+        "parola": "YEATS",
+        "definizione": "Poeta irlandese premio Nobel",
+        "posizione": "4-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "EFEBI",
+        "definizione": "Giovinetti adolescenti",
         "posizione": "5-2",
-        "lettere": 3
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 19,
-        "parola": "LATO",
-        "definizione": "Un fianco del poligono",
-        "posizione": "5-11",
-        "lettere": 4
+        "numero": 22,
+        "parola": "OTTO",
+        "definizione": "Sui cordless vale TUV",
+        "posizione": "6-0",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
-        "numero": 21,
-        "parola": "RIVESTIMENTISTA",
-        "definizione": "Operaio edile che esegue lavori decorativi",
-        "posizione": "7-0",
-        "lettere": 15
-      },
-      {
-        "numero": 25,
-        "parola": "AT",
-        "definizione": "Rendono l'intesa inattesa",
-        "posizione": "9-2",
-        "lettere": 2
+        "numero": 24,
+        "parola": "EOL",
+        "definizione": "Espana on line",
+        "posizione": "6-5",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 26,
-        "parola": "MITRA",
-        "definizione": "Copricapo vescovile",
-        "posizione": "9-5",
-        "lettere": 5
+        "parola": "STIGE",
+        "definizione": "Va all'inferno",
+        "posizione": "7-0",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 28,
-        "parola": "RUM",
-        "definizione": "È fra gli ingredienti del Cuba Libre",
-        "posizione": "9-12",
-        "lettere": 3
+        "parola": "LAR",
+        "definizione": "Sigla della Libia",
+        "posizione": "7-6",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 30,
-        "parola": "OLA",
-        "definizione": "L'onda dello stadio",
-        "posizione": "10-3",
-        "lettere": 3
+        "parola": "TT",
+        "definizione": "In mezzo ai trattini",
+        "posizione": "8-0",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 31,
-        "parola": "IVA",
-        "definizione": "Alza l'importo della fattura",
-        "posizione": "10-10",
-        "lettere": 3
-      },
-      {
-        "numero": 32,
-        "parola": "AMI",
-        "definizione": "Gancetti che vengono ingoiati dai pesci",
-        "posizione": "11-0",
-        "lettere": 3
-      },
-      {
-        "numero": 34,
-        "parola": "CAP",
-        "definizione": "Un giorno sarà magg",
-        "posizione": "11-7",
-        "lettere": 3
-      },
-      {
-        "numero": 36,
-        "parola": "NO",
-        "definizione": "La risposta dell'opposizione",
-        "posizione": "11-12",
-        "lettere": 2
-      },
-      {
-        "numero": 38,
-        "parola": "NEO",
-        "definizione": "Difetto della pelle",
-        "posizione": "12-5",
-        "lettere": 3
-      },
-      {
-        "numero": 39,
-        "parola": "AC",
-        "definizione": "Iniziali di Cechov",
-        "posizione": "12-9",
-        "lettere": 2
-      },
-      {
-        "numero": 41,
-        "parola": "SUO",
-        "definizione": "Che gli pertiene",
-        "posizione": "13-1",
-        "lettere": 3
-      },
-      {
-        "numero": 43,
-        "parola": "NOIA",
-        "definizione": "Ci assale nell'ozio",
-        "posizione": "13-11",
-        "lettere": 4
-      },
-      {
-        "numero": 44,
-        "parola": "SCENE",
-        "definizione": "Si cambiano negli intervalli",
-        "posizione": "14-4",
-        "lettere": 5
-      },
-      {
-        "numero": 45,
-        "parola": "AE",
-        "definizione": "Gli... estremi dell'amore",
-        "posizione": "14-10",
-        "lettere": 2
+        "parola": "GENEPY",
+        "definizione": "Alcolico consumato spesso da montanari",
+        "posizione": "8-3",
+        "lettere": 6,
+        "pre_inserita": false
       }
     ],
     "down": [
       {
         "numero": 1,
-        "parola": "RENO",
-        "definizione": "L'...acqua di Colonia",
-        "posizione": "0-2",
-        "lettere": 4
+        "parola": "FNAC",
+        "definizione": "Una sigla della distribuzione musicale e libraria",
+        "posizione": "0-0",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 2,
-        "parola": "RESE",
-        "definizione": "Le copie che ritornano dalle edicole",
-        "posizione": "0-4",
-        "lettere": 4
+        "parola": "RECIT",
+        "definizione": "Racconto...alla francese",
+        "posizione": "0-1",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 3,
-        "parola": "SBARAZZINI",
-        "definizione": "Ragazzi irrequieti",
-        "posizione": "0-6",
-        "lettere": 10
+        "parola": "AR",
+        "definizione": "Si scrivono in quarta...",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 4,
-        "parola": "EVA",
-        "definizione": "La Riccobono delle passerelle",
-        "posizione": "0-9",
-        "lettere": 3
+        "parola": "PESC",
+        "definizione": "Javier Solana ne è l'alto rappresentante (sigla)",
+        "posizione": "0-3",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 5,
-        "parola": "DITO",
-        "definizione": "Lo si mette sulla piaga",
-        "posizione": "0-14",
-        "lettere": 4
+        "parola": "POPEYE",
+        "definizione": "Da noi è Braccio di Ferro",
+        "posizione": "0-4",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 6,
-        "parola": "RAE",
-        "definizione": "Un grande esploratore polare britannico",
-        "posizione": "1-0",
-        "lettere": 3
+        "parola": "ZENIT",
+        "definizione": "All'opposto del nadir",
+        "posizione": "0-7",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 8,
-        "parola": "OLIVA",
-        "definizione": "Un frutto che si spreme",
-        "posizione": "1-12",
-        "lettere": 5
+        "numero": 7,
+        "parola": "QUASSU",
+        "definizione": "Avverbio di luogo",
+        "posizione": "0-8",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
-        "numero": 10,
-        "parola": "IVI",
-        "definizione": "In tale luogo",
-        "posizione": "2-8",
-        "lettere": 3
+        "numero": 9,
+        "parola": "LN",
+        "definizione": "Luigi Nono",
+        "posizione": "1-6",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 12,
-        "parola": "CA",
-        "definizione": "L'Angiolieri poeta (iniz.)",
-        "posizione": "3-1",
-        "lettere": 2
-      },
-      {
-        "numero": 13,
-        "parola": "LIBRETTO",
-        "definizione": "Il testo dell'opera lirica",
-        "posizione": "3-3",
-        "lettere": 8
+        "parola": "AMEBE",
+        "definizione": "Possono causare un tipo di dissenteria",
+        "posizione": "2-5",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 14,
-        "parola": "OS",
-        "definizione": "Osservare dall'inizio",
-        "posizione": "3-10",
-        "lettere": 2
-      },
-      {
-        "numero": 16,
-        "parola": "NARBONA",
-        "definizione": "Una città della Francia",
-        "posizione": "5-0",
-        "lettere": 7
+        "parola": "RIETI",
+        "definizione": "Vi nacque Vespasiano",
+        "posizione": "3-2",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 18,
-        "parola": "FAN",
-        "definizione": "Ne ha tanti il divo del cinema",
-        "posizione": "5-9",
-        "lettere": 3
+        "parola": "AIOLE",
+        "definizione": "Sono piene di fiori",
+        "posizione": "4-6",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 19,
-        "parola": "LAI",
-        "definizione": "Pianti e sospiri... d'un tempo passato",
-        "posizione": "5-11",
-        "lettere": 3
+        "parola": "LOST",
+        "definizione": "Si è perduto nella grande Londra",
+        "posizione": "5-0",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
-        "numero": 20,
-        "parola": "OCA",
-        "definizione": "Palmipede da cortile",
-        "posizione": "5-14",
-        "lettere": 3
-      },
-      {
-        "numero": 22,
-        "parola": "ETR",
-        "definizione": "Un tipo di treno (sigla)",
-        "posizione": "7-8",
-        "lettere": 3
+        "numero": 21,
+        "parola": "FOGG",
+        "definizione": "Il Phileas del Giro del mondo in 80 giorni",
+        "posizione": "5-3",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 23,
-        "parola": "TE",
-        "definizione": "La provincia di Giulianova (sigla)",
-        "posizione": "7-10",
-        "lettere": 2
+        "parola": "TTT",
+        "definizione": "La sigla di... Cremona",
+        "posizione": "6-1",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 24,
-        "parola": "SCRANNO",
-        "definizione": "Un banco da deputati",
-        "posizione": "7-12",
-        "lettere": 7
-      },
-      {
-        "numero": 26,
-        "parola": "MANN",
-        "definizione": "Thomas de La montagna incantata",
-        "posizione": "9-5",
-        "lettere": 4
+        "numero": 25,
+        "parola": "LAP",
+        "definizione": "Un top tra i computer",
+        "posizione": "6-7",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 27,
-        "parola": "TYCOON",
-        "definizione": "Uno come Trump",
-        "posizione": "9-7",
-        "lettere": 6
+        "parola": "EE",
+        "definizione": "Sono uguali in esame",
+        "posizione": "7-4",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 29,
-        "parola": "MI",
-        "definizione": "Coda d'ippopotami",
-        "posizione": "9-14",
-        "lettere": 2
-      },
-      {
-        "numero": 33,
-        "parola": "MAS",
-        "definizione": "I motoscafi con i siluri",
-        "posizione": "11-1",
-        "lettere": 3
-      },
-      {
-        "numero": 35,
-        "parola": "PAT",
-        "definizione": "Il Metheny chitarrista jazz",
-        "posizione": "11-9",
-        "lettere": 3
-      },
-      {
-        "numero": 37,
-        "parola": "NO",
-        "definizione": "Nel guadagno e nell' introito",
-        "posizione": "12-3",
-        "lettere": 2
-      },
-      {
-        "numero": 40,
-        "parola": "PAN",
-        "definizione": "Divinità dei boschi",
-        "posizione": "12-14",
-        "lettere": 3
-      },
-      {
-        "numero": 42,
-        "parola": "UT",
-        "definizione": "Il do di Guido d' Arezzo",
-        "posizione": "13-2",
-        "lettere": 2
-      },
-      {
-        "numero": 43,
-        "parola": "NE",
-        "definizione": "Fine della rettitudine",
-        "posizione": "13-11",
-        "lettere": 2
+        "parola": "RY",
+        "definizione": "La fine della love story",
+        "posizione": "7-8",
+        "lettere": 2,
+        "pre_inserita": false
       }
     ]
   }

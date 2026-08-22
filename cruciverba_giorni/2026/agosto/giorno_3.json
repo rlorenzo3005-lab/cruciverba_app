@@ -1,363 +1,295 @@
 {
-  "title": "Cruciverba: Italiano Universale #3",
-  "size": "15x15",
+  "title": "Cruciverba a Schema Fisso #S - Schema 9x9 - Classico - Variante 1",
+  "size": "9x9",
+  "schema_usato": "S",
+  "completo": true,
   "grid": [
-    "  0 1 2 3 4 5 6 7 8 9 0 1 2 3 4",
-    "0 H I T # I # # A # # W # S # S",
-    "1 O # I N D O S S A R E # U V E",
-    "2 T # C # I # I # P # A S I # T",
-    "3 # T # D # # R A I # H # N # #",
-    "4 B U # U # S # # C # # # O R A",
-    "5 # O T E R O # # U R T O # # N",
-    "6 # # # # # G # # L # # L # # G",
-    "7 C L A R I N E T T O B A S S O",
-    "8 R # N # # O # # O # A # O # S",
-    "9 E S T # S # B A R # R A S # C",
-    "0 A # E O L O # # E # C # # # E",
-    "1 N A # O # R O D # G A D # D #",
-    "2 Z # C # # A # I R A # I # A #",
-    "3 A S I N E R I A # G I O T T O",
-    "4 # # O # # E # Z T # B # # O #"
+    "  0 1 2 3 4 5 6 7 8",
+    "0 C O S I M O # I G",
+    "1 E V A S I # G N U",
+    "2 N I # A T T I V A",
+    "3 E L L R O Y # I P",
+    "4 # E A # S L O O P",
+    "5 I # I G I E A # I",
+    "6 N A N E # R S U #",
+    "7 R A G N I # O E E",
+    "8 I M # S C A N S O"
   ],
   "clues": {
     "across": [
       {
         "numero": 1,
-        "parola": "HIT",
-        "definizione": "Brano che piace a molti",
+        "parola": "COSIMO",
+        "definizione": "Fu Granduca di Toscana",
         "posizione": "0-0",
-        "lettere": 3
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "IG",
+        "definizione": "Eligio senza Elio",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 8,
-        "parola": "INDOSSARE",
-        "definizione": "Mettersi un abito",
-        "posizione": "1-2",
-        "lettere": 9
+        "parola": "EVASI",
+        "definizione": "Usciti dal carcere... di nascosto!",
+        "posizione": "1-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "GNU",
+        "definizione": "L'antilope... maggiore",
+        "posizione": "1-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "NI",
+        "definizione": "Fine di inganni",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 11,
-        "parola": "UVE",
-        "definizione": "Si pigiano nei tini",
-        "posizione": "1-12",
-        "lettere": 3
+        "parola": "ATTIVA",
+        "definizione": "Alacre, laboriosa",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
-        "numero": 12,
-        "parola": "ASI",
-        "definizione": "Antichi dei",
-        "posizione": "2-10",
-        "lettere": 3
+        "numero": 13,
+        "parola": "ELLROY",
+        "definizione": "James del noir.",
+        "posizione": "3-0",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 15,
-        "parola": "RAI",
-        "definizione": "L' ha lasciata Lilli Gruber",
-        "posizione": "3-6",
-        "lettere": 3
+        "parola": "IP",
+        "definizione": "La fine dello strip",
+        "posizione": "3-7",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 16,
-        "parola": "BU",
-        "definizione": "Un po' di buio",
-        "posizione": "4-0",
-        "lettere": 2
+        "parola": "EA",
+        "definizione": "Vocali scritti in belga",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 18,
-        "parola": "ORA",
-        "definizione": "C'è quella di finirla!",
-        "posizione": "4-12",
-        "lettere": 3
+        "numero": 17,
+        "parola": "SLOOP",
+        "definizione": "Imbarcazione sportiva a vela",
+        "posizione": "4-4",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 20,
-        "parola": "OTERO",
-        "definizione": "L'odierna Persia",
-        "posizione": "5-1",
-        "lettere": 5
+        "parola": "IGIEA",
+        "definizione": "Una famosa Villa a Palermo",
+        "posizione": "5-2",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 21,
-        "parola": "URTO",
-        "definizione": "Spinta, cozzo",
-        "posizione": "5-8",
-        "lettere": 4
+        "numero": 22,
+        "parola": "NANE",
+        "definizione": "Piccolette",
+        "posizione": "6-0",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
-        "numero": 23,
-        "parola": "CLARINETTOBASSO",
-        "definizione": "É simile al sassofono per la forma",
+        "numero": 24,
+        "parola": "RSU",
+        "definizione": "Rifiuti Solidi Urbani (sigla)",
+        "posizione": "6-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "RAGNI",
+        "definizione": "Artisti in tele",
         "posizione": "7-0",
-        "lettere": 15
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 27,
-        "parola": "EST",
-        "definizione": "Si distingue all' alba",
-        "posizione": "9-0",
-        "lettere": 3
-      },
-      {
-        "numero": 29,
-        "parola": "BAR",
-        "definizione": "Un locale con il banco",
-        "posizione": "9-6",
-        "lettere": 3
+        "numero": 28,
+        "parola": "OEE",
+        "definizione": "Il parametro dell'efficienza totale di un impianto (sigla)",
+        "posizione": "7-6",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 30,
-        "parola": "RAS",
-        "definizione": "Ex dignitari etiopici",
-        "posizione": "9-10",
-        "lettere": 3
+        "parola": "IM",
+        "definizione": "Un... po' d'impurità",
+        "posizione": "8-0",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 31,
-        "parola": "EOLO",
-        "definizione": "Il dio che manda tutto all'aria",
-        "posizione": "10-2",
-        "lettere": 4
-      },
-      {
-        "numero": 34,
-        "parola": "NA",
-        "definizione": "Si chiamò Partenope (sigla)",
-        "posizione": "11-0",
-        "lettere": 2
-      },
-      {
-        "numero": 35,
-        "parola": "ROD",
-        "definizione": "Stewart rockstar",
-        "posizione": "11-5",
-        "lettere": 3
-      },
-      {
-        "numero": 37,
-        "parola": "GAD",
-        "definizione": "Lerner, giornalista di La7",
-        "posizione": "11-9",
-        "lettere": 3
-      },
-      {
-        "numero": 41,
-        "parola": "IRA",
-        "definizione": "Ha fatto terrorismo in Irlanda",
-        "posizione": "12-7",
-        "lettere": 3
-      },
-      {
-        "numero": 42,
-        "parola": "ASINERIA",
-        "definizione": "E una somaraggine",
-        "posizione": "13-0",
-        "lettere": 8
-      },
-      {
-        "numero": 43,
-        "parola": "GIOTTO",
-        "definizione": "Il pastorello che meravigliò Cimabue",
-        "posizione": "13-9",
-        "lettere": 6
-      },
-      {
-        "numero": 45,
-        "parola": "ZT",
-        "definizione": "Gli estremi di Zermatt",
-        "posizione": "14-7",
-        "lettere": 2
+        "parola": "SCANSO",
+        "definizione": "A..., significa per evitare",
+        "posizione": "8-3",
+        "lettere": 6,
+        "pre_inserita": false
       }
     ],
     "down": [
       {
         "numero": 1,
-        "parola": "HOT",
-        "definizione": "Caldo come certe linee telefoniche",
+        "parola": "CENE",
+        "definizione": "Gli ultimi pasti della giornata",
         "posizione": "0-0",
-        "lettere": 3
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 2,
-        "parola": "TIC",
-        "definizione": "Fa strizzare l' occhio",
-        "posizione": "0-2",
-        "lettere": 3
+        "parola": "OVILE",
+        "definizione": "Lo chiude il pastore",
+        "posizione": "0-1",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 3,
-        "parola": "IDI",
-        "definizione": "__ di Marzo: viene ucciso Giulio Cesare",
-        "posizione": "0-4",
-        "lettere": 3
+        "parola": "SA",
+        "definizione": "Sigla dell'Arabia Saudita",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
         "numero": 4,
-        "parola": "AS",
-        "definizione": "Serena in campo (iniz.)",
-        "posizione": "0-7",
-        "lettere": 2
+        "parola": "ISAR",
+        "definizione": "Scorre nella Baviera",
+        "posizione": "0-3",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 5,
-        "parola": "WEAH",
-        "definizione": "Un George del calcio",
-        "posizione": "0-10",
-        "lettere": 4
+        "parola": "MITOSI",
+        "definizione": "Sinonimo di cariocinesi",
+        "posizione": "0-4",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 6,
-        "parola": "SUINO",
-        "definizione": "Maiale da allevamento",
-        "posizione": "0-12",
-        "lettere": 5
+        "parola": "INVIO",
+        "definizione": "L' ...inoltro della lettera",
+        "posizione": "0-7",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 7,
-        "parola": "SET",
-        "definizione": "Serie di valigie di varie dimensioni",
-        "posizione": "0-14",
-        "lettere": 3
+        "parola": "GUAPPI",
+        "definizione": "Malavitosi meridionali",
+        "posizione": "0-8",
+        "lettere": 6,
+        "pre_inserita": false
       },
       {
         "numero": 9,
-        "parola": "SIR",
-        "definizione": "Il titolo dato a Guinness",
+        "parola": "GI",
+        "definizione": "La fine dei sotterfugi",
         "posizione": "1-6",
-        "lettere": 3
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 10,
-        "parola": "APICULTORE",
-        "definizione": "L'allevatore mascherato",
-        "posizione": "1-8",
-        "lettere": 10
-      },
-      {
-        "numero": 13,
-        "parola": "TUO",
-        "definizione": "Appartiene a uno di noi due",
-        "posizione": "3-1",
-        "lettere": 3
+        "numero": 12,
+        "parola": "TYLER",
+        "definizione": "La Liv nel cast de 'Il signore degli anelli'",
+        "posizione": "2-5",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 14,
-        "parola": "DUE",
-        "definizione": "I titoli mondiali vinti da Verstappen",
-        "posizione": "3-3",
-        "lettere": 3
+        "parola": "LAING",
+        "definizione": "L'antipsichiatra Ronald dei Nodi.",
+        "posizione": "3-2",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
-        "numero": 17,
-        "parola": "SOGNO",
-        "definizione": "È opportuno non farlo a occhi aperti!",
-        "posizione": "4-5",
-        "lettere": 5
+        "numero": 18,
+        "parola": "OASON",
+        "definizione": "Il Perry di molti telefilm",
+        "posizione": "4-6",
+        "lettere": 5,
+        "pre_inserita": false
       },
       {
         "numero": 19,
-        "parola": "ANGOSCE",
-        "definizione": "Tormenti che opprimono",
-        "posizione": "4-14",
-        "lettere": 7
+        "parola": "INRI",
+        "definizione": "L' ultima ingiuria a Gesù",
+        "posizione": "5-0",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
-        "numero": 22,
-        "parola": "OLA",
-        "definizione": "L'onda allo stadio",
-        "posizione": "5-11",
-        "lettere": 3
+        "numero": 21,
+        "parola": "GENS",
+        "definizione": "La famiglia al tempo di Cesare",
+        "posizione": "5-3",
+        "lettere": 4,
+        "pre_inserita": false
       },
       {
         "numero": 23,
-        "parola": "CREANZA",
-        "definizione": "Buona educazione",
-        "posizione": "7-0",
-        "lettere": 7
-      },
-      {
-        "numero": 24,
-        "parola": "ANTE",
-        "definizione": "Chiudono l'armadio",
-        "posizione": "7-2",
-        "lettere": 4
+        "parola": "AAM",
+        "definizione": "Azienda Acquedotto Municipale",
+        "posizione": "6-1",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
         "numero": 25,
-        "parola": "BARCA",
-        "definizione": "Vi tira i remi chi si ritira",
-        "posizione": "7-10",
-        "lettere": 5
+        "parola": "UES",
+        "definizione": "Sigla e simbolo di unità di misura elettrostatica",
+        "posizione": "6-7",
+        "lettere": 3,
+        "pre_inserita": false
       },
       {
-        "numero": 26,
-        "parola": "SOS",
-        "definizione": "Fa accorrere aiuti",
-        "posizione": "7-12",
-        "lettere": 3
+        "numero": 27,
+        "parola": "IC",
+        "definizione": "99 scritto in un altro modo",
+        "posizione": "7-4",
+        "lettere": 2,
+        "pre_inserita": false
       },
       {
-        "numero": 28,
-        "parola": "SL",
-        "definizione": "Iniz. di Lumet, il regista",
-        "posizione": "9-4",
-        "lettere": 2
-      },
-      {
-        "numero": 32,
-        "parola": "OO",
-        "definizione": "Vocali in fondo",
-        "posizione": "10-3",
-        "lettere": 2
-      },
-      {
-        "numero": 33,
-        "parola": "ORARE",
-        "definizione": "Pregare in bello stile",
-        "posizione": "10-5",
-        "lettere": 5
-      },
-      {
-        "numero": 36,
-        "parola": "DIAZ",
-        "definizione": "Armando maresciallo d'Italia",
-        "posizione": "11-7",
-        "lettere": 4
-      },
-      {
-        "numero": 37,
-        "parola": "GAG",
-        "definizione": "Scenetta divertente",
-        "posizione": "11-9",
-        "lettere": 3
-      },
-      {
-        "numero": 38,
-        "parola": "DIO",
-        "definizione": "Ci si crede o no",
-        "posizione": "11-11",
-        "lettere": 3
-      },
-      {
-        "numero": 39,
-        "parola": "DATO",
-        "definizione": "Un'informazione immessa nel computer",
-        "posizione": "11-13",
-        "lettere": 4
-      },
-      {
-        "numero": 40,
-        "parola": "CIO",
-        "definizione": "Può sostituire questo",
-        "posizione": "12-2",
-        "lettere": 3
-      },
-      {
-        "numero": 44,
-        "parola": "IB",
-        "definizione": "Le prime di Ibsen",
-        "posizione": "13-10",
-        "lettere": 2
+        "numero": 29,
+        "parola": "EO",
+        "definizione": "I confini dell' Egitto",
+        "posizione": "7-8",
+        "lettere": 2,
+        "pre_inserita": false
       }
     ]
   }
