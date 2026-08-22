@@ -1,0 +1,296 @@
+{
+  "title": "Cruciverba a Schema Fisso #2 - Schema 9x9 - Classico - Lerici + Cav - Variante 1",
+  "size": "9x9",
+  "schema_usato": 2,
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8",
+    "0 L E R I C I # M S",
+    "1 I N A M A # L O U",
+    "2 S F # A R C U R I",
+    "3 P I A N T A # I T",
+    "4 # O L # A P I C E",
+    "5 G # A L I A S # S",
+    "6 A E T A # C A V #",
+    "7 G N O M I # A I M",
+    "8 S Z # B I S C I A"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "LERICI",
+        "definizione": "Amena località della Liguria",
+        "posizione": "0-0",
+        "lettere": 6,
+        "pre_inserita": true
+      },
+      {
+        "numero": 6,
+        "parola": "MS",
+        "definizione": "Sigarette di Stato",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "INAMA",
+        "definizione": "Vigilio storico grecista",
+        "posizione": "1-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "LOU",
+        "definizione": "L'attore Castel",
+        "posizione": "1-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "SF",
+        "definizione": "Cambia. la colpa in solfa",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "ARCURI",
+        "definizione": "Una Manuela dello spettacolo",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "PIANTA",
+        "definizione": "Viene messa a dimora",
+        "posizione": "3-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "IT",
+        "definizione": "Iniziali di Turgenev",
+        "posizione": "3-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "OL",
+        "definizione": "Fanno la differenza tra la seta e la setola",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "APICE",
+        "definizione": "L'estremità delle radici dei denti",
+        "posizione": "4-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "ALIAS",
+        "definizione": "Può essere un nome d'arte",
+        "posizione": "5-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "AETA",
+        "definizione": "Tribù dell'isola di Luzon",
+        "posizione": "6-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "CAV",
+        "definizione": "Cavaliere (abbr.)",
+        "posizione": "6-5",
+        "lettere": 3,
+        "pre_inserita": true
+      },
+      {
+        "numero": 26,
+        "parola": "GNOMI",
+        "definizione": "Nanerottoli delle fiabe",
+        "posizione": "7-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "AIM",
+        "definizione": "Accademia Internazionale Medicea",
+        "posizione": "7-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "SZ",
+        "definizione": "Sazi senza pari",
+        "posizione": "8-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "BISCIA",
+        "definizione": "Striscia tra l'erba dei campi",
+        "posizione": "8-3",
+        "lettere": 6,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "LISP",
+        "definizione": "Linguaggio usato in informatica",
+        "posizione": "0-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "ENFIO",
+        "definizione": "Tumefatto",
+        "posizione": "0-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "RA",
+        "definizione": "Il Renzo di Indietro tutta (iniz.)",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "IMAN",
+        "definizione": "Capo religioso islamico",
+        "posizione": "0-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "CARTAI",
+        "definizione": "Acquistano cellulosa e pasta di legno",
+        "posizione": "0-4",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "MORIC",
+        "definizione": "Una Nina modella",
+        "posizione": "0-7",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "SUITES",
+        "definizione": "Bach ne scrisse di inglesi e di francesi",
+        "posizione": "0-8",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "LU",
+        "definizione": "Una mezza luce",
+        "posizione": "1-6",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "CAPAC",
+        "definizione": "Il Manco imperatore inca",
+        "posizione": "2-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "ALATO",
+        "definizione": "Così era Ippogrifo",
+        "posizione": "3-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "ISAAC",
+        "definizione": "L' Asimov scrittore",
+        "posizione": "4-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "GAGS",
+        "definizione": "Le trovate comiche dei film",
+        "posizione": "5-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "LAMB",
+        "definizione": "Charles saggista inglese",
+        "posizione": "5-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "ENZ",
+        "definizione": "Fiume del Württemberg",
+        "posizione": "6-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "VII",
+        "definizione": "Settimo romano",
+        "posizione": "6-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "II",
+        "definizione": "Addii finali",
+        "posizione": "7-4",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "MA",
+        "definizione": "Esprime incertezza",
+        "posizione": "7-8",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
