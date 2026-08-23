@@ -1,0 +1,296 @@
+{
+  "title": "Cruciverba a Schema Fisso #S2 - Schema 9x9 - Classico - Variante 1",
+  "size": "9x9",
+  "schema_usato": "S2",
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8",
+    "0 A G O S T O # N M",
+    "1 S E L E S # Z O O",
+    "2 A O # R I N G E R",
+    "3 P R U G N E # S E",
+    "4 # G K # A G A I N",
+    "5 E # A G N E S # E",
+    "6 C A S A # D A C #",
+    "7 C I E C A # R P M",
+    "8 I S # O H M I C O"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "AGOSTO",
+        "definizione": "Il mese delle Perseidi",
+        "posizione": "0-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "NM",
+        "definizione": "Sono pari nell' animo",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "SELES",
+        "definizione": "La Monica del tennis",
+        "posizione": "1-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "ZOO",
+        "definizione": "Giardino con gabbioni",
+        "posizione": "1-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "AO",
+        "definizione": "In mezzo alla baraonda",
+        "posizione": "2-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "RINGER",
+        "definizione": "Il Sydney farmacologo famoso per le sue soluzioni",
+        "posizione": "2-3",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "PRUGNE",
+        "definizione": "Susine",
+        "posizione": "3-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "SE",
+        "definizione": "Si accenta quando è pronome.",
+        "posizione": "3-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "GK",
+        "definizione": "Stanley Kramer",
+        "posizione": "4-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "AGAIN",
+        "definizione": "Ancora inglese",
+        "posizione": "4-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "AGNES",
+        "definizione": "Ha diretto a lungo la Rai",
+        "posizione": "5-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "CASA",
+        "definizione": "Si cerca attraverso le agenzie immobiliari",
+        "posizione": "6-0",
+        "lettere": 4,
+        "pre_inserita": true
+      },
+      {
+        "numero": 24,
+        "parola": "DAC",
+        "definizione": "Direzione Anticrimine Centrale (sigla)",
+        "posizione": "6-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "CIECA",
+        "definizione": "Una non vedente",
+        "posizione": "7-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "RPM",
+        "definizione": "Revolutions per Minute (sigla).",
+        "posizione": "7-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "IS",
+        "definizione": "Ispide in parte",
+        "posizione": "8-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "OHMICO",
+        "definizione": "Un tipo di conduttore",
+        "posizione": "8-3",
+        "lettere": 6,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "ASAP",
+        "definizione": "La sigla anglofona di chi si affretta",
+        "posizione": "0-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "GEORG",
+        "definizione": "Cantor matematico",
+        "posizione": "0-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "OL",
+        "definizione": "Fanno la differenza tra la seta e la setola",
+        "posizione": "0-2",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "SERG",
+        "definizione": "Sergente (abbrev.)",
+        "posizione": "0-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "TSINAN",
+        "definizione": "Citta della Cina",
+        "posizione": "0-4",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "NOESI",
+        "definizione": "La conoscenza di Aristotele",
+        "posizione": "0-7",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "MORENE",
+        "definizione": "Detriti rocciosi portati dai ghiacciai",
+        "posizione": "0-8",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "ZG",
+        "definizione": "Inizio e fine di Zelig",
+        "posizione": "1-6",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "NEGED",
+        "definizione": "Altipiano desertico dell'Arabia",
+        "posizione": "2-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "UKASE",
+        "definizione": "Ordine impartito dallo zar",
+        "posizione": "3-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "ASARI",
+        "definizione": "I loro rizomi odorano di pepe",
+        "posizione": "4-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "ECCI",
+        "definizione": "Sonoro starnuto",
+        "posizione": "5-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "GACO",
+        "definizione": "Produttore di seta",
+        "posizione": "5-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "AIS",
+        "definizione": "Riunisce i sommelier italiani (sigla)",
+        "posizione": "6-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "CPC",
+        "definizione": "Codice di procedura civile (sigla)",
+        "posizione": "6-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "AH",
+        "definizione": "Iniziali di una Hepburn",
+        "posizione": "7-4",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "MO",
+        "definizione": "Vale adesso a Roma",
+        "posizione": "7-8",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
