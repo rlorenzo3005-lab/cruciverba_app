@@ -1,0 +1,532 @@
+{
+  "title": "Cruciverba a Schema Fisso #L1 - Schema 13x13 - Variante 1",
+  "size": "13x13",
+  "schema_usato": "L1",
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8 9 0 1 2",
+    "0 A D A T T I # S C A B R E",
+    "1 A P N E E # F U L T O N #",
+    "2 A C A T # N I P O T E # T",
+    "3 # M P # G O L E N A # O R",
+    "4 I # O P E R A R E # E L O",
+    "5 L B # A N M I G # T I M I",
+    "6 L E I R A # N # A R N I A",
+    "7 A L I K # E D I T O # O N",
+    "8 M L S # A R I S T O N # O",
+    "9 P O # C E R A S O # A E #",
+    "0 U # P A R A N A # S T E N",
+    "1 # M E S E T A # U D I T O",
+    "2 A L T A A E # C A N A A N"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "ADATTI",
+        "definizione": "Confacenti allo scopo",
+        "posizione": "0-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "SCABRE",
+        "definizione": "Aspre al tatto",
+        "posizione": "0-7",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "APNEE",
+        "definizione": "Stati che tolgono il respiro",
+        "posizione": "1-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "FULTON",
+        "definizione": "Costruì il primo battello a vapore",
+        "posizione": "1-6",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "ACAT",
+        "definizione": "Bacato nel mezzo",
+        "posizione": "2-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "NIPOTE",
+        "definizione": "Il figlio di un fratello",
+        "posizione": "2-5",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "MP",
+        "definizione": "Riempire al centro",
+        "posizione": "3-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "GOLENA",
+        "definizione": "Appare quando il fiume è in magra",
+        "posizione": "3-4",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "OR",
+        "definizione": "In mezzo al foro",
+        "posizione": "3-11",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "OPERARE",
+        "definizione": "Sottoporre a intervento chirurgico",
+        "posizione": "4-2",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "ELO",
+        "definizione": "Antica città della Laconia",
+        "posizione": "4-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "LB",
+        "definizione": "Le iniziali di Banfi",
+        "posizione": "5-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "ANMIG",
+        "definizione": "Associazione Nazionale Mutilati e Invalidi di Guerra (sigla)",
+        "posizione": "5-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "TIMI",
+        "definizione": "Filippo attore",
+        "posizione": "5-9",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "LEIRA",
+        "definizione": "Città e distretto del Portogallo",
+        "posizione": "6-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "ARNIA",
+        "definizione": "Una cassetta ronzante",
+        "posizione": "6-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "ALIK",
+        "definizione": "Cavaliere della scultura italiana",
+        "posizione": "7-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "EDITO",
+        "definizione": "Pubblicato",
+        "posizione": "7-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 33,
+        "parola": "ON",
+        "definizione": "Rigonfio nel mezzo",
+        "posizione": "7-11",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 34,
+        "parola": "MLS",
+        "definizione": "Movimento dei Lavoratori per il Socialismo",
+        "posizione": "8-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "ARISTON",
+        "definizione": "Noto teatro sanremese",
+        "posizione": "8-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "PO",
+        "definizione": "Aprono poco",
+        "posizione": "9-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "CERASO",
+        "definizione": "Ciliegio",
+        "posizione": "9-3",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "AE",
+        "definizione": "Vocali di rame",
+        "posizione": "9-10",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 41,
+        "parola": "PARANA",
+        "definizione": "Fiume argentino",
+        "posizione": "10-2",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 42,
+        "parola": "STEN",
+        "definizione": "Una nota pistola mitragliatrice",
+        "posizione": "10-9",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 44,
+        "parola": "MESETA",
+        "definizione": "Altopiano tipico della penisola iberica",
+        "posizione": "11-1",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 45,
+        "parola": "UDITO",
+        "definizione": "Percepito con l'orecchio",
+        "posizione": "11-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 46,
+        "parola": "ALTAAE",
+        "definizione": "Terrazze coperte sopra i tetti",
+        "posizione": "12-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 47,
+        "parola": "CANAAN",
+        "definizione": "La Terra Promessa",
+        "posizione": "12-7",
+        "lettere": 6,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "AAA",
+        "definizione": "Tre vocali... prima dell'annuncio",
+        "posizione": "0-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "DPCM",
+        "definizione": "Conte ne fa tanti (sigla).",
+        "posizione": "0-1",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "ANAPO",
+        "definizione": "Sfocia nello Ionio presso Siracusa",
+        "posizione": "0-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "TET",
+        "definizione": "Il fiume di Perpignan",
+        "posizione": "0-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "TE",
+        "definizione": "L'Oloong ne è una varietà",
+        "posizione": "0-4",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "SUPERG",
+        "definizione": "Specialità dello sci",
+        "posizione": "0-7",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "CLONE",
+        "definizione": "Una fotocopia... biologica",
+        "posizione": "0-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "ATTA",
+        "definizione": "Una matta... senza testa",
+        "posizione": "0-9",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "BOE",
+        "definizione": "Segnali nautici",
+        "posizione": "0-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "RN",
+        "definizione": "Bordi di raion",
+        "posizione": "0-11",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "FILAINDIANA",
+        "definizione": "É... per uno",
+        "posizione": "1-6",
+        "lettere": 11,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "NORM",
+        "definizione": "Normale (abbr.)",
+        "posizione": "2-5",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "TROIANO",
+        "definizione": "Lo era Ettore",
+        "posizione": "2-12",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "GENA",
+        "definizione": "L'Ultima ebbe tredici commensali",
+        "posizione": "3-4",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "OLMIO",
+        "definizione": "L'Ho del chimico",
+        "posizione": "3-11",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "ILLAMPU",
+        "definizione": "Massiccio vulcanico delle Ande",
+        "posizione": "4-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "PARK",
+        "definizione": "É di divertimento quello della luna",
+        "posizione": "4-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "EIN",
+        "definizione": "Uno... a Berlino",
+        "posizione": "4-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "BELLO",
+        "definizione": "Lo è ciò che piace",
+        "posizione": "5-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "TROO",
+        "definizione": "Il padre di Ilo, da cui prese nome Troia",
+        "posizione": "5-9",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "IIS",
+        "definizione": "Istituto Internazionale di Statistica (iniz.)",
+        "posizione": "6-2",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "ATTO",
+        "definizione": "Un gesto qualsiasi",
+        "posizione": "6-8",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "ERRATE",
+        "definizione": "Sbagliate",
+        "posizione": "7-5",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 32,
+        "parola": "ISSA",
+        "definizione": "Lo gridano più persone impegnate a sollevare qualcosa",
+        "posizione": "7-7",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "AEREA",
+        "definizione": "Nè marittima, nè terrestre",
+        "posizione": "8-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 36,
+        "parola": "NATIA",
+        "definizione": "La terra... di ciascuno",
+        "posizione": "8-10",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "CASA",
+        "definizione": "Si cerca attraverso le agenzie immobiliari",
+        "posizione": "9-3",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 40,
+        "parola": "EETA",
+        "definizione": "Il padre di Medea",
+        "posizione": "9-11",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 41,
+        "parola": "PET",
+        "definizione": "Sigla della tomografia a emissione di positroni",
+        "posizione": "10-2",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 42,
+        "parola": "SDN",
+        "definizione": "Sigla che precedette Onu",
+        "posizione": "10-9",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 43,
+        "parola": "NON",
+        "definizione": "Negazione palindroma",
+        "posizione": "10-12",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 44,
+        "parola": "ML",
+        "definizione": "Iniziali di Lopez, l' attore",
+        "posizione": "11-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 45,
+        "parola": "UA",
+        "definizione": "Vocali di truppa",
+        "posizione": "11-8",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
