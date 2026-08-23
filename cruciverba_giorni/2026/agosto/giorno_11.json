@@ -1,0 +1,410 @@
+{
+  "title": "Cruciverba a Schema Fisso #M5 - Schema 11x11 - Classico - Variante 1",
+  "size": "11x11",
+  "schema_usato": "M5",
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8 9 0",
+    "0 S P D # S P E C I A L",
+    "1 F K # S O R G O # N B",
+    "2 O # R U M O R # S # A",
+    "3 C R # F M P # E P I #",
+    "4 A I T # I P O P I O N",
+    "5 T C O R T # M A R T E",
+    "6 O C U L A R I # I T O",
+    "7 # O R S # I C S # I N",
+    "8 A # S # S C R U B # A",
+    "9 S W # Y U K O N # S T",
+    "0 M A R I L Y N # O N O"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "SPD",
+        "definizione": "Il partito di Schroeder sigla",
+        "posizione": "0-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "SPECIAL",
+        "definizione": "One come Mou",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "FK",
+        "definizione": "Le iniziali di Kafka",
+        "posizione": "1-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "SORGO",
+        "definizione": "Saggina",
+        "posizione": "1-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "NB",
+        "definizione": "Un'abbreviazione epistolare",
+        "posizione": "1-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "RUMOR",
+        "definizione": "Ex premier o voce incontrollata",
+        "posizione": "2-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "CR",
+        "definizione": "Rendono certa l'età",
+        "posizione": "3-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "FMP",
+        "definizione": "Il Piave librettista (iniz.)",
+        "posizione": "3-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "EPI",
+        "definizione": "Prefisso che vale sopra",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "AIT",
+        "definizione": "Alleanza Internazionale del Turismo",
+        "posizione": "4-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "IPOPION",
+        "definizione": "Raccolta di pus nella camera anteriore dell'occhio",
+        "posizione": "4-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "TCORT",
+        "definizione": "L'arte di Pavarotti",
+        "posizione": "5-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "MARTE",
+        "definizione": "Pianeta del sistema solare",
+        "posizione": "5-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "OCULARI",
+        "definizione": "I testimoni che hanno visto",
+        "posizione": "6-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "ITO",
+        "definizione": "Hirobumi, statista giapponese",
+        "posizione": "6-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "ORS",
+        "definizione": "Se è piccolo dona",
+        "posizione": "7-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "ICS",
+        "definizione": "Pareggio pronosticato",
+        "posizione": "7-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 33,
+        "parola": "IN",
+        "definizione": "Il cuore della Cina",
+        "posizione": "7-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "SCRUB",
+        "definizione": "Un massaggio ruvido",
+        "posizione": "8-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 36,
+        "parola": "SW",
+        "definizione": "Station Wagon",
+        "posizione": "9-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "YUKON",
+        "definizione": "Grande fiume dell'Alaska",
+        "posizione": "9-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "ST",
+        "definizione": "Raddoppiate in assetto",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 40,
+        "parola": "MARILYN",
+        "definizione": "La Monroe mito del cinema",
+        "posizione": "10-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 41,
+        "parola": "ONO",
+        "definizione": "Faceva coppia con Lennon",
+        "posizione": "10-8",
+        "lettere": 3,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "SFOCATO",
+        "definizione": "Tutt'altro che nitido",
+        "posizione": "0-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "PK",
+        "definizione": "Prima e terza in Pakistan",
+        "posizione": "0-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "SOMMITA",
+        "definizione": "Il punto culminante",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "PROPP",
+        "definizione": "Vladimir, studioso di fiabe e di funzioni letterarie.",
+        "posizione": "0-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "EGR",
+        "definizione": "Egregio corto",
+        "posizione": "0-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "CO",
+        "definizione": "Società americana (abbr.).",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "AN",
+        "definizione": "Ancora un po'",
+        "posizione": "0-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "LBA",
+        "definizione": "L'Alberti del Tempio Malatestiano (iniz.)",
+        "posizione": "0-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "SUF",
+        "definizione": "Il codice IATA di Lamezia Terme",
+        "posizione": "1-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "SPIRI",
+        "definizione": "Aliti... poetici",
+        "posizione": "2-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "RICCO",
+        "definizione": "Così è chi naviga nell'oro",
+        "posizione": "3-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "EPA",
+        "definizione": "É tutta ciccia",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "IOTTI",
+        "definizione": "La Nilde della politica.",
+        "posizione": "3-9",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "TOURS",
+        "definizione": "La città della Francia in cui si tennero diciannove Concili in circa mille anni",
+        "posizione": "4-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "OMICRON",
+        "definizione": "È prima del pi greco",
+        "posizione": "4-6",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "NEONATO",
+        "definizione": "Il protagonista del lieto evento",
+        "posizione": "4-10",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "RLS",
+        "definizione": "Robert Louis Stevenson",
+        "posizione": "5-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "RICKY",
+        "definizione": "Un Tognazzi dello schermo",
+        "posizione": "6-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 32,
+        "parola": "SUN",
+        "definizione": "Il nome in una famosa testata inglese",
+        "posizione": "7-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 34,
+        "parola": "ASM",
+        "definizione": "Azienda Servizi Municipalizzati",
+        "posizione": "8-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "SUL",
+        "definizione": "Sopra il",
+        "posizione": "8-4",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "WA",
+        "definizione": "Iniziali dell'attore e regista Allen",
+        "posizione": "9-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "YI",
+        "definizione": "Le prime lettere in Yiddish",
+        "posizione": "9-3",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "SN",
+        "definizione": "Consonanti d' asino",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
