@@ -1,0 +1,410 @@
+{
+  "title": "Cruciverba a Schema Fisso #M5 - Schema 11x11 - Classico - Variante 1",
+  "size": "11x11",
+  "schema_usato": "M5",
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8 9 0",
+    "0 E O O # B P C E C E I",
+    "1 X S # B L I T Z # P D",
+    "2 A # R U E D A # S # L",
+    "3 E M # G R U # F T A #",
+    "4 Q U M # I E L L A T A",
+    "5 U R A N O # R O S E S",
+    "6 O G G E T T I # I N S",
+    "7 # E R A # E D A # E E",
+    "8 V # O # E N A L C # D",
+    "9 D C # B R U T I # C I",
+    "0 S B R A G I A # A P O"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "EOO",
+        "definizione": "Orientale per il poeta",
+        "posizione": "0-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "BPCECEI",
+        "definizione": "Tipica bevanda spagnola",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "XS",
+        "definizione": "Una taglia piccolissima",
+        "posizione": "1-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "BLITZ",
+        "definizione": "Una rapida azione della PS",
+        "posizione": "1-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "PD",
+        "definizione": "Riunisce i fedeli del Nazareno (sigla)",
+        "posizione": "1-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "RUEDA",
+        "definizione": "Lope de drammaturgo spagnolo del '500",
+        "posizione": "2-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "EM",
+        "definizione": "Danno sempre inizio all'emendamento",
+        "posizione": "3-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "GRU",
+        "definizione": "Solleva pesanti carichi nei cantieri",
+        "posizione": "3-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "FTA",
+        "definizione": "Un dio di Radames",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "QUM",
+        "definizione": "Città dell'Iran",
+        "posizione": "4-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "IELLATA",
+        "definizione": "Perseguitata dal fato",
+        "posizione": "4-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "URANO",
+        "definizione": "Un pianeta gassoso",
+        "posizione": "5-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "ROSES",
+        "definizione": "Si facevano la guerra",
+        "posizione": "5-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "OGGETTI",
+        "definizione": "Le cose qualunque",
+        "posizione": "6-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "INS",
+        "definizione": "Insegnante abbreviato",
+        "posizione": "6-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "ERA",
+        "definizione": "Epoca",
+        "posizione": "7-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "EDA",
+        "definizione": "Nome di donna",
+        "posizione": "7-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 33,
+        "parola": "EE",
+        "definizione": "Sono uguali in esame",
+        "posizione": "7-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "ENALC",
+        "definizione": "Ente Nazionale Addestramento Lavoratori del Commercio (sigla).",
+        "posizione": "8-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 36,
+        "parola": "DC",
+        "definizione": "Era il partito di De Gasperi",
+        "posizione": "9-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "BRUTI",
+        "definizione": "Individui violenti e bestiali",
+        "posizione": "9-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "CI",
+        "definizione": "Un terzo di cinque",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 40,
+        "parola": "SBRAGIA",
+        "definizione": "Giancarlo del teatro",
+        "posizione": "10-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 41,
+        "parola": "APO",
+        "definizione": "Vulcano delle Filippine",
+        "posizione": "10-8",
+        "lettere": 3,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "EXAEQUO",
+        "definizione": "Genera... due vincitori",
+        "posizione": "0-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "OS",
+        "definizione": "II simbolo dell' osmio",
+        "posizione": "0-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "BLERIOT",
+        "definizione": "Louis, pioniere dell'aviazione",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "PIDUE",
+        "definizione": "La guidò Gelli",
+        "posizione": "0-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "CTA",
+        "definizione": "Codice Iata di Catania",
+        "posizione": "0-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "EZ",
+        "definizione": "Iniziali di Zapata",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "EP",
+        "definizione": "Dura meno di un LP",
+        "posizione": "0-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "IDL",
+        "definizione": "Istituto Drammatico Latino",
+        "posizione": "0-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "BUG",
+        "definizione": "Affluente della Vistola",
+        "posizione": "1-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "STASI",
+        "definizione": "Crisi d'affari",
+        "posizione": "2-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "MURGE",
+        "definizione": "Rilievo dell'Appennino pugliese",
+        "posizione": "3-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "FLO",
+        "definizione": "Il nome della compagna di Andy Capp",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "ATENE",
+        "definizione": "Un' antichissima capitale",
+        "posizione": "3-9",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "MAGRO",
+        "definizione": "Tutt'altro che in carne",
+        "posizione": "4-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "LRIDATA",
+        "definizione": "Tinta... d'arcobaleno",
+        "posizione": "4-6",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "ASSEDIO",
+        "definizione": "Lo subì a lungo Troia",
+        "posizione": "4-10",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "NEA",
+        "definizione": "Nuova classicamente",
+        "posizione": "5-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "TENUI",
+        "definizione": "Lievi, sottili",
+        "posizione": "6-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 32,
+        "parola": "ALI",
+        "definizione": "Le hanno variopinte le farfalle",
+        "posizione": "7-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 34,
+        "parola": "VDS",
+        "definizione": "De Sica regista (iniz.)",
+        "posizione": "8-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "ERG",
+        "definizione": "Deserto di dune a catena",
+        "posizione": "8-4",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "CB",
+        "definizione": "Cambiano gli indugi in incubi",
+        "posizione": "9-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "BA",
+        "definizione": "Ribadire senza... ridire",
+        "posizione": "9-3",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "CP",
+        "definizione": "Con l'oro in corpo",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
