@@ -1,0 +1,410 @@
+{
+  "title": "Cruciverba a Schema Fisso #M5 - Schema 11x11 - Classico - Variante 1",
+  "size": "11x11",
+  "schema_usato": "M5",
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8 9 0",
+    "0 O D I # C A P E L L O",
+    "1 M B # H A M A S # L U",
+    "2 I # S I M O N # P # R",
+    "3 C M # P E R # P R I #",
+    "4 I O S # R I P R E S A",
+    "5 D U O M O # R O M A N",
+    "6 I S T A N T E # I A N",
+    "7 # E T C # E C C # C E",
+    "8 M # O # B R I A N # S",
+    "9 E H # S E N S I # F S",
+    "0 D O M I N I O # I T A"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "ODI",
+        "definizione": "Elogi poetici",
+        "posizione": "0-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "CAPELLO",
+        "definizione": "Il Fabio allenatore di calcio",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "MB",
+        "definizione": "La Bellonci scrittrice (iniz.)",
+        "posizione": "1-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "HAMAS",
+        "definizione": "Si è congratulata con gli attentatori alla sinagoga di Gerusalemme",
+        "posizione": "1-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "LU",
+        "definizione": "Una mezza luce",
+        "posizione": "1-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "SIMON",
+        "definizione": "Il noto Boccanegra",
+        "posizione": "2-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "CM",
+        "definizione": "Le iniziali di Carlo Magno",
+        "posizione": "3-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "PER",
+        "definizione": "Indica una destinazione",
+        "posizione": "3-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "PRI",
+        "definizione": "Lo guidò Spadolini (sigla)",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "IOS",
+        "definizione": "Il sistema operativo della Apple per l'iPhone",
+        "posizione": "4-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "RIPRESA",
+        "definizione": "La seconda parte della partita di calcio",
+        "posizione": "4-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "DUOMO",
+        "definizione": "Cattedrale",
+        "posizione": "5-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "ROMAN",
+        "definizione": "Un Vlad musicista",
+        "posizione": "5-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "ISTANTE",
+        "definizione": "L'elemento minimo del tempo",
+        "posizione": "6-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "IAN",
+        "definizione": "Il grande Thorpe del nuoto",
+        "posizione": "6-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "ETC",
+        "definizione": "Et cetera in breve",
+        "posizione": "7-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "ECC",
+        "definizione": "Eccetera",
+        "posizione": "7-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 33,
+        "parola": "CE",
+        "definizione": "In testa a Cesare",
+        "posizione": "7-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "BRIAN",
+        "definizione": "Il De Palma fra i registi",
+        "posizione": "8-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 36,
+        "parola": "EH",
+        "definizione": "Ernest che ha scritto Fiesta (iniz.)",
+        "posizione": "9-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "SENSI",
+        "definizione": "Significati, percezioni",
+        "posizione": "9-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "FS",
+        "definizione": "Una sigla per i treni",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 40,
+        "parola": "DOMINIO",
+        "definizione": "Il suffisso del sito",
+        "posizione": "10-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 41,
+        "parola": "ITA",
+        "definizione": "Andata... poeticamente",
+        "posizione": "10-8",
+        "lettere": 3,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "OMICIDI",
+        "definizione": "I reati commessi dagli assassini",
+        "posizione": "0-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "DB",
+        "definizione": "Iniziali di Buzzati",
+        "posizione": "0-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "CAMERON",
+        "definizione": "Diaz dello spettacolo",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "AMORI",
+        "definizione": "Nascono nelle soap opera",
+        "posizione": "0-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "PAN",
+        "definizione": "Divinità con il flauto",
+        "posizione": "0-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "ES",
+        "definizione": "Ultime lettere di Dolores",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "LL",
+        "definizione": "Iniziali del Liga",
+        "posizione": "0-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "OUR",
+        "definizione": "Nostro in inglese",
+        "posizione": "0-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "HIP",
+        "definizione": "Precede l'hop",
+        "posizione": "1-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "PREMI",
+        "definizione": "Si assegnano a fine gara",
+        "posizione": "2-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "MOUSE",
+        "definizione": "Mickey __, alias Topolino",
+        "posizione": "3-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "PRO",
+        "definizione": "Si contrappongono ai contro",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "ISAAC",
+        "definizione": "L' Asimov scrittore",
+        "posizione": "3-9",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "SOTTO",
+        "definizione": "Il contrario di sopra",
+        "posizione": "4-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "PRECISO",
+        "definizione": "Lo è l'orologio che spacca il minuto",
+        "posizione": "4-6",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "ANNESSA",
+        "definizione": "Collegata, aggiunta",
+        "posizione": "4-10",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "MAC",
+        "definizione": "Il prefisso che identifica una serie di computer.",
+        "posizione": "5-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "TERNI",
+        "definizione": "Città umbra",
+        "posizione": "6-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 32,
+        "parola": "CAI",
+        "definizione": "Un... gemito del cane!",
+        "posizione": "7-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 34,
+        "parola": "MED",
+        "definizione": "Abbreviazione di medicina sui dizionari",
+        "posizione": "8-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "BEN",
+        "definizione": "Il Gazzara che recitava",
+        "posizione": "8-4",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "HO",
+        "definizione": "Chioccia, ma senza ciccia",
+        "posizione": "9-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "SI",
+        "definizione": "Una risposta gratificante",
+        "posizione": "9-3",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "FT",
+        "definizione": "Inizio e fine del flirt",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
