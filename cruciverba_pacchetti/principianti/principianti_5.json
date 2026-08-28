@@ -1,0 +1,378 @@
+{
+  "title": "Cruciverba a Schema Fisso #M5 - Schema 11x11 - Classico - Variante 1",
+  "size": "11x11",
+  "schema_usato": "M5",
+  "completo": false,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8 9 0",
+    "0 E S T # P A S S A T I",
+    "1 F U # P U N T A # L I",
+    "2 F # F A L S I # U # I",
+    "3 E T # G L I # U N A #",
+    "4 T O M # M A S S I M A",
+    "5 T R A M A # P A R I S",
+    "6 O R L A N D O # E C C",
+    "7 # E T C # U N I # I O",
+    "8 ? # A # C O S A ? # L",
+    "9 ? ? # S I M O N # R T",
+    "0 M O N I T O R # X I I"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "EST",
+        "definizione": "Il cardinale d'oriente",
+        "posizione": "0-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "PASSATI",
+        "definizione": "Trascorsi da tempo",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "FU",
+        "definizione": "Poco... furbo",
+        "posizione": "1-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "PUNTA",
+        "definizione": "Si rifà alla matita",
+        "posizione": "1-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "LI",
+        "definizione": "Esattamente in quel posto",
+        "posizione": "1-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "FALSI",
+        "definizione": "Li teme il gallerista",
+        "posizione": "2-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "ET",
+        "definizione": "Sono... pari in venti",
+        "posizione": "3-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "GLI",
+        "definizione": "Articolo per eschimesi",
+        "posizione": "3-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "UNA",
+        "definizione": "Va con l'altra",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "TOM",
+        "definizione": "In coppia con Jerry",
+        "posizione": "4-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "MASSIMA",
+        "definizione": "Principio morale",
+        "posizione": "4-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "TRAMA",
+        "definizione": "Il nocciolo del dramma",
+        "posizione": "5-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "PARIS",
+        "definizione": "La capitale... per i francesi",
+        "posizione": "5-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "ORLANDO",
+        "definizione": "Combatteva con la durlindana",
+        "posizione": "6-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "ECC",
+        "definizione": "Eccetera",
+        "posizione": "6-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "ETC",
+        "definizione": "Et cetera in breve",
+        "posizione": "7-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "UNI",
+        "definizione": "__Credit, grande banca",
+        "posizione": "7-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 33,
+        "parola": "IO",
+        "definizione": "Il soggetto che sono",
+        "posizione": "7-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "SIMON",
+        "definizione": "Il noto Boccanegra",
+        "posizione": "9-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "RT",
+        "definizione": "Le divide la S",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 40,
+        "parola": "MONITOR",
+        "definizione": "Lo controlla il regista televisivo",
+        "posizione": "10-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 41,
+        "parola": "XII",
+        "definizione": "La metà di XXIV",
+        "posizione": "10-8",
+        "lettere": 3,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "EFFETTO",
+        "definizione": "È la conseguenza di una causa",
+        "posizione": "0-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "SU",
+        "definizione": "Dove ci si tira dopo essere caduti",
+        "posizione": "0-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "PULLMAN",
+        "definizione": "Un veicolo con molti sedili",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "ANSIA",
+        "definizione": "È causa di timori",
+        "posizione": "0-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "STI",
+        "definizione": "Questi in modo breve",
+        "posizione": "0-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "SA",
+        "definizione": "Sigla dell'Arabia Saudita",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "TL",
+        "definizione": "TimeLine (abbr.)",
+        "posizione": "0-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "III",
+        "definizione": "La quarta parte di XII",
+        "posizione": "0-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "PAG",
+        "definizione": "Pagina (abbrev.)",
+        "posizione": "1-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "UNIRE",
+        "definizione": "Mettere assieme, congiungere",
+        "posizione": "2-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "TORRE",
+        "definizione": "Un edificio sulla scacchiera",
+        "posizione": "3-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "USA",
+        "definizione": "Vogliono entrare in guerra",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "AMICI",
+        "definizione": "Si invitano a cena",
+        "posizione": "3-9",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "MALTA",
+        "definizione": "Stato del Mediterraneo",
+        "posizione": "4-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "SPONSOR",
+        "definizione": "Si fa carico delle spese di una mostra",
+        "posizione": "4-6",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "ASCOLTI",
+        "definizione": "Li misura l'Auditel",
+        "posizione": "4-10",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "MAC",
+        "definizione": "Il prefisso che identifica una serie di computer.",
+        "posizione": "5-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "DUOMO",
+        "definizione": "Cattedrale",
+        "posizione": "6-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 32,
+        "parola": "IAN",
+        "definizione": "Il grande Thorpe del nuoto",
+        "posizione": "7-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "CIT",
+        "definizione": "Era una nota agenzia di viaggi",
+        "posizione": "8-4",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "SI",
+        "definizione": "Una risposta gratificante",
+        "posizione": "9-3",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "RI",
+        "definizione": "Safari alla fine",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
