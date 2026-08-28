@@ -1,0 +1,410 @@
+{
+  "title": "Cruciverba a Schema Fisso #M5 - Schema 11x11 - Classico - Variante 1",
+  "size": "11x11",
+  "schema_usato": "M5",
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8 9 0",
+    "0 P S I # R O S A R I O",
+    "1 O U # T I M E S # I D",
+    "2 R # B O M B A # S # I",
+    "3 S S # P O R # C E O #",
+    "4 C P U # S A T U R N O",
+    "5 H A M A S # R I V E R",
+    "6 E D I C O L A # E R I",
+    "7 # A L T # A P R # I E",
+    "8 T # E # C R A I G # N",
+    "9 A F # S O G N O # E T",
+    "0 M A R I N A I # A P E"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "PSI",
+        "definizione": "Fu dominato da Craxi (sigla)",
+        "posizione": "0-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "ROSARIO",
+        "definizione": "Chi lo recita dice Ave Maria e Padre Nostro",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "OU",
+        "definizione": "L'oppure parigino",
+        "posizione": "1-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "TIMES",
+        "definizione": "Esce ogni mattina nelle edicole di Londra",
+        "posizione": "1-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "ID",
+        "definizione": "Abbrevia il già detto",
+        "posizione": "1-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "BOMBA",
+        "definizione": "Un famoso Re di Napoli",
+        "posizione": "2-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "SS",
+        "definizione": "Iniziali d' una Sandrelli",
+        "posizione": "3-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "POR",
+        "definizione": "Un per spagnolo",
+        "posizione": "3-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "CEO",
+        "definizione": "L'AD in certe aziende",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "CPU",
+        "definizione": "Il... cuore del computer (sigla)",
+        "posizione": "4-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "SATURNO",
+        "definizione": "Sesto pianeta del Sistema Solare",
+        "posizione": "4-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "HAMAS",
+        "definizione": "Detiene il potere di una parte dello Stato di Palestina",
+        "posizione": "5-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "RIVER",
+        "definizione": "Il fiume negli stati Uniti e in Inghilterra",
+        "posizione": "5-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "EDICOLA",
+        "definizione": "È tappezzata... di titoli",
+        "posizione": "6-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "ERI",
+        "definizione": "Agenzia Spaziale Europea",
+        "posizione": "6-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "ALT",
+        "definizione": "Ordine di non proseguire",
+        "posizione": "7-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "APR",
+        "definizione": "Segue marzo sul calendario",
+        "posizione": "7-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 33,
+        "parola": "IE",
+        "definizione": "Siede dopo la prima",
+        "posizione": "7-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "CRAIG",
+        "definizione": "Mimmo attore del passato",
+        "posizione": "8-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 36,
+        "parola": "AF",
+        "definizione": "In mezzo ai contrafforti",
+        "posizione": "9-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "SOGNO",
+        "definizione": "Lo distrugge la realtà",
+        "posizione": "9-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "ET",
+        "definizione": "Sono... pari in venti",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 40,
+        "parola": "MARINAI",
+        "definizione": "Dormono in cuccetta",
+        "posizione": "10-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 41,
+        "parola": "APE",
+        "definizione": "Una vettura a tre ruote",
+        "posizione": "10-8",
+        "lettere": 3,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "PORSCHE",
+        "definizione": "Un'auto sportiva tedesca",
+        "posizione": "0-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "SU",
+        "definizione": "Dove ci si tira dopo essere caduti",
+        "posizione": "0-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "RIMOSSO",
+        "definizione": "Allontanato dalla carica, destituito",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "OMBRA",
+        "definizione": "Si allunga al tramonto",
+        "posizione": "0-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "SEA",
+        "definizione": "Il mare di Bristol",
+        "posizione": "0-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "AS",
+        "definizione": "Iniziali di Schwarzeneg, ger",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "II",
+        "definizione": "Addii finali",
+        "posizione": "0-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "ODI",
+        "definizione": "Elogi poetici",
+        "posizione": "0-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "TOP",
+        "definizione": "In inglese è il massimo",
+        "posizione": "1-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "SERVE",
+        "definizione": "Le domestiche di una volta",
+        "posizione": "2-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "SPADA",
+        "definizione": "L'arma di Porthos",
+        "posizione": "3-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "CUI",
+        "definizione": "César, compositore russo",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "ONERI",
+        "definizione": "Pesi anche morali",
+        "posizione": "3-9",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "UMILE",
+        "definizione": "Alieno da superbia",
+        "posizione": "4-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "TRAPANI",
+        "definizione": "La provincia che comprende le Isole Egadi",
+        "posizione": "4-6",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "ORIENTE",
+        "definizione": "L'Estremo include il Giappone",
+        "posizione": "4-10",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "ACT",
+        "definizione": "In mezzo al compactdisc",
+        "posizione": "5-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "LARGA",
+        "definizione": "Lo è la manica del liberale",
+        "posizione": "6-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 32,
+        "parola": "RIO",
+        "definizione": "Può andare in secca in estate",
+        "posizione": "7-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 34,
+        "parola": "TAM",
+        "definizione": "Se ripetuto suona...",
+        "posizione": "8-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "CON",
+        "definizione": "Unitamente",
+        "posizione": "8-4",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "FA",
+        "definizione": "Si dice dopo il numero di anni passati",
+        "posizione": "9-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "SI",
+        "definizione": "Una risposta gratificante",
+        "posizione": "9-3",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "EP",
+        "definizione": "Dura meno di un LP",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
