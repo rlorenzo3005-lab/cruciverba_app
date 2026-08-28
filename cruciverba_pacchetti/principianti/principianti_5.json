@@ -13,8 +13,8 @@
     "5 T R A M A # P A R I S",
     "6 O R L A N D O # E C C",
     "7 # E T C # U N I # I O",
-    "8 ? # A # C O S A ? # L",
-    "9 ? ? # S I M O N # R T",
+    "8 S # A # C O S A ? # L",
+    "9 A T # S I M O N # R T",
     "0 M O N I T O R # X I I"
   ],
   "clues": {
@@ -160,6 +160,14 @@
         "parola": "IO",
         "definizione": "Il soggetto che sono",
         "posizione": "7-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 36,
+        "parola": "AT",
+        "definizione": "Provincia piemontese delle Langhe (sigla)",
+        "posizione": "9-0",
         "lettere": 2,
         "pre_inserita": false
       },
@@ -350,11 +358,27 @@
         "pre_inserita": false
       },
       {
+        "numero": 34,
+        "parola": "SAM",
+        "definizione": "Famoso zio d'America",
+        "posizione": "8-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
         "numero": 35,
         "parola": "CIT",
         "definizione": "Era una nota agenzia di viaggi",
         "posizione": "8-4",
         "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "TO",
+        "definizione": "Provincia della prima capitale d'Italia (sigla)",
+        "posizione": "9-1",
+        "lettere": 2,
         "pre_inserita": false
       },
       {
