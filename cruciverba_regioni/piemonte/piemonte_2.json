@@ -1,0 +1,386 @@
+{
+  "title": "Cruciverba a Schema Fisso #M2 - Schema 11x11 - Classico - Variante 1",
+  "size": "11x11",
+  "schema_usato": "M2",
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8 9 0",
+    "0 P A T R I Z I # T C T",
+    "1 O T O O L E # N O A H",
+    "2 P A B S T # T E R S E",
+    "3 # R O B # C E C U B O",
+    "4 N # R I G E L # N A D",
+    "5 E Z # F I L E T # H O",
+    "6 V O L # A L G H E # R",
+    "7 E T O O # E A R T H #",
+    "8 G I R L S # T E N U E",
+    "9 A C C A # S T A I N O",
+    "0 L I A # G U I D A T O"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "PATRIZI",
+        "definizione": "Gli avversari dei plebei romani",
+        "posizione": "0-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "TCT",
+        "definizione": "Tutti Contro Tutti",
+        "posizione": "0-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "OTOOLE",
+        "definizione": "Il Peter che è stato Lawrence d'Arabia",
+        "posizione": "1-0",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "NOAH",
+        "definizione": "Yannick grande tennista e cantante",
+        "posizione": "1-7",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "PABST",
+        "definizione": "Un celebre regista austriaco",
+        "posizione": "2-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "TERSE",
+        "definizione": "Nitide e limpide",
+        "posizione": "2-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "ROB",
+        "definizione": "Il Reiner regista di Harry, ti presento Sally",
+        "posizione": "3-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "CECUBO",
+        "definizione": "Un vino laziale",
+        "posizione": "3-5",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "RIGEL",
+        "definizione": "Luminosa stella di Orione",
+        "posizione": "4-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "NAD",
+        "definizione": "Nucleo Anti Droga",
+        "posizione": "4-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "EZ",
+        "definizione": "Iniziali di Zapata",
+        "posizione": "5-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "FILET",
+        "definizione": "Lavoro all'uncinetto",
+        "posizione": "5-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "HO",
+        "definizione": "Chioccia, ma senza ciccia",
+        "posizione": "5-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "VOL",
+        "definizione": "Metà volume",
+        "posizione": "6-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "ALGHE",
+        "definizione": "Le onde le depositano in spiaggia",
+        "posizione": "6-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "ETOO",
+        "definizione": "L'attaccante Samuel che ha vinto il Triplete",
+        "posizione": "7-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "EARTH",
+        "definizione": "Il Google che mostra immagini satellitari.",
+        "posizione": "7-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 33,
+        "parola": "GIRLS",
+        "definizione": "Ballano nella rivista",
+        "posizione": "8-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 34,
+        "parola": "TENUE",
+        "definizione": "Esile, lieve",
+        "posizione": "8-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 36,
+        "parola": "ACCA",
+        "definizione": "Una lettera senza suono",
+        "posizione": "9-0",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "STAINO",
+        "definizione": "Noto vignettista italiano",
+        "posizione": "9-5",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "LIA",
+        "definizione": "Zoppelli attrice",
+        "posizione": "10-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "GUIDATO",
+        "definizione": "Accompagnato, instradato",
+        "posizione": "10-4",
+        "lettere": 7,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "POP",
+        "definizione": "Il corn che è mais tostato",
+        "posizione": "0-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "ATAR",
+        "definizione": "Il fuoco del mazdeismo",
+        "posizione": "0-1",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "TOBOR",
+        "definizione": "Film di Sholem del 1953",
+        "posizione": "0-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "ROSBIF",
+        "definizione": "Una carne magra",
+        "posizione": "0-3",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "ILT",
+        "definizione": "Industria Libraria Tipografica",
+        "posizione": "0-4",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "ZE",
+        "definizione": "Le ha uguali il mazziere",
+        "posizione": "0-5",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "TORUN",
+        "definizione": "Vi nacque Copernico",
+        "posizione": "0-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "CASBAH",
+        "definizione": "Quartieri arabi di città",
+        "posizione": "0-9",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "THEODOR",
+        "definizione": "Il filosofo Adorno",
+        "posizione": "0-10",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "NEC",
+        "definizione": "Né latino",
+        "posizione": "1-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "TELEGATTI",
+        "definizione": "Gli... Oscar della televisione italiana",
+        "posizione": "2-6",
+        "lettere": 9,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "CELLE",
+        "definizione": "Stanzette del convento",
+        "posizione": "3-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "NEVEGAL",
+        "definizione": "Monte nei pressi di Belluno",
+        "posizione": "4-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "GIA",
+        "definizione": "Si esclama per confermare",
+        "posizione": "4-4",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "ZOTICI",
+        "definizione": "Rozzi, grossolani",
+        "posizione": "5-1",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "THREAD",
+        "definizione": "Un argomento di conversazione in Internet",
+        "posizione": "5-7",
+        "lettere": 6,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "LORCA",
+        "definizione": "Un famoso Garcia",
+        "posizione": "6-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "ETNIA",
+        "definizione": "Razza umana",
+        "posizione": "6-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "OLA",
+        "definizione": "Imperioso richiamo",
+        "posizione": "7-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 32,
+        "parola": "HUNT",
+        "definizione": "Un James, veterano dell'automobilismo",
+        "posizione": "7-9",
+        "lettere": 4,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "EOO",
+        "definizione": "Orientale per il poeta",
+        "posizione": "8-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "SU",
+        "definizione": "Dove ci si tira dopo essere caduti",
+        "posizione": "9-5",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
