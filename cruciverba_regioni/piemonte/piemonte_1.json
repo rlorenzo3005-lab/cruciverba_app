@@ -1,0 +1,410 @@
+{
+  "title": "Cruciverba a Schema Fisso #M5 - Schema 11x11 - Classico - Variante 1",
+  "size": "11x11",
+  "schema_usato": "M5",
+  "completo": true,
+  "grid": [
+    "  0 1 2 3 4 5 6 7 8 9 0",
+    "0 I A N # C L I E N T E",
+    "1 M T # G H O S T # L U",
+    "2 P # P I E R O # S # R",
+    "3 I D # O L D # A P I #",
+    "4 E R A # S O G N A T O",
+    "5 G O L P E # R A D A R",
+    "6 O N O R A R E # A L L",
+    "7 # E N I # E G O # Y A",
+    "8 T # E # S T O R E # N",
+    "9 E A # P E T R A # C D",
+    "0 D I S P L A Y # M A O"
+  ],
+  "clues": {
+    "across": [
+      {
+        "numero": 1,
+        "parola": "IAN",
+        "definizione": "Il grande Thorpe del nuoto",
+        "posizione": "0-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "CLIENTE",
+        "definizione": "Abituale avventore",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 9,
+        "parola": "MT",
+        "definizione": "I limiti... di Mozart",
+        "posizione": "1-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "GHOST",
+        "definizione": "Il writer che non firma",
+        "posizione": "1-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 11,
+        "parola": "LU",
+        "definizione": "Una mezza luce",
+        "posizione": "1-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 12,
+        "parola": "PIERO",
+        "definizione": "Il della Francesca autore di capolavori nel XV secolo",
+        "posizione": "2-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 14,
+        "parola": "ID",
+        "definizione": "Abbrevia il già detto",
+        "posizione": "3-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 16,
+        "parola": "OLD",
+        "definizione": "L'economy tradizionale",
+        "posizione": "3-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "API",
+        "definizione": "Una divinità adorata nell'antico Egitto",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 19,
+        "parola": "ERA",
+        "definizione": "Epoca",
+        "posizione": "4-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 21,
+        "parola": "SOGNATO",
+        "definizione": "Vissuto dormendo",
+        "posizione": "4-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 24,
+        "parola": "GOLPE",
+        "definizione": "Un colpo di Stato",
+        "posizione": "5-0",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 26,
+        "parola": "RADAR",
+        "definizione": "È utile al pilota",
+        "posizione": "5-6",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 27,
+        "parola": "ONORARE",
+        "definizione": "Rendere ossequio",
+        "posizione": "6-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 29,
+        "parola": "ALL",
+        "definizione": "Tutto... a Dallas",
+        "posizione": "6-8",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 30,
+        "parola": "ENI",
+        "definizione": "L' Ente che controlla l' AGIP",
+        "posizione": "7-1",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 31,
+        "parola": "EGO",
+        "definizione": "Io detto in latino",
+        "posizione": "7-5",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 33,
+        "parola": "YA",
+        "definizione": "Le ultime lettere di Goya",
+        "posizione": "7-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "STORE",
+        "definizione": "Il negozio che può essere mega",
+        "posizione": "8-4",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 36,
+        "parola": "EA",
+        "definizione": "Vocali scritti in belga",
+        "posizione": "9-0",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "PETRA",
+        "definizione": "Antica città mediorientale",
+        "posizione": "9-3",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "CD",
+        "definizione": "Uno dei Dapporto (iniz.)",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 40,
+        "parola": "DISPLAY",
+        "definizione": "Il... video del cellulare",
+        "posizione": "10-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 41,
+        "parola": "MAO",
+        "definizione": "Il celebre Tse-Tung",
+        "posizione": "10-8",
+        "lettere": 3,
+        "pre_inserita": false
+      }
+    ],
+    "down": [
+      {
+        "numero": 1,
+        "parola": "IMPIEGO",
+        "definizione": "Lo cerca il disoccupato",
+        "posizione": "0-0",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 2,
+        "parola": "AT",
+        "definizione": "Al centro del teatro",
+        "posizione": "0-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 3,
+        "parola": "CHELSEA",
+        "definizione": "Lo ha allenato anche Ancelotti",
+        "posizione": "0-4",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 4,
+        "parola": "LORDO",
+        "definizione": "Netto più tara",
+        "posizione": "0-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 5,
+        "parola": "ISO",
+        "definizione": "Prefisso che vale uguale, simile",
+        "posizione": "0-6",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 6,
+        "parola": "ET",
+        "definizione": "Sono... pari in venti",
+        "posizione": "0-7",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 7,
+        "parola": "TL",
+        "definizione": "TimeLine (abbr.)",
+        "posizione": "0-9",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 8,
+        "parola": "EUR",
+        "definizione": "Noto quartiere residenziale romano",
+        "posizione": "0-10",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 10,
+        "parola": "GIO",
+        "definizione": "Il famoso architetto Ponti",
+        "posizione": "1-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 13,
+        "parola": "SPADA",
+        "definizione": "L'arma di Porthos",
+        "posizione": "2-8",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 15,
+        "parola": "DRONE",
+        "definizione": "Apparecchio con cui effettuare riprese dall'alto",
+        "posizione": "3-1",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 17,
+        "parola": "ANA",
+        "definizione": "Associazione con tanti alpini (sigla)",
+        "posizione": "3-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 18,
+        "parola": "ITALY",
+        "definizione": "Italia... dopo Made in",
+        "posizione": "3-9",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 20,
+        "parola": "ALONE",
+        "definizione": "Circonda la macchia",
+        "posizione": "4-2",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 22,
+        "parola": "GREGORY",
+        "definizione": "Il Peck di tanti film",
+        "posizione": "4-6",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 23,
+        "parola": "ORLANDO",
+        "definizione": "Combatteva con la durlindana",
+        "posizione": "4-10",
+        "lettere": 7,
+        "pre_inserita": false
+      },
+      {
+        "numero": 25,
+        "parola": "PRI",
+        "definizione": "Lo guidò Spadolini (sigla)",
+        "posizione": "5-3",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 28,
+        "parola": "RETTA",
+        "definizione": "Non bisogna darla ai pazzi",
+        "posizione": "6-5",
+        "lettere": 5,
+        "pre_inserita": false
+      },
+      {
+        "numero": 32,
+        "parola": "ORA",
+        "definizione": "Dura 60 minuti",
+        "posizione": "7-7",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 34,
+        "parola": "TED",
+        "definizione": "Edward... per gli amici",
+        "posizione": "8-0",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 35,
+        "parola": "SEL",
+        "definizione": "Sale...a Parigi",
+        "posizione": "8-4",
+        "lettere": 3,
+        "pre_inserita": false
+      },
+      {
+        "numero": 37,
+        "parola": "AI",
+        "definizione": "Finiscono nei ghiacciai",
+        "posizione": "9-1",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 38,
+        "parola": "PP",
+        "definizione": "P2",
+        "posizione": "9-3",
+        "lettere": 2,
+        "pre_inserita": false
+      },
+      {
+        "numero": 39,
+        "parola": "CA",
+        "definizione": "Così finisce domenica",
+        "posizione": "9-9",
+        "lettere": 2,
+        "pre_inserita": false
+      }
+    ]
+  }
+}
